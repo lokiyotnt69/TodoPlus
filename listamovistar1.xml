@@ -17,16 +17,16 @@
         </item>
 			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]MOVISTAR ESTRENOS HD  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.168.34:9514/live/habib1/habib1/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR ESTRENOS HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MOVISTAR COMEDIA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.168.34:9514/live/habib1/habib1/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR COMEDIA HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MOVISTAR CINE Ñ [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.168.34:9514/live/habib1/habib1/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR CINE Ñ</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
