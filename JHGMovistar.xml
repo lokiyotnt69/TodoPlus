@@ -18,8 +18,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_1_HD</link> 
         </item>
 		<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] ANTENA_3_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA_3_HD</link> 
+        </item>			
+		<item> 
+            <title>[COLOR blue] CUATRO_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO_HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR blue] TELECINCO_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO_HD</link> 
         </item>			
 		<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
