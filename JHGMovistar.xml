@@ -12,16 +12,16 @@
   		
 	
 			<item> 
-            <title>[COLOR blue] Bein Sport ES HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/123/123/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport ES HD</link> 
+            <title>[COLOR blue] ES_CANAL+_1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL+_1</link> 
         </item>
 			<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue]ES_CANAL_2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_2</link> 
         </item>
 		<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] ES_CANAL+_SERIES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL+_SERIES</link> 
         </item>
 			<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
