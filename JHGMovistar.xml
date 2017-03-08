@@ -11,41 +11,9 @@
   
   		
 	
-		<item> 
-            <title>[COLOR blue] CANAL HOLLYWOOD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
-        </item>
 			<item> 
-            <title>[COLOR blue] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue] Antena 3 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue] CALLE 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue] CANAL+ COMEDIA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2640.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ COMEDIA HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] NEOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2642.tshttp://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2641.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue] BEIN SPORT ES [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT ES</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] Bein Sport ES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/123/123/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport ES HD</link> 
         </item>
 			<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
