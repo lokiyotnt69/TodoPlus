@@ -10,45 +10,17 @@
   
   
   		
-		<item> 
-            <title>[COLOR blue] 0_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=0_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] LA_1_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_1_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] ANTENA_3_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA_3_HD</link> 
-        </item>			
-		<item> 
-            <title>[COLOR blue] CUATRO_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] TELECINCO_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO_HD</link> 
-        </item>			
-		<item> 
-            <title>[COLOR blue] LA_SEXTA_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_SEXTA_HD</link> 
+			<item> 
+            <title>[COLOR blue]  CANAL XTRA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL XTRA</link> 
         </item>
 			<item> 
-            <title>[COLOR blue] 24_HORAS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/5799.ts&amp;streamtype=TSDOWNLOADER&amp;name=24_HORAS</link> 
+            <title>[COLOR blue] DCINE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
         </item>
 			<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] CANAL SERIES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SERIES</link> 
         </item>
 		<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
