@@ -15,54 +15,6 @@
             <title>[COLOR yellow] Motogp [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motogp</link> 
         </item>			
-		<item> 
-            <title>[COLOR yellow] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Nova [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] GOL TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Andalucia-TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia-TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ANTENA-3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA-3</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TELECINCO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LA-SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA-SEXTA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
