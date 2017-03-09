@@ -9,21 +9,71 @@
 	
   
   
-  		
-	
 			<item> 
-            <title>[COLOR blue] ES_CANAL+_1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL+_1</link> 
+            <title>[COLOR blue] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/10008.ts&amp;streamtype=TSDOWNLOADER&amp;name=T5</link> 
         </item>
 			<item> 
-            <title>[COLOR blue]ES_CANAL_2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_2</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] ES_CANAL+_SERIES [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL+_SERIES</link> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+				<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+				<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+				<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR blue]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+				<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
