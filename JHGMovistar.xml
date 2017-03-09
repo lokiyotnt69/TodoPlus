@@ -10,11 +10,7 @@
 		<item> 
             <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Motogp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motogp</link> 
-        </item>			
+        </item>					
 		<item> 
             <title>[COLOR yellow] TNT [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://23.237.22.13:8000/live/mariocs/mariocs/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
