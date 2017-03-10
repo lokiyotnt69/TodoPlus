@@ -69,12 +69,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3646.ts&amp;streamtype=TSDOWNLOADER&amp;name= TNT</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Toros Tv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros Tv</link> 
         </item>
 			<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Barca TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
