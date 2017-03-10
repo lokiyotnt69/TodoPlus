@@ -16,33 +16,32 @@
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.32.148:9300/live/atikmeriem/SKYPE_CN_X40/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motogp</link> 
         </item>			
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  TVE LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name= TVE LA 1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Antena 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
+            <title>[COLOR yellow] Cuatro [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
+        </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] la sexta [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=la sexta</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] SYFY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
