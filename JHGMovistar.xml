@@ -35,16 +35,56 @@
 		<item> 
             <title>[COLOR yellow] la sexta [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=la sexta</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] SYFY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item>       
+		<item> 
+            <title>[COLOR yellow] FOX HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3641.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow] Movistar Accion [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Accion</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+            <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  Movistar Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3635.ts&amp;streamtype=TSDOWNLOADER&amp;name= Movistar Xtra</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] Movistar Series [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3636.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3646.ts&amp;streamtype=TSDOWNLOADER&amp;name= TNT</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>		
