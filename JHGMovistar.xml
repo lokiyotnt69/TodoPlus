@@ -9,70 +9,180 @@
 	 
 	 
 		
-		<item> 
-            <title>[COLOR yellow] SERIES_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ACCION_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACCION_HD</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] XTRA_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRA_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] SERIES_XTRA_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES_XTRA_HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] FOX_LIFE_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_LIFE_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TCM_HD_es [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM_HD_es</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] NAT_GEO_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_HD</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] AXN_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] #0_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0_HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] CANAL_SUR_ANDALUCIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_SUR_ANDALUCIA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MTV_ESPAÑA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_ESPAÑA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] HISTORIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] C+_DCINE_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1592.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_DCINE_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] SYFY_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY_HD_es</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] DISNEY_JUNIOR_es [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_JUNIOR_es</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] COMEDIA_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/fast/fast/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIA_HD</link> 
-        </item>
+		 <streamingInfos>
+ 
+          <item> 
+            <title>BEIN SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+        </item> 
+          <item> 
+            <title>XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRA</link> 
+        </item> 
+          <item> 
+            <title>TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS</link> 
+        </item> 
+          <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES XTRA</link> 
+        </item> 
+          <item> 
+            <title>SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO</link> 
+        </item> 
+          <item> 
+            <title>MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
+        </item> 
+          <item> 
+            <title>MOTOGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP</link> 
+        </item> 
+          <item> 
+            <title>LA LIGA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV</link> 
+        </item> 
+          <item> 
+            <title>LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+        </item> 
+          <item> 
+            <title>IBERALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF</link> 
+        </item> 
+          <item> 
+            <title>GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT LIGA</link> 
+        </item> 
+          <item> 
+            <title>BARÇA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARÇA TV</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUTBOL</link> 
+        </item> 
+          <item> 
+            <title>F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JR</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DEPORTE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTE 2</link> 
+        </item> 
+          <item> 
+            <title>DEPORTE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTE 1</link> 
+        </item> 
+          <item> 
+            <title>DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
+        </item> 
+          <item> 
+            <title>CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item> 
+          <item> 
+            <title>COSMO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO</link> 
+        </item> 
+          <item> 
+            <title>COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACCION</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item>   
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
