@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+  <streamingInfos>
+
+
+
+
+
+
+
+<item> 
+            <title>LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>LA 1 ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 ADSL</link> 
+        </item> 
+          <item> 
+            <title>LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item> 
+          <item> 
+            <title>LA 2 ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2 ADSL</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3 ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 ADSL</link> 
+        </item> 
+          <item> 
+            <title>CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>CUATRO ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO ADSL</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO ADSL</link> 
+        </item> 
+          <item> 
+            <title>LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
+        </item> 
+          <item> 
+            <title>ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
+        </item> 
+          <item> 
+            <title>NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item> 
+          <item> 
+            <title>MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
+        </item> 
+          <item> 
+            <title>DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+        </item> 
+          <item> 
+            <title>ATRESERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATRESERIES HD</link> 
+        </item> 
+          <item> 
+            <title>NEOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX HD</link> 
+        </item> 
+          <item> 
+            <title>TEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEN</link> 
+        </item> 
+          <item> 
+            <title>--------CINE------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------CINE------</link> 
+        </item> 
+          <item> 
+            <title># 0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0 HD</link> 
+        </item> 
+          <item> 
+            <title>M. ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>M. ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>M. DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>M. COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>M. CINE Ñ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. CINE Ñ</link> 
+        </item> 
+          <item> 
+            <title>CANAL HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>DARK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
+        </item> 
+          <item> 
+            <title>XTRM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+        </item> 
+          <item> 
+            <title>SOMOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
+        </item> 
+          <item> 
+            <title>LIFE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIFE TV</link> 
+        </item> 
+          <item> 
+            <title>SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
+        </item> 
+          <item> 
+            <title>PARAMOUNT CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>COSMOPOLITAN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMOPOLITAN HD</link> 
+        </item> 
+          <item> 
+            <title>--------SERIES--------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------SERIES--------</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>SYFY ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY ADSL</link> 
+        </item> 
+          <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item> 
+          <item> 
+            <title>TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 
+          <item> 
+            <title>FOX ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ADSL</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13 ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 ADSL</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>M. SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>------NOTICIAS------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=------NOTICIAS------</link> 
+        </item> 
+          <item> 
+            <title>24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
+        </item> 
+          <item> 
+            <title>24 HORAS ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS ADSL</link> 
+        </item> 
+          <item> 
+            <title>RT NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>RT NOTICIAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS HD</link> 
+        </item> 
+          <item> 
+            <title>INFORMACION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFORMACION TV</link> 
+        </item> 
+          <item> 
+            <title>DW NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DW NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>--------AUTONOMICAS---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------AUTONOMICAS---------</link> 
+        </item> 
+          <item> 
+            <title>NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=NON STOP PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>TV CANARIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CANARIA</link> 
+        </item> 
+          <item> 
+            <title>LANCELOT TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=LANCELOT TV</link> 
+        </item> 
+          <item> 
+            <title>CANAL SUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+        </item> 
+          <item> 
+            <title>ONDALUZ SEVILLA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=ONDALUZ SEVILLA</link> 
+        </item> 
+          <item> 
+            <title>8 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=8 TV</link> 
+        </item> 
+          <item> 
+            <title>TELEMADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEMADRID</link> 
+        </item> 
+          <item> 
+            <title>LA OTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA OTRA</link> 
+        </item> 
+          <item> 
+            <title>TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
+        </item> 
+          <item> 
+            <title>3/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=3/24</link> 
+        </item> 
+          <item> 
+            <title>IB3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=IB3</link> 
+        </item> 
+          <item> 
+            <title>RIVERA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=RIVERA TV</link> 
+        </item> 
+          <item> 
+            <title>MOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOLA TV</link> 
+        </item> 
+          <item> 
+            <title>LUX MALLORCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUX MALLORCA</link> 
+        </item> 
+          <item> 
+            <title>CANAL EXTREMADURA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL EXTREMADURA</link> 
+        </item> 
+          <item> 
+            <title>7 HD MURCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=7 HD MURCIA</link> 
+        </item> 
+          <item> 
+            <title>ARAGON TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARAGON TV</link> 
+        </item> 
+          <item> 
+            <title>HTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=HTV</link> 
+        </item> 
+          <item> 
+            <title>CYL7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=CYL7</link> 
+        </item> 
+          <item> 
+            <title>--------DEPORTES------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------DEPORTES------</link> 
+        </item> 
+          <item> 
+            <title>LA LIGA TV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV BAR HD</link> 
+        </item> 
+          <item> 
+            <title>LA LIGA TV BAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV BAR</link> 
+        </item> 
+          <item> 
+            <title>BEIN LA LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+        </item> 
+          <item> 
+            <title>IPTV DEPORTES 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DEPORTES 1</link> 
+        </item> 
+          <item> 
+            <title>IPTV DEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DEPORTES 2</link> 
+        </item> 
+          <item> 
+            <title>IPTV DEPORTES 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DEPORTES 3</link> 
+        </item> 
+          <item> 
+            <title>LA LIGA 123 SOLO PARTIDOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA 123 SOLO PARTIDOS</link> 
+        </item> 
+          <item> 
+            <title>M.PARTIDAZO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.PARTIDAZO HD</link> 
+        </item> 
+          <item> 
+            <title>A1 SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=A1 SPORT</link> 
+        </item> 
+          <item> 
+            <title>M. FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FUTBOL</link> 
+        </item> 
+          <item> 
+            <title>M. DEPORTES 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 1 HD</link> 
+        </item> 
+          <item> 
+            <title>M. DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 2 HD</link> 
+        </item> 
+          <item> 
+            <title>M. ESPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESPORTS</link> 
+        </item> 
+          <item> 
+            <title>GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+        </item> 
+          <item> 
+            <title>M. MOTO GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP</link> 
+        </item> 
+          <item> 
+            <title>M. MOTO GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP HD</link> 
+        </item> 
+          <item> 
+            <title>FORMULA 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMULA 1 SD</link> 
+        </item> 
+          <item> 
+            <title>M. FORMULA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FORMULA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>M. GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. GOLF</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT1</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>TELEDEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTES</link> 
+        </item> 
+          <item> 
+            <title>TYC SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=TYC SPORTS</link> 
+        </item> 
+          <item> 
+            <title>RED BULL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RED BULL TV</link> 
+        </item> 
+          <item> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
+        </item> 
+          <item> 
+            <title>-------INFANTIL----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------INFANTIL----------</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>ANIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME</link> 
+        </item> 
+          <item> 
+            <title>NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+        </item> 
+          <item> 
+            <title>DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>CLAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN</link> 
+        </item> 
+          <item> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item> 
+          <item> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>-------DOCUMENTALES-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------DOCUMENTALES-------</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD HD</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
+        </item> 
+          <item> 
+            <title>CANAL ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ODISEA</link> 
+        </item> 
+          <item> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>CRIMEN &amp; INVESTIGACION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN &amp; INVESTIGACION</link> 
+        </item> 
+          <item> 
+            <title>IBERALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA HD</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
+        </item> 
+          <item> 
+            <title>CANAL DE CASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE CASA</link> 
+        </item> 
+          <item> 
+            <title>VIAJAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL TV HD</link> 
+        </item> 
+          <item> 
+            <title>-------MUSICA-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------MUSICA-------</link> 
+        </item> 
+          <item> 
+            <title>MTV ESPAÑA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPAÑA</link> 
+        </item> 
+          <item> 
+            <title>SOL MUSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOL MUSICA</link> 
+        </item> 
+          <item> 
+            <title>DELUXE MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=DELUXE MUSIC</link> 
+        </item> 
+          <item> 
+            <title>VIRGIN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV</link> 
+        </item> 
+          <item> 
+            <title>CITY MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY MUSIC</link> 
+        </item> 
+          <item> 
+            <title>STARS TV MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=STARS TV MUSIC</link> 
+        </item> 
+          <item> 
+            <title>CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY</link> 
+        </item> 
+          <item> 
+            <title>M2O TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=M2O TV</link> 
+        </item> 
+          <item> 
+            <title>HIT TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=HIT TV</link> 
+        </item> 
+          <item> 
+            <title>FORMUSIC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMUSIC TV</link> 
+        </item> 
+          <item> 
+            <title>--------TAQUILLAS-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------TAQUILLAS-------</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 1</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 2</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 3</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 4</link> 
+        </item> 
+          <item> 
+            <title>TAQUIILA 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUIILA 5</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 6</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 7</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 8</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 9</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/alex/alex/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 10</link> 
+        </item> 
