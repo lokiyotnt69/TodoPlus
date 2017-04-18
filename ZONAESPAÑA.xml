@@ -4,30 +4,81 @@
 
 
 
+
 <item>
-<title>-[COLOR  red]  TV 2.2 [/COLOR]</title>
+<title>[COLOR white]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR white]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
 
 
 
 <item>
-<title>-[COLOR  yellow] TODO PLUS [/COLOR]</title>
+<title>[COLOR plum] MUNDO [/COLOR][COLOR white] DEPORTE [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</thumbnail>
+<fanart>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/SOLODEPORTE.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR  red] LISTA ESPAÑA 2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
+<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Sportdevil.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>[COLOR white] Tv + 2.2  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
+
+
+ 
+<item>
+<title>[COLOR skyblue] TODOPLUS (OFF) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
+<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/todoplus.m3u</externallink>	
 </item>
 
 
 
+ 
 <item>
-<title>-[COLOR  red] Canales variados [/COLOR]</title>
+<title>-[COLOR green] Canales Variados (ESPAÑA y LAtinos)(EN REFORMAS) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/canalesvariados.m3u</externallink>	
+<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
+<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Canalesvariados.xml</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR gold]  TV + 2.1 (En Reformas) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Movistar33.M3U</externallink>	
 </item>
