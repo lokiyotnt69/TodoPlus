@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHG</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR lawngreen]JHG[COLOR white]ARENAVISION 1[COLOR red]    Arenavision [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHG</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR lawngreen]JHG[COLOR white]ARENAVISION 2[COLOR red] ARENAVision [/B][/COLOR]</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHG</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av3</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
+<title>[B][COLOR lawngreen]JHG[COLOR white]ARENAVISION 3[COLOR red]  Arenavision [/B][/COLOR]</title>
+</item>
