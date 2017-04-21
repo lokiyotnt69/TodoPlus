@@ -109,7 +109,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white] AV 8[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 8[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -137,7 +137,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]+ AV10[COLOR red]   [JHGMASTER][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]+ AV10[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -206,7 +206,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white] AV 15[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 15[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
@@ -234,7 +234,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 17[COLOR red]   [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 17[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -290,7 +290,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 21[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 21[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
 </item>
 
 
@@ -304,12 +304,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 22[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 22[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -318,12 +318,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 23[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 23[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -332,7 +332,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 24[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 24[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -346,7 +346,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 25[COLOR red]   [PLEXUS JHG Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 25[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -360,7 +360,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 26[COLOR red]  [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 26[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
@@ -374,7 +374,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 27[COLOR red]   [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 27[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -388,7 +388,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 28[COLOR red]   [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 28[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -402,7 +402,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 29[COLOR red]  [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 29[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
@@ -416,5 +416,5 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 30[COLOR red]   [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 30[COLOR red]   [/B][/COLOR]</title>
 </item>
