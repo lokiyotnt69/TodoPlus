@@ -58,7 +58,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -81,12 +81,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]  ARENAVISION 6[COLOR red] [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]   AV 6[COLOR red] [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -95,12 +95,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 7[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 7[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -109,12 +109,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 8[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 8[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -123,12 +123,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 9[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 9[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= (JHGMASTER)</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -137,12 +137,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 10[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]+ AV10[COLOR red]   [JHGMASTER][/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -150,13 +150,12 @@
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 11[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>[/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -165,12 +164,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 12[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 12[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -179,12 +178,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 13[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 13[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -193,12 +192,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 14[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 14[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -207,12 +206,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 15[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 15[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -221,12 +220,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 16[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG [COLOR white] AV 16[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -235,12 +234,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 17[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 17[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -249,12 +248,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 18[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 18[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -263,12 +262,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 19[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 19[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -277,12 +276,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 20[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] ARENAVISION 20[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -296,7 +295,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -338,7 +337,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -352,7 +351,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -361,12 +360,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 26[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 26[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -380,7 +379,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -394,7 +393,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -408,7 +407,7 @@
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= </link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
