@@ -12,7 +12,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 1[COLOR red]    Arenavision [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 1[COLOR red]    [/B][/COLOR]</title>
 </item>
 
 
@@ -26,7 +26,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 2[COLOR red] ARENAVision [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]  AV 2[COLOR red]  [/B][/COLOR]</title>
 </item>
 
 
@@ -40,11 +40,11 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 3[COLOR red]  Arenavision [/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]  AV 3[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(JHGMASTER)</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -53,7 +53,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 4[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG [COLOR white] AV 4[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
@@ -67,12 +67,12 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 5[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white] AV 5[COLOR red]   [/B][/COLOR]</title>
 </item>
 
 
 <item>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=(by Martunis+Acestreams)</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name= JHGMASTER</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
@@ -81,7 +81,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/ZuwELpP.png</thumbnail>
-<title>[B][COLOR yellow]JHG[COLOR white]ARENAVISION 6[COLOR red]   [PLEXUS + Acestream][/B][/COLOR]</title>
+<title>[B][COLOR yellow]JHG[COLOR white]  ARENAVISION 6[COLOR red] [/B][/COLOR]</title>
 </item>
 
 
