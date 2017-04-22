@@ -49,31 +49,31 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO </link> 
         </item> 
           <item> 
-            <title></title> 
+            <title>[COLOR red] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
         </item> 
           <item> 
-            <title></title> 
+            <title>[COLOR red] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
         </item> 
           <item> 
-            <title>/title> 
+            <title>[COLOR red] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
+            <title> [COLOR red] MEGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/838.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+            <title>[COLOR red] DIVINITY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
         </item> 
           <item> 
-            <title></title> 
+            <title>[COLOR red] FDF [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
         </item> 
           <item> 
-            <title></title> 
+            <title>[COLOR red]A3 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ATRESERIES HD</link> 
         </item> 
           <item> 
@@ -82,8 +82,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX HD</link> 
         </item> 
           <item> 
-            <title>TEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TEN</link> 
+            <title>[COLOR red] TEN[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/mariano/mariano/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEN</link> 
         </item> 
           <item> 
             <title>--------CINE------</title> 
