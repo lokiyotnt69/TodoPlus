@@ -13,10 +13,7 @@
             <title>[COLOR red] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
-
-
-
-<item> 
+        <item> 
             <title>[COLOR red] LA 1 HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
         </item> 
@@ -28,11 +25,7 @@
             <title>[COLOR red] Antena 3[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
         </item> 
-          <item> 
-            <title>[COLOR red] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 ADSL</link> 
-        </item> 
-          <item> 
+        <item> 
             <title>[COLOR red] [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/xxx/xxx/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
         </item> 
@@ -87,15 +80,15 @@
         </item> 
           <item> 
             <title>--------CINE------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=://...:////71.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------CINE------</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=--------CINE------</link> 
         </item> 
           <item> 
             <title># 0 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=://...:////10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=# 0 HD</link> 
         </item> 
           <item> 
             <title>M. ESTRENOS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=://...:////35.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
         </item> 
           <item> 
             <title>M. ACCION HD</title> 

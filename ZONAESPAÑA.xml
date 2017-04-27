@@ -26,6 +26,16 @@
 
 
 <item>
+<title>[COLOR gold] TV España (Nuevo) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://st-listas.20minutos.es/images/2012-08/340955/list_640px.jpg?1346108164</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2012-08/340955/list_640px.jpg?1346108164</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Server1.xml</externallink>	
+</item>
+
+
+
+<item>
 <title>[COLOR plum] MUNDO [/COLOR][COLOR white] DEPORTE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</thumbnail>
@@ -46,8 +56,9 @@
 
 
 
+
 <item>
-<title>[COLOR white] Tv + 2.2  [/COLOR]</title>
+<title>[COLOR white] Tv 2.2  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
@@ -55,20 +66,21 @@
 </item>
 
 
+
  
 <item>
-<title>[COLOR skyblue] TODOPLUS (OFF) [/COLOR]</title>
+<title>[COLOR red] Listas  [/COLOR][COLOR gold] Paises[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/todoplus.m3u</externallink>	
+<thumbnail>http://dondeycuanto.com/wp-content/uploads/2016/08/cuantos-paises-hay-en-el-mundo.jpg</thumbnail>
+<fanart>http://dondeycuanto.com/wp-content/uploads/2016/08/cuantos-paises-hay-en-el-mundo.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
 </item>
 
 
 
  
 <item>
-<title>-[COLOR green] Canales Variados (ESPAÑA y LAtinos)(EN REFORMAS) [/COLOR]</title>
+<title>-[COLOR green] Canales Variados (**)(EN REFORMAS) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
 <fanart>https://k14.kn3.net/18FC515B3.png</fanart>
@@ -76,10 +88,3 @@
 </item>
 
 
-<item>
-<title>-[COLOR gold]  TV + 2.1 (En Reformas) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Movistar33.M3U</externallink>	
-</item>
