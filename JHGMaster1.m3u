@@ -132,3 +132,609 @@ http://185.53.163.92:8888/play/a013
 http://185.53.163.92:8888/play/a00n
 #EXTINF:-1, CANAL ODISEA
 http://185.53.163.92:8888/play/a010
+
+#EXTINF:-1,==========Spain==========
+http://worldcs.info:8080/live/xEYFpiu0cP/vOKnCkm7Yc/7231.m3u8
+
+#EXTINF:-1,A&E HD
+http://live.tvplayerlatino.com/usuarios/src1/AEHD/mundial/playlist.m3u8
+#EXTINF:-1,AMC
+http://live.tvplayerlatino.com/usuarios/src1/AMC/mundial/playlist.m3u8
+#EXTINF:-1,Anime 24H
+http://live.tvplayerlatino.com/usuarios/src4/Anime24H/mundial/playlist.m3u8
+#EXTINF:-1,AXN
+http://live.tvplayerlatino.com/usuarios/src1/AXN/mundial/playlist.m3u8
+#EXTINF:-1,Az Clic
+http://live.tvplayerlatino.com/usuarios/src1/AzClic/mundial/playlist.m3u8
+#EXTINF:-1,Az CorazÃ³n
+http://live.tvplayerlatino.com/usuarios/src1/AzCorazon/mundial/playlist.m3u8
+#EXTINF:-1,Az Mundo
+http://live.tvplayerlatino.com/usuarios/src1/AzMundo/mundial/playlist.m3u8
+#EXTINF:-1,Caracol
+http://live.tvplayerlatino.com/usuarios/src5/Caracol/mundial/playlist.m3u8
+#EXTINF:-1,Distrito Comedia
+http://live.tvplayerlatino.com/usuarios/src1/DistritoComedia/mundial/playlist.m3u8
+#EXTINF:-1,Dragon Ball Z 24/7
+http://live.tvplayerlatino.com/usuarios/src5/DragonBallZ/mundial/playlist.m3u8
+#EXTINF:-1,E!
+http://live.tvplayerlatino.com/usuarios/src1/EEntertainment/mundial/playlist.m3u8
+#EXTINF:-1,El Chavo del 8 24/7
+http://live.tvplayerlatino.com/usuarios/src5/ElChavoDel8/mundial/playlist.m3u8
+#EXTINF:-1,El Gourmet
+http://live.tvplayerlatino.com/usuarios/src1/ElGourmet/mundial/playlist.m3u8
+#EXTINF:-1,Fox
+http://live.tvplayerlatino.com/usuarios/src1/Fox/mundial/playlist.m3u8
+#EXTINF:-1,Fox 1
+http://live.tvplayerlatino.com/usuarios/src5/Fox1/mundial/playlist.m3u8
+#EXTINF:-1,Fox 1 HD
+http://live.tvplayerlatino.com/usuarios/src1/Fox1HD/mundial/playlist.m3u8
+#EXTINF:-1,Fox Life
+http://live.tvplayerlatino.com/usuarios/src1/FoxLife/mundial/playlist.m3u8
+#EXTINF:-1,FX
+http://live.tvplayerlatino.com/usuarios/src1/FX/mundial/playlist.m3u8
+#EXTINF:-1,Garage TV
+http://live.tvplayerlatino.com/usuarios/src1/GarageTV/mundial/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://live.tvplayerlatino.com/usuarios/src1/Lifetime/mundial/playlist.m3u8
+#EXTINF:-1,Los Simpson 24/7
+http://live.tvplayerlatino.com/usuarios/src5/LosSimpson/mundial/playlist.m3u8
+#EXTINF:-1,Miami TV
+http://live.tvplayerlatino.com/usuarios/src4/MiamiTV/mundial/playlist.m3u8
+#EXTINF:-1,Multimedios Plus
+http://live.tvplayerlatino.com/usuarios/src4/MultimediosPlus/mundial/playlist.m3u8
+#EXTINF:-1,Mundo Fox
+http://live.tvplayerlatino.com/usuarios/src5/MundoFox/mundial/playlist.m3u8
+#EXTINF:-1,MundoMax
+http://live.tvplayerlatino.com/usuarios/src5/MundoMax/mundial/playlist.m3u8
+#EXTINF:-1,RCN
+http://live.tvplayerlatino.com/usuarios/src5/RCN/mundial/playlist.m3u8
+#EXTINF:-1,RCN Novelas
+http://live.tvplayerlatino.com/usuarios/src2/RCNNovelas/mundial/playlist.m3u8
+#EXTINF:-1,Sony HD
+http://live.tvplayerlatino.com/usuarios/src1/SonyHD/mundial/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://live.tvplayerlatino.com/usuarios/src4/Telemundo/mundial/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://live.tvplayerlatino.com/usuarios/src5/Telemundo2/mundial/playlist.m3u8
+#EXTINF:-1,Telexitos
+http://live.tvplayerlatino.com/usuarios/src4/Telexitos/mundial/playlist.m3u8
+#EXTINF:-1,TLC
+http://live.tvplayerlatino.com/usuarios/src1/TLC/mundial/playlist.m3u8
+#EXTINF:-1,Tlnovelas
+http://live.tvplayerlatino.com/usuarios/src1/Tlnovelas/mundial/playlist.m3u8
+#EXTINF:-1,TNT Series
+http://live.tvplayerlatino.com/usuarios/src1/TNTSeries/mundial/playlist.m3u8
+#EXTINF:-1,TruTV
+http://live.tvplayerlatino.com/usuarios/src1/TruTV/mundial/playlist.m3u8
+#EXTINF:-1,Unicable
+http://live.tvplayerlatino.com/usuarios/src1/Unicable/mundial/playlist.m3u8
+#EXTINF:-1,Univision
+http://live.tvplayerlatino.com/usuarios/src5/Univision/mundial/playlist.m3u8
+#EXTINF:-1,Univision Los Angeles
+http://live.tvplayerlatino.com/usuarios/src4/UnivisionLA/mundial/playlist.m3u8
+#EXTINF:-1,Warner Channel HD
+http://live.tvplayerlatino.com/usuarios/src1/WarnerChannelHD/mundial/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://live.tvplayerlatino.com/usuarios/src1/Boomerang/mundial/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://live.tvplayerlatino.com/usuarios/src1/CartoonNetwork/mundial/playlist.m3u8
+#EXTINF:-1,CBeebies
+http://live.tvplayerlatino.com/usuarios/src1/CBeebies/mundial/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryKids/mundial/playlist.m3u8
+#EXTINF:-1,Disney Channel
+http://live.tvplayerlatino.com/usuarios/src1/DisneyChannel/mundial/playlist.m3u8
+#EXTINF:-1,Disney Junior
+http://live.tvplayerlatino.com/usuarios/src1/DisneyJunior/mundial/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://live.tvplayerlatino.com/usuarios/src1/DisneyXD/mundial/playlist.m3u8
+#EXTINF:-1,Nick HD
+http://live.tvplayerlatino.com/usuarios/src1/NickHD/mundial/playlist.m3u8
+#EXTINF:-1,Nick JR
+http://live.tvplayerlatino.com/usuarios/src1/NickJR/mundial/playlist.m3u8
+#EXTINF:-1,Nick Toons
+http://live.tvplayerlatino.com/usuarios/src1/NickToons/mundial/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://live.tvplayerlatino.com/usuarios/src1/Nickelodeon/mundial/playlist.m3u8
+#EXTINF:-1,TaTeTi
+http://live.tvplayerlatino.com/usuarios/src4/TaTeTi/mundial/playlist.m3u8
+#EXTINF:-1,Tiin
+http://live.tvplayerlatino.com/usuarios/src1/Tiin/mundial/playlist.m3u8
+#EXTINF:-1,Tooncast
+http://live.tvplayerlatino.com/usuarios/src1/Tooncast/mundial/playlist.m3u8
+#EXTINF:-1,Cinecanal
+http://live.tvplayerlatino.com/usuarios/src1/Cinecanal/mundial/playlist.m3u8
+#EXTINF:-1,Cinecanal+
+http://live.tvplayerlatino.com/usuarios/src1/CinecanalHD/mundial/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://live.tvplayerlatino.com/usuarios/src1/Cinemax/mundial/playlist.m3u8
+#EXTINF:-1,De PelÃ*cula
+http://live.tvplayerlatino.com/usuarios/src1/DePelicula/mundial/playlist.m3u8
+#EXTINF:-1,Film & Arts
+http://live.tvplayerlatino.com/usuarios/src5/FilmArts/mundial/playlist.m3u8
+#EXTINF:-1,Film Zone HD
+http://live.tvplayerlatino.com/usuarios/src1/FilmZoneHD/mundial/playlist.m3u8
+#EXTINF:-1,Fox Action
+http://live.tvplayerlatino.com/usuarios/src1/FoxAction/mundial/playlist.m3u8
+#EXTINF:-1,Fox Cinema
+http://live.tvplayerlatino.com/usuarios/src1/FoxCinema/mundial/playlist.m3u8
+#EXTINF:-1,Fox Classics
+http://live.tvplayerlatino.com/usuarios/src1/FoxClassics/mundial/playlist.m3u8
+#EXTINF:-1,Fox Movies
+http://live.tvplayerlatino.com/usuarios/src1/FoxMovies/mundial/playlist.m3u8
+#EXTINF:-1,Golden Edge
+http://live.tvplayerlatino.com/usuarios/src1/GoldenEdge/mundial/playlist.m3u8
+#EXTINF:-1,Golden HD
+http://live.tvplayerlatino.com/usuarios/src1/GoldenHD/mundial/playlist.m3u8
+#EXTINF:-1,Golden Premier
+http://live.tvplayerlatino.com/usuarios/src5/GoldenPremier/mundial/playlist.m3u8
+#EXTINF:-1,HBO
+http://live.tvplayerlatino.com/usuarios/src5/HBO/mundial/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://live.tvplayerlatino.com/usuarios/src5/HBO2/mundial/playlist.m3u8
+#EXTINF:-1,HBO Family
+http://live.tvplayerlatino.com/usuarios/src5/HBOFamily/mundial/playlist.m3u8
+#EXTINF:-1,HBO Plus
+http://live.tvplayerlatino.com/usuarios/src5/HBOPlus/mundial/playlist.m3u8
+#EXTINF:-1,N/A
+http://live.tvplayerlatino.com/usuarios/src1/ISat/mundial/playlist.m3u8
+#EXTINF:-1,Space
+http://live.tvplayerlatino.com/usuarios/src1/Space/mundial/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://live.tvplayerlatino.com/usuarios/src1/StudioUniversal/mundial/playlist.m3u8
+#EXTINF:-1,SyFy
+http://live.tvplayerlatino.com/usuarios/src1/SyFy/mundial/playlist.m3u8
+#EXTINF:-1,TCM
+http://live.tvplayerlatino.com/usuarios/src1/TCM/mundial/playlist.m3u8
+#EXTINF:-1,TNT
+http://live.tvplayerlatino.com/usuarios/src1/TNT/mundial/playlist.m3u8
+#EXTINF:-1,TNT HD
+http://live.tvplayerlatino.com/usuarios/src1/TNTHD/mundial/playlist.m3u8
+#EXTINF:-1,Universal HD
+http://live.tvplayerlatino.com/usuarios/src1/UniversalHD/mundial/playlist.m3u8
+#EXTINF:-1,Universal Movies
+http://live.tvplayerlatino.com/usuarios/src4/UniversalMovies/mundial/playlist.m3u8
+#EXTINF:-1,AyM Sports
+http://live.tvplayerlatino.com/usuarios/src1/AyMSports/mundial/playlist.m3u8
+#EXTINF:-1,Azteca Deportes
+http://live.tvplayerlatino.com/usuarios/src4/AztecaDeportes/mundial/playlist.m3u8
+#EXTINF:-1,BeinSports
+http://live.tvplayerlatino.com/usuarios/src5/BeinSports/mundial/playlist.m3u8
+#EXTINF:-1,BeinSports Ã‘
+http://live.tvplayerlatino.com/usuarios/src5/BeinSportsN/mundial/playlist.m3u8
+#EXTINF:-1,Canal+ Toros
+http://live.tvplayerlatino.com/usuarios/src5/Toros/mundial/playlist.m3u8
+#EXTINF:-1,CDF Premium
+http://live.tvplayerlatino.com/usuarios/src5/CDFPremium/mundial/playlist.m3u8
+#EXTINF:-1,CDN Sportmax
+http://live.tvplayerlatino.com/usuarios/src5/CDNSportmax/mundial/playlist.m3u8
+#EXTINF:-1,CDO Premium
+http://live.tvplayerlatino.com/usuarios/src4/CDOPremium/mundial/playlist.m3u8
+#EXTINF:-1,Claro Sports
+http://live.tvplayerlatino.com/usuarios/src4/ClaroSports/mundial/playlist.m3u8
+#EXTINF:-1,DeporTV
+http://live.tvplayerlatino.com/usuarios/src4/DeporTV/mundial/playlist.m3u8
+#EXTINF:-1,DirectTV Sports
+http://live.tvplayerlatino.com/usuarios/src5/DirectTVSports/mundial/playlist.m3u8
+#EXTINF:-1,ESPN
+http://live.tvplayerlatino.com/usuarios/src1/ESPN/mundial/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://live.tvplayerlatino.com/usuarios/src1/ESPN2/mundial/playlist.m3u8
+#EXTINF:-1,ESPN 3
+http://live.tvplayerlatino.com/usuarios/src1/ESPN3/mundial/playlist.m3u8
+#EXTINF:-1,ESPN HD
+http://live.tvplayerlatino.com/usuarios/src1/ESPNHD/mundial/playlist.m3u8
+#EXTINF:-1,Eurosport
+http://live.tvplayerlatino.com/usuarios/src4/Eurosport/mundial/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://live.tvplayerlatino.com/usuarios/src4/Eurosport2/mundial/playlist.m3u8
+#EXTINF:-1,F1 TV
+http://live.tvplayerlatino.com/usuarios/src1/F1TV/mundial/playlist.m3u8
+#EXTINF:-1,Fox Sports
+http://live.tvplayerlatino.com/usuarios/src1/FoxSports/mundial/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://live.tvplayerlatino.com/usuarios/src1/FoxSports2/mundial/playlist.m3u8
+#EXTINF:-1,Fox Sports Sur
+http://live.tvplayerlatino.com/usuarios/src5/FoxSportsSur/mundial/playlist.m3u8
+#EXTINF:-1,FS1
+http://live.tvplayerlatino.com/usuarios/src4/FS1/mundial/playlist.m3u8
+#EXTINF:-1,Gol TV
+http://live.tvplayerlatino.com/usuarios/src5/GolTV/mundial/playlist.m3u8
+#EXTINF:-1,Movistar Deportes
+http://live.tvplayerlatino.com/usuarios/src5/MoviDeportes/mundial/playlist.m3u8
+#EXTINF:-1,Movistar Deportes 2
+http://live.tvplayerlatino.com/usuarios/src5/MoviDeportes2/mundial/playlist.m3u8
+#EXTINF:-1,Movistar Futbol
+http://live.tvplayerlatino.com/usuarios/src5/MoviFutbol/mundial/playlist.m3u8
+#EXTINF:-1,Partidazo
+http://live.tvplayerlatino.com/usuarios/src4/Partidazo/mundial/playlist.m3u8
+#EXTINF:-1,Poker Central
+http://live.tvplayerlatino.com/usuarios/src4/PokerCentral/mundial/playlist.m3u8
+#EXTINF:-1,Real Madrid TV
+http://live.tvplayerlatino.com/usuarios/src4/RealMadridTV/mundial/playlist.m3u8
+#EXTINF:-1,RedBull TV
+http://live.tvplayerlatino.com/usuarios/src4/RedBullTV/mundial/playlist.m3u8
+#EXTINF:-1,TDN
+http://live.tvplayerlatino.com/usuarios/src5/TDN/mundial/playlist.m3u8
+#EXTINF:-1,Teledeporte
+http://live.tvplayerlatino.com/usuarios/src4/Teledeporte/mundial/playlist.m3u8
+#EXTINF:-1,Tyc Sports
+http://live.tvplayerlatino.com/usuarios/src4/TycSports/mundial/playlist.m3u8
+#EXTINF:-1,UFC Network
+http://live.tvplayerlatino.com/usuarios/src5/UFCNetwork/mundial/playlist.m3u8
+#EXTINF:-1,UnivisiÃ³n Deportes
+http://live.tvplayerlatino.com/usuarios/src5/UnivisionDeportes/mundial/playlist.m3u8
+#EXTINF:-1,UnivisiÃ³n TDN
+http://live.tvplayerlatino.com/usuarios/src5/UnivisionTDN/mundial/playlist.m3u8
+#EXTINF:-1,Win Sports
+http://live.tvplayerlatino.com/usuarios/src5/WinSports/mundial/playlist.m3u8
+#EXTINF:-1,WWE Network
+http://live.tvplayerlatino.com/usuarios/src5/WWENetwork/mundial/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://live.tvplayerlatino.com/usuarios/src1/AnimalPlanet/mundial/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryChannel/mundial/playlist.m3u8
+#EXTINF:-1,Discovery Channel Opcion 2
+http://live.tvplayerlatino.com/usuarios/src5/DiscoveryChannel2/mundial/playlist.m3u8
+#EXTINF:-1,Discovery Civilization
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryCivilization/mundial/playlist.m3u8
+#EXTINF:-1,Discovery H&H
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryHH/mundial/playlist.m3u8
+#EXTINF:-1,Discovery SCI
+http://live.tvplayerlatino.com/usuarios/src1/DiscoverySCI/mundial/playlist.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryTheaterHD/mundial/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryTurbo/mundial/playlist.m3u8
+#EXTINF:-1,Discovery World
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryWorld/mundial/playlist.m3u8
+#EXTINF:-1,History Channel
+http://live.tvplayerlatino.com/usuarios/src1/HistoryChannel/mundial/playlist.m3u8
+#EXTINF:-1,Investigation Discovery
+http://live.tvplayerlatino.com/usuarios/src1/InvestigationDiscovery/mundial/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://live.tvplayerlatino.com/usuarios/src1/NatGeo/mundial/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://live.tvplayerlatino.com/usuarios/src1/NatGeoWild/mundial/playlist.m3u8
+#EXTINF:-1,ABC News
+http://live.tvplayerlatino.com/usuarios/src4/ABCNews/mundial/playlist.m3u8
+#EXTINF:-1,Aristegui Noticias
+http://live.tvplayerlatino.com/usuarios/src4/AristeguiNoticias/mundial/playlist.m3u8
+#EXTINF:-1,Bloomberg
+http://live.tvplayerlatino.com/usuarios/src4/Bloomberg/mundial/playlist.m3u8
+#EXTINF:-1,Efekto TV
+http://live.tvplayerlatino.com/usuarios/src4/EfektoTV/mundial/playlist.m3u8
+#EXTINF:-1,Euronews
+http://live.tvplayerlatino.com/usuarios/src4/Euronews/mundial/playlist.m3u8
+#EXTINF:-1,Foro TV HD
+http://live.tvplayerlatino.com/usuarios/src1/ForoTVHD/mundial/playlist.m3u8
+#EXTINF:-1,RT HD
+http://live.tvplayerlatino.com/usuarios/src4/RTHD/mundial/playlist.m3u8
+#EXTINF:-1,Amazing Music
+http://live.tvplayerlatino.com/usuarios/src4/AmazingMusic/mundial/playlist.m3u8
+#EXTINF:-1,Bandamax
+http://live.tvplayerlatino.com/usuarios/src1/Bandamax/mundial/playlist.m3u8
+#EXTINF:-1,Cantinazo TV
+http://live.tvplayerlatino.com/usuarios/src4/CantinazoTV/mundial/playlist.m3u8
+#EXTINF:-1,Capital TV
+http://live.tvplayerlatino.com/usuarios/src4/CapitalTV/mundial/playlist.m3u8
+#EXTINF:-1,Djing Ibiza
+http://live.tvplayerlatino.com/usuarios/src4/DjingIbiza/mundial/playlist.m3u8
+#EXTINF:-1,Eska Party
+http://live.tvplayerlatino.com/usuarios/src4/EskaParty/mundial/playlist.m3u8
+#EXTINF:-1,Eska Rock
+http://live.tvplayerlatino.com/usuarios/src4/EskaRock/mundial/playlist.m3u8
+#EXTINF:-1,Eska TV
+http://live.tvplayerlatino.com/usuarios/src4/EskaTV/mundial/playlist.m3u8
+#EXTINF:-1,Heart TV
+http://live.tvplayerlatino.com/usuarios/src4/HeartTV/mundial/playlist.m3u8
+#EXTINF:-1,Hit TV
+http://live.tvplayerlatino.com/usuarios/src4/HitTV/mundial/playlist.m3u8
+#EXTINF:-1,Juce TV
+http://live.tvplayerlatino.com/usuarios/src4/JuceTV/mundial/playlist.m3u8
+#EXTINF:-1,m2o TV
+http://live.tvplayerlatino.com/usuarios/src4/m2oTV/mundial/playlist.m3u8
+#EXTINF:-1,Mi Musica HD
+http://live.tvplayerlatino.com/usuarios/src4/MiMusicaHD/mundial/playlist.m3u8
+#EXTINF:-1,MTV
+http://live.tvplayerlatino.com/usuarios/src1/MTV/mundial/playlist.m3u8
+#EXTINF:-1,MTV Hits
+http://live.tvplayerlatino.com/usuarios/src1/MTVHits/mundial/playlist.m3u8
+#EXTINF:-1,Musica Urbana
+http://live.tvplayerlatino.com/usuarios/src5/MusicaUrbana/mundial/playlist.m3u8
+#EXTINF:-1,Pop Hits
+http://live.tvplayerlatino.com/usuarios/src5/PopHits/mundial/playlist.m3u8
+#EXTINF:-1,Pop Latino
+http://live.tvplayerlatino.com/usuarios/src5/PopLatino/mundial/playlist.m3u8
+#EXTINF:-1,Ritmoson Latino
+http://live.tvplayerlatino.com/usuarios/src1/RitmosonLatino/mundial/playlist.m3u8
+#EXTINF:-1,Si TV
+http://live.tvplayerlatino.com/usuarios/src4/SiTV/mundial/playlist.m3u8
+#EXTINF:-1,Telehit
+http://live.tvplayerlatino.com/usuarios/src1/Telehit/mundial/playlist.m3u8
+#EXTINF:-1,Tigo Music
+http://live.tvplayerlatino.com/usuarios/src4/TigoMusic/mundial/playlist.m3u8
+#EXTINF:-1,Vevo Hip Hop
+http://live.tvplayerlatino.com/usuarios/src4/VevoHipHop/mundial/playlist.m3u8
+#EXTINF:-1,Vevo TV
+http://live.tvplayerlatino.com/usuarios/src4/VevoTV/mundial/playlist.m3u8
+#EXTINF:-1,VH1 HD
+http://live.tvplayerlatino.com/usuarios/src1/VH1HD/mundial/playlist.m3u8
+#EXTINF:-1,Video Rola
+http://live.tvplayerlatino.com/usuarios/src2/VideoRola/mundial/playlist.m3u8
+#EXTINF:-1,Virgin TV
+http://live.tvplayerlatino.com/usuarios/src4/VirginTV/mundial/playlist.m3u8
+#EXTINF:-1,15tv Coahuila
+http://live.tvplayerlatino.com/usuarios/src4/15tvCoahuila/mundial/playlist.m3u8
+#EXTINF:-1,Azteca 13
+http://live.tvplayerlatino.com/usuarios/src4/Azteca13/mundial/playlist.m3u8
+#EXTINF:-1,Azteca 7
+http://live.tvplayerlatino.com/usuarios/src1/Azteca7/mundial/playlist.m3u8
+#EXTINF:-1,Azteca Noticias
+http://live.tvplayerlatino.com/usuarios/src4/AztecaNoticias/mundial/playlist.m3u8
+#EXTINF:-1,Canal 22
+http://live.tvplayerlatino.com/usuarios/src4/Canal22/mundial/playlist.m3u8
+#EXTINF:-1,Canal 5
+http://live.tvplayerlatino.com/usuarios/src1/Canal5/mundial/playlist.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://live.tvplayerlatino.com/usuarios/src1/CanaldelasEstrellas/mundial/playlist.m3u8
+#EXTINF:-1,Canal de las Estrellas 2
+http://live.tvplayerlatino.com/usuarios/src4/CanaldelasEstrellas2/mundial/playlist.m3u8
+#EXTINF:-1,Canal Once
+http://live.tvplayerlatino.com/usuarios/src4/CanalOnce/mundial/playlist.m3u8
+#EXTINF:-1,Capital 21 CDMX
+http://live.tvplayerlatino.com/usuarios/src4/Capital21CDMX/mundial/playlist.m3u8
+#EXTINF:-1,Gala TV
+http://live.tvplayerlatino.com/usuarios/src1/GalaTV/mundial/playlist.m3u8
+#EXTINF:-1,Ocho TV
+http://live.tvplayerlatino.com/usuarios/src4/OchoTV/mundial/playlist.m3u8
+#EXTINF:-1,Proyecto 40
+http://live.tvplayerlatino.com/usuarios/src4/Proyecto40/mundial/playlist.m3u8
+#EXTINF:-1,RCG TV Coahuila
+http://live.tvplayerlatino.com/usuarios/src4/RCGTVCoahuila/mundial/playlist.m3u8
+#EXTINF:-1,Telemax
+http://live.tvplayerlatino.com/usuarios/src4/Telemax/mundial/playlist.m3u8
+#EXTINF:-1,TeleRitmo
+http://live.tvplayerlatino.com/usuarios/src4/TeleRitmo/mundial/playlist.m3u8
+#EXTINF:-1,Travel Channel
+http://live.tvplayerlatino.com/usuarios/src4/TravelChannel/mundial/playlist.m3u8
+#EXTINF:-1,TVMas Veracruz
+http://live.tvplayerlatino.com/usuarios/src4/TVMasVeracruz/mundial/playlist.m3u8
+#EXTINF:-1,TVP 2 Mochis
+http://live.tvplayerlatino.com/usuarios/src4/TVP2Mochis/mundial/playlist.m3u8
+#EXTINF:-1,TVP 3 ObregÃ³n
+http://live.tvplayerlatino.com/usuarios/src4/TVP3Obregon/mundial/playlist.m3u8
+#EXTINF:-1,TVT (TV Tlaxcala)
+http://live.tvplayerlatino.com/usuarios/src4/TVTlaxcala/mundial/playlist.m3u8
+#EXTINF:-1,Arica TV
+http://live.tvplayerlatino.com/usuarios/src4/AricaTV/mundial/playlist.m3u8
+#EXTINF:-1,CTNI
+http://live.tvplayerlatino.com/usuarios/src4/CTNI/mundial/playlist.m3u8
+#EXTINF:-1,Mega
+http://live.tvplayerlatino.com/usuarios/src4/Mega/mundial/playlist.m3u8
+#EXTINF:-1,TVN
+http://live.tvplayerlatino.com/usuarios/src4/TVN/mundial/playlist.m3u8
+#EXTINF:-1,VTV2 Chile
+http://live.tvplayerlatino.com/usuarios/src4/VTV2Chile/mundial/playlist.m3u8
+#EXTINF:-1,El 13 Argentina
+http://live.tvplayerlatino.com/usuarios/src4/El13Argentina/mundial/playlist.m3u8
+#EXTINF:-1,ORBE 21
+http://live.tvplayerlatino.com/usuarios/src4/ORBE21/mundial/playlist.m3u8
+#EXTINF:-1,Telpin Tv
+http://live.tvplayerlatino.com/usuarios/src4/TelpinTv/mundial/playlist.m3u8
+#EXTINF:-1,TN Canal
+http://live.tvplayerlatino.com/usuarios/src4/TNCanal/mundial/playlist.m3u8
+#EXTINF:-1,Cali TV
+http://live.tvplayerlatino.com/usuarios/src4/CaliTV/mundial/playlist.m3u8
+#EXTINF:-1,Chilevision
+http://live.tvplayerlatino.com/usuarios/src4/Chilevision/mundial/playlist.m3u8
+#EXTINF:-1,Teleamiga Colombia
+http://live.tvplayerlatino.com/usuarios/src4/TeleamigaColombia/mundial/playlist.m3u8
+#EXTINF:-1,Telemedellin
+http://live.tvplayerlatino.com/usuarios/src4/Telemedellin/mundial/playlist.m3u8
+#EXTINF:-1,AmÃ©rica TV
+http://live.tvplayerlatino.com/usuarios/src4/AmericaTV/mundial/playlist.m3u8
+#EXTINF:-1,BHTV Peru
+http://live.tvplayerlatino.com/usuarios/src4/BHTV/mundial/playlist.m3u8
+#EXTINF:-1,CMD Peru
+http://live.tvplayerlatino.com/usuarios/src4/CMDPeru/mundial/playlist.m3u8
+#EXTINF:-1,Gol Peru
+http://live.tvplayerlatino.com/usuarios/src4/GolPeru/mundial/playlist.m3u8
+#EXTINF:-1,La Luz Peru
+http://live.tvplayerlatino.com/usuarios/src4/LaLuzPeru/mundial/playlist.m3u8
+#EXTINF:-1,Latina Peru
+http://live.tvplayerlatino.com/usuarios/src4/LatinaPeru/mundial/playlist.m3u8
+#EXTINF:-1,Plus TV
+http://live.tvplayerlatino.com/usuarios/src4/PlusTV/mundial/playlist.m3u8
+#EXTINF:-1,RBC
+http://live.tvplayerlatino.com/usuarios/src4/RBC/mundial/playlist.m3u8
+#EXTINF:-1,RPP
+http://live.tvplayerlatino.com/usuarios/src4/RPP/mundial/playlist.m3u8
+#EXTINF:-1,TurboMix TV
+http://live.tvplayerlatino.com/usuarios/src4/TurboMixTV/mundial/playlist.m3u8
+#EXTINF:-1,TV Peru
+http://live.tvplayerlatino.com/usuarios/src4/TVPeru/mundial/playlist.m3u8
+#EXTINF:-1,UCV Satelital
+http://live.tvplayerlatino.com/usuarios/src4/UCVSatelital/mundial/playlist.m3u8
+#EXTINF:-1,Willax TV
+http://live.tvplayerlatino.com/usuarios/src4/WillaxTV/mundial/playlist.m3u8
+#EXTINF:-1,Azteca Honduras
+http://live.tvplayerlatino.com/usuarios/src4/AztecaHonduras/mundial/playlist.m3u8
+#EXTINF:-1,Teleceiba
+http://live.tvplayerlatino.com/usuarios/src4/Teleceiba/mundial/playlist.m3u8
+#EXTINF:-1,Teleprogreso Honduras
+http://live.tvplayerlatino.com/usuarios/src4/TeleprogresoHonduras/mundial/playlist.m3u8
+#EXTINF:-1,Sulavision
+http://live.tvplayerlatino.com/usuarios/src4/Sulavision/mundial/playlist.m3u8
+#EXTINF:-1,Telecaribe
+http://live.tvplayerlatino.com/usuarios/src4/Telecaribe/mundial/playlist.m3u8
+#EXTINF:-1,TLT Venezuela
+http://live.tvplayerlatino.com/usuarios/src4/TLTVenezuela/mundial/playlist.m3u8
+#EXTINF:-1,TRT
+http://live.tvplayerlatino.com/usuarios/src4/TRT/mundial/playlist.m3u8
+#EXTINF:-1,TVO Canal 23
+http://live.tvplayerlatino.com/usuarios/src4/TVOCanal23/mundial/playlist.m3u8
+#EXTINF:-1,Vale TV
+http://live.tvplayerlatino.com/usuarios/src4/ValeTV/mundial/playlist.m3u8
+#EXTINF:-1,RPC
+http://live.tvplayerlatino.com/usuarios/src4/RPC/mundial/playlist.m3u8
+#EXTINF:-1,Telemetro
+http://live.tvplayerlatino.com/usuarios/src4/Telemetro/mundial/playlist.m3u8
+#EXTINF:-1,Canal 2 Televicentro
+http://live.tvplayerlatino.com/usuarios/src4/Canal2Televicentro/mundial/playlist.m3u8
+#EXTINF:-1,Canal 4 Nicaragua
+http://live.tvplayerlatino.com/usuarios/src4/Canal4Nicaragua/mundial/playlist.m3u8
+#EXTINF:-1,Canal 33 El Salvador
+http://live.tvplayerlatino.com/usuarios/src4/Canal33ElSalvador/mundial/playlist.m3u8
+#EXTINF:-1,Ecuavisa
+http://live.tvplayerlatino.com/usuarios/src5/Ecuavisa/mundial/playlist.m3u8
+#EXTINF:-1,TeleAmazonas
+http://live.tvplayerlatino.com/usuarios/src4/TeleAmazonas/mundial/playlist.m3u8
+#EXTINF:-1,TV 7 Ecuador
+http://live.tvplayerlatino.com/usuarios/src4/TV7Ecuador/mundial/playlist.m3u8
+#EXTINF:-1,TVN Ecuador
+http://live.tvplayerlatino.com/usuarios/src4/TVNEcuador/mundial/playlist.m3u8
+#EXTINF:-1,TVS Ecuador
+http://live.tvplayerlatino.com/usuarios/src4/TVSEcuador/mundial/playlist.m3u8
+#EXTINF:-1,UCSG TV
+http://live.tvplayerlatino.com/usuarios/src4/UCSGTV/mundial/playlist.m3u8
+#EXTINF:-1,Tele Antillas
+http://live.tvplayerlatino.com/usuarios/src4/TeleAntillas/mundial/playlist.m3u8
+#EXTINF:-1,Telesitemas 11
+http://live.tvplayerlatino.com/usuarios/src4/Telesitemas11/mundial/playlist.m3u8
+#EXTINF:-1,Red PAT
+http://live.tvplayerlatino.com/usuarios/src4/RedPAT/mundial/playlist.m3u8
+#EXTINF:-1,CB24 Noticias
+http://live.tvplayerlatino.com/usuarios/src4/CB24Noticias/mundial/playlist.m3u8
+#EXTINF:-1,Colosal TV
+http://live.tvplayerlatino.com/usuarios/src4/ColosalTV/mundial/playlist.m3u8
+#EXTINF:-1,Aparecida Brasil
+http://live.tvplayerlatino.com/usuarios/src4/AparecidaBrasil/mundial/playlist.m3u8
+#EXTINF:-1,Fox Sports Brasil
+http://live.tvplayerlatino.com/usuarios/src4/FoxSportsBrasil/mundial/playlist.m3u8
+#EXTINF:-1,Globo Brasil
+http://live.tvplayerlatino.com/usuarios/src4/GloboBrasil/mundial/playlist.m3u8
+#EXTINF:-1,STB Brasil
+http://live.tvplayerlatino.com/usuarios/src4/STBBrasil/mundial/playlist.m3u8
+#EXTINF:-1,TVBrasil
+http://live.tvplayerlatino.com/usuarios/src4/TVBrasil/mundial/playlist.m3u8
+#EXTINF:-1,13tv
+http://live.tvplayerlatino.com/usuarios/src4/13tv/mundial/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://live.tvplayerlatino.com/usuarios/src4/Antena3/mundial/playlist.m3u8
+#EXTINF:-1,Canal+ Accion
+http://live.tvplayerlatino.com/usuarios/src5/MoviAccion/mundial/playlist.m3u8
+#EXTINF:-1,La 2
+http://live.tvplayerlatino.com/usuarios/src4/La2/mundial/playlist.m3u8
+#EXTINF:-1,La ***ta
+http://live.tvplayerlatino.com/usuarios/src4/La***ta/mundial/playlist.m3u8
+#EXTINF:-1,Mega (EspaÃ±a)
+http://live.tvplayerlatino.com/usuarios/src4/MegaEspana/mundial/playlist.m3u8
+#EXTINF:-1,Movistar Xtra
+http://live.tvplayerlatino.com/usuarios/src5/MoviXtra/mundial/playlist.m3u8
+#EXTINF:-1,Neox
+http://live.tvplayerlatino.com/usuarios/src4/Neox/mundial/playlist.m3u8
+#EXTINF:-1,TVE 24h
+http://live.tvplayerlatino.com/usuarios/src4/TVE24h/mundial/playlist.m3u8
+#EXTINF:-1,ECUAVISA-
+http://96.234.25.74:8500/play/a00c
+#EXTINF:-1,SCOPUS-NET-TECH
+http://96.234.25.74:8500/play/a00d
+#EXTINF:-1,Dif-1    
+http://96.234.25.74:8500/play/a00e
+#EXTINF:-1,Ecuador7
+http://96.234.25.74:8500/play/a00f
+#EXTINF:-1,Panamericana
+http://96.234.25.74:8500/play/a00b
+#EXTINF:-1,Nacional
+http://96.234.25.74:8500/play/a002
+#EXTINF:-1,ECUAVISA
+http://96.234.25.74:8500/play/a009
+#EXTINF:-1, RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1, TC
+http://origin.elcanaldelfutbol.com/liveHls.m3u8?channel=10001&list=720p
+#EXTINF:-1, 13 argentina
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b433000.m3u8
+#EXTINF:-1, TNT lat
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX19KncNXmi8Kbw2T5BJ4g7K6AGApHl0TKSHV7fJEco6pJIoTUnWpsj89vcpDw3vD7U9EM%2B5UaNVZig%3D%3D/playlist.m3u8
+#EXTINF:-1, Ten
+http://edge3.telesport.pw/live/ten/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX1%2BD3LwZ1AOnTUNU779LSOsHaMwQqVILQRt7Qie%2BVHb9LGYNg%2FA%2BC5zUtQ8TkUEANcDomyLxQwIkjw%3D%3D/playlist.m3u8
+#EXTINF:-1, Mtv
+http://edge43.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8
+#EXTINF:-1, Syfy
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/syfy_18doli2/chunklist.m3u8?st=1ijEOLsBunyqI3ui25Ry5g&e=1493080983
+#EXTINF:-1, La sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Amc
+http://edge43.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+#EXTINF:-1, #0
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/plus0_b0xk990/chunklist.m3u8?st=Kce6oPvTLn8ia5lYL3g4Sg&e=1493080848
+#EXTINF:-1, TV1
+http://edge8.telesport.pw/live/tve1/index.m3u8
+#EXTINF:-1, FOX
+http://edge2.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1, AXN
+http://edge4.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1, DMAX
+http://edge4.telesport.pw/live/dmax/index.m3u8
+#EXTINF:-1, HISTORY
+http://edge8.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1, STREAM 1
+http://edge42.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
+#EXTINF:-1, BEING Sports
+https://aliez-stream.gcdn.co/hls/streama52027/index.m3u8
+#EXTINF:-1, GOL TV
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/goltvverdirecto_16vtp2q/chunklist.m3u8?st=_4W22iUkVMuwjcbrB7ZeSQ&e=1493079464
+#EXTINF:-1, ESPN
+http://stream.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX192cohf8LytFJOL0ok0SaEk31fcmgfv%2FZVwAeK%2BNXNIa1HMzQP0945RxJny1lRt71GvZ7rc6XbWgA%3D%3D
+#EXTINF:-1, ESPN 2
+http://stream.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FLClbkt3q0%2FPvF%2FvEP2yib5CPDgsRdWmely%2FgrBPbzxA6jDDeshaTJh7to1n6NLayhN%2FiDjXT2lQ%3D%3D
+#EXTINF:-1, FOX SPORTS 1
+http://stream.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19HCmfzhXNqY9KX%2FCsoWOT8H7jBDxLtO3ZYiBQIpalUNiqiBJod62FxoknrJ73HUgnLOxpH1Rraww%3D%3D
+#EXTINF:-1, FOX SPORTS 2
+http://stream.latino-webtv.com:8000/3/U2FsdGVkX1%2FTq5xRkepty8H%2FxJcAPYWP8at5O3XvnDVOacPhPk9b%2FlUgkFcAaxdKQAU3W7wl7VQN%2FSvBjfyg6w%3D%3D/playlist.m3u8
+#EXTINF:-1, LA LIGA
+http://edge10.verliga.me/live/verliga1/index.m3u8
+#EXTINF:-1, BEING FRA
+http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/tvb122/chunklist.m3u8?st=5GWIwn8ZSGOXy4bK683svA&e=1493080424
+#EXTINF:-1, SPACE LAT
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX19Ax3P8RbeB6sT8Rn5wNdq5nQACYI8LM%2BCsrB7dGol10DBlDDH5DdjAcJcaQ9SPLcXE70YzBPhIlQ%3D%3D/playlist.m3u8
+#EXTINF:-1, FX LAT
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX1%2BfIvWPpCrOcXPIKl9hPBp1bRS78Dnw0HSixw74kiaLBlH70D2QhI1xzqRyD50mtfZS0uEhkKzGXA%3D%3D/playlist.m3u8
+#EXTINF:-1, FOX LAT
+http://edge1.telesport.pw/live/foxlatino/index.m3u8
+#EXTINF:-1, HISTORY lat
+https://hls.ssh101.com/live/historia2/index.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPICH
+http://stream.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX189w593qHnfpS9QDuue50AVZyeMgIHni8%2FNuSFeZtoctdqpZV%2FFYA84zA%2BrNJPvdwObA%2BBltG9iZg%3D%3D
+#EXTINF:-1, DISCOVERY CHANNEL
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX1%2Ft3jjQSxRXzAIhhJSXOMP5AVnXsGQr%2F9JMTkNsaUxERtBV1X5ln5eRXsk%2FjCYr8Ix5HmzJA1ebUQ%3D%3D/playlist.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX1%2BoVk5ACRpckM7sI9RdFAsKSLwQAPvKWlhaykGfmol7P1spcLOHZVj0%2BllP8s%2BhyXF9Xs%2FhbTgAcw%3D%3D/playlist.m3u8
+#EXTINF:-1, CANAL 5
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1, LA LIGA2
+http://cdn2.shurs.xyz/verliga/10/chunks.m3u8?nimblesessionid=55655
+#EXTINF:-1, MOVISTAR ESTRE
+http://edge6.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1, MOV ACCIO
+http://edge5.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1, STREAM 2
+http://cdn1.shurs.xyz/verliga/3/chunks.m3u8?nimblesessionid=43962
+#EXTINF:-1, STREAM 3
+http://stream.latino-webtv.com:8000/2/U2FsdGVkX1%2BpUbjo7Q7BuioQAsSRIKa8mxOtYXXFuGn%2BysWYAOn4P2bduX7hHhNmetOT%2BMxxhSrK%2FOqvJCjMRw%3D%3D/playlist.m3u8
+#EXTINF:-1, VENUS
+http://edge5.telesport.pw/live/venus/index.m3u8
+#EXTINF:-1, PLAYBOY
+http://edge8.telesport.pw/live/playboy/index.m3u8
+#EXTINF:-1, HUSTLER
+http://edge3.telesport.pw/live/hustler/index.m3u8
+#EXTINF:-1, REDLIGTH
+http://cdn2.shurs.xyz/verliga/11/chunks.m3u8?nimblesessionid=260910
