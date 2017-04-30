@@ -33,7 +33,19 @@ http://live.tvplayerlatino.com/usuarios/src4/Eurosport/mundial/playlist.m3u8
 http://live.tvplayerlatino.com/usuarios/src1/F1TV/mundial/playlist.m3u8
 #EXTINF:-1,BeinSports 
 http://live.tvplayerlatino.com/usuarios/src5/BeinSportsN/mundial/playlist.m3u8
-#EXTINF:-1,==========Spain==========
+
+#EXTINF:-1,==========CANALES 24H=====LATINOS====
+http://worldcs.info:8080/live/xEYFpiu0cP/vOKnCkm7Yc/7231.m3u8
+#EXTINF:-1,El Chavo del 8 24/7
+http://live.tvplayerlatino.com/usuarios/src5/ElChavoDel8/mundial/playlist.m3u8
+#EXTINF:-1,Dragon Ball Z 24/7
+http://live.tvplayerlatino.com/usuarios/src5/DragonBallZ/mundial/playlist.m3u8
+#EXTINF:-1,Los Simpson 24/7
+http://live.tvplayerlatino.com/usuarios/src5/LosSimpson/mundial/playlist.m3u8
+#EXTINF:-1,Anime 24H
+http://live.tvplayerlatino.com/usuarios/src4/Anime24H/mundial/playlist.m3u8
+
+#EXTINF:-1,==========LATINO==========
 http://worldcs.info:8080/live/xEYFpiu0cP/vOKnCkm7Yc/7231.m3u8
 
 #EXTINF:-1,A&E HD
