@@ -3,6 +3,8 @@
 
 
 #EXTINF:1,[COLOR cyan] JHG[/COLOR] [COLOR white] M+ [/COLOR] 
+
+
 #EXTINF:-1,Movistar Xtra
 http://live.tvplayerlatino.com/usuarios/src5/MoviXtra/mundial/playlist.m3u8
 #EXTINF:-1,Canal+ Accion
@@ -10,6 +12,8 @@ http://live.tvplayerlatino.com/usuarios/src5/MoviAccion/mundial/playlist.m3u8
 
 
 #EXTINF:1,[COLOR cyan] JHG [/COLOR] [COLOR white] TDT [/COLOR] 
+
+
 #EXTINF:-1,Mega 
 http://live.tvplayerlatino.com/usuarios/src4/MegaEspana/mundial/playlist.m3u8
 #EXTINF:-1,Neox
@@ -19,6 +23,8 @@ http://live.tvplayerlatino.com/usuarios/src4/Antena3/mundial/playlist.m3u8
 
 
 #EXTINF:1,[COLOR cyan]JHG[/COLOR] [COLOR white] DEPORTES [/COLOR] 
+
+
 #EXTINF:-1,Tyc Sports
 http://live.tvplayerlatino.com/usuarios/src4/TycSports/mundial/playlist.m3u8
 #EXTINF:-1,UFC Network
@@ -66,12 +72,8 @@ http://live.tvplayerlatino.com/usuarios/src1/AzMundo/mundial/playlist.m3u8
 http://live.tvplayerlatino.com/usuarios/src5/Caracol/mundial/playlist.m3u8
 #EXTINF:-1,Distrito Comedia
 http://live.tvplayerlatino.com/usuarios/src1/DistritoComedia/mundial/playlist.m3u8
-#EXTINF:-1,Dragon Ball Z 24/7
-http://live.tvplayerlatino.com/usuarios/src5/DragonBallZ/mundial/playlist.m3u8
 #EXTINF:-1,E!
 http://live.tvplayerlatino.com/usuarios/src1/EEntertainment/mundial/playlist.m3u8
-#EXTINF:-1,El Chavo del 8 24/7
-http://live.tvplayerlatino.com/usuarios/src5/ElChavoDel8/mundial/playlist.m3u8
 #EXTINF:-1,El Gourmet
 http://live.tvplayerlatino.com/usuarios/src1/ElGourmet/mundial/playlist.m3u8
 #EXTINF:-1,Fox
