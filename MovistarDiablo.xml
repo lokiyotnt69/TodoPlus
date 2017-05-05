@@ -10,7 +10,7 @@
 
 		
 <item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]fox[COLOR red][/COLOR]</title>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]FOX [COLOR red][/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/envivo/fox.html</sportsdevil>
             <referer>http://latelete.tv/</referer>
             <thumbnail></thumbnail>
@@ -19,15 +19,37 @@
 		
 					
 <item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/motogp.html</sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]LA 1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
             <referer>http://latelete.tv/</referer>
             <thumbnail></thumbnail>
             </item>
 			
 			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/tve1.html</sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] ANTENA 3[/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/tv/nacionales2/antena3.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] CUATRO [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/cuatro.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] TELECINCO[/COLOR]</title>
+            <sportsdevil>http://latelete.tv/telecinco-en-directo-gratis-por-internet</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] CUATRO [/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/tv/nacionales/cuatro2.html</sportsdevil>
             <referer>http://latelete.tv/</referer>
             <thumbnail></thumbnail>
             </item>
@@ -38,4 +60,71 @@
             <referer>http://latelete.tv/</referer>
             <thumbnail></thumbnail>
             </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
 			
