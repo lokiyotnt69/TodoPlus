@@ -23,12 +23,12 @@ http://cdn1.shurs.xyz/verdirectotv/3/playlist.m3u8
 http://cdn1.shurs.xyz/verdirectotv/13/playlist.m3u8
 #EXTINF:-1, [COLOR  purple] FOX [/COLOR]
 http://edge6.telesport.pw/live/foxlatino/index.m3u8
-#EXTINF:-1, [COLOR  purple]  [/COLOR]
-
-#EXTINF:-1, [COLOR  purple]  [/COLOR]
-
-#EXTINF:-1, [COLOR  purple]  [/COLOR]
-
+#EXTINF:-1, [COLOR  purple] MotoGp [/COLOR]
+http://edge3.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1, [COLOR  purple] 7 [/COLOR]
+http://edge4.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+#EXTINF:-1, [COLOR  purple] 8 [/COLOR]
+http://cdn1.shurs.xyz/verdirectotv/3/playlist.m3u8
 #EXTINF:-1, [COLOR  purple]  [/COLOR]
 
 #EXTINF:-1, [COLOR  purple]  [/COLOR]
