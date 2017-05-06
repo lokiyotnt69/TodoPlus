@@ -311,14 +311,14 @@
 <item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] NATIONAL GEOGRAPHIC[/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/envivo/national.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
+            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 			
 			<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] NAT GEO WILD [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/envivo/natgeowill.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
+            <referer>http://cinestrenostv.tv//</referer>
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 			
@@ -344,14 +344,37 @@
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 			
+			
 			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] CRIMEN Y INVESTIGACIÓN [/COLOR]</title>
+            <sportsdevil>http://latelete.org/canales/ci.html</sportsdevil>
             <referer>http://latelete.tv/</referer>
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 			
 					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] CRIMEN Y INVESTIGACIÓN  [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/crimeninvestigacion.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] CAZA Y PESCA[/COLOR]</title>
+            <sportsdevil>http://latelete.org/canales/caza.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] DARK [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/dark.html</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+			
+			<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
             <sportsdevil></sportsdevil>
             <referer>http://latelete.tv/</referer>
@@ -385,6 +408,13 @@
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
             <sportsdevil></sportsdevil>
             <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
             <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 			
@@ -399,36 +429,7 @@
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
             <sportsdevil></sportsdevil>
             <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-								
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
             </item>
 			
 								
