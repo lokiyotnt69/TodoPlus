@@ -4,20 +4,33 @@
 
 
 
-
-
-		<item> 
-            <title>[COLOR yellow] Toros(opc1) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/Ramzi/Ramzi/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=TorosTv</link> 
-        </item>
-		 <item> 
-            <title>[COLOR red] **Toros 2** [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros 2</link> 
-        </item>
-		<item> 
-            <title>[COLOR skyblue] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-       
+		<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]TOROSTV [/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/tv/digitales/plustoros.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] TOROS TV[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/toros.html</sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+            </item>
+			
+								
+<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://latelete.tv/</referer>
+            <thumbnail></thumbnail>
+            </item>
 		  
 	
