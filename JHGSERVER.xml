@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+item>
+<title>[COLOR red][/COLOR][COLOR blue][B]Server JHG[/B] [/COLOR][COLOR white ][I] MASTER[/I][/COLOR]</title>
+ EXYU[/I][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail><fanart>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red].[/COLOR][COLOR blue][B] JHG MASTER[/B] [/COLOR][COLOR white ][I] M3U Listas[/I][/COLOR]</title>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue]Servers[/COLOR] [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B]SERVER [COLORdodgerblue][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red].[/COLOR][COLOR blue][B]IPTV Servers[/B] [/COLOR][COLOR white ][I] JHG MASTER[/I][/COLOR]</title><thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]S[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
+ <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+<item>
+ <title>[COLOR red].[/COLOR][COLOR blue][B]World Servers[/B] [/COLOR][COLOR red ][I] JHG MASTER[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>      [COLOR blue]IPTV f4mTester[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item><title> JHG MASTER Server 1 (World TV) </title><link>http://Ignoreme</link><externallink>http://gtv.tn:8000/get.php?username=Julesmwamba2001%40yahoo.fr&amp;password=Julesmwamba2001%40yahoo.fr&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title> JHG MASTER Server 2 (World TV) </title><link>http://Ignoreme</link><externallink>http://192.99.149.20:8080/get.php?username=grspan&amp;password=sxlk2slkx&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title> JHG MASTER Server 3 (World TV) </title><link>http://Ignoreme</link><externallink>http://hdlivetv.de:8000/get.php?username=Tomaso3&amp;password=Tomaso3&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title> JHG MASTER Server 4 (World TV) </title><link>http://Ignoreme</link><externallink>http://ghosttechuk.ddns.net:25461/get.php?username=mark+collins&amp;password=wUf0C9f8PD&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title> JHG MASTERServer 5 (World TV) </title><link>http://Ignoreme</link><externallink>http://149.56.240.30:25461/get.php?username=EAS12&amp;password=1111&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+item><title> JHG MASTER Server 6 (World TV) </title><link>http://Ignoreme</link><externallink>http://149.56.23.205:8000/get.php?username=AmaroDJ&amp;password=AmaroDJ&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+
+
+
+
+
+
+
+
+
+item><title>[COLOR blue][B][COLOR deepskyblue]Premium Server (4/8/2017)  [/COLOR][/B] </title><link>http://Ignoreme</link>
+<thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
+<externallink>http://go.teamexpat.ninja/get.php?username=easy897&amp;password=easy897&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+item><title>[COLOR blue][B][COLOR deepskyblue]Premium Server (4/12/2017)  [/COLOR][/B] </title><link>http://Ignoreme</link>
+<thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
+<externallink>http://bbrtv.ddns.net:8000/get.php?username=boomboom&amp;password=boomboom&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+http://192.99.149.20:8080/live/grspan/sxlk2slkx/3289.ts
+http://bbrtv.ddns.net:8000//get.php?username=boomboom&password=boomboom&type=m3u&output=hls
+http://geantsatcom.giize.com:61555/live/www.genatsat.com/geantsat.com/55.ts
+
+
+item><title>.Big Daddy Server 3 (World TV New 4/8/17) </title><link>http://Ignoreme</link><externallink>http://g-ip.ddns.net:8000/get.php?username=28637288237427&amp;password=1593574628&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+http://192.99.149.20:8080/get.php?username=jdillon845&password= Sxrg9elTS8&type=m3u
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628
+
+item><title>.Big Daddy Server 5 (World TV) - offline </title><link>http://Ignoreme</link><externallink>http://iptv.iptvthebest.net:15000/get.php?username=ale&amp;password=ale1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+item><title>.Big Daddy Server 5 (World TV) </title><link>http://Ignoreme</link><externallink>http://81.230.200.187:1967/get.php?username=mMdwpJIagX&amp;password=WagOqNXDDX&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+item><title>.Big Daddy Server 6 (World TV) </title><link>http://Ignoreme</link><externallink>http://151.80.105.182:8000/get.php?username=decca&amp;password=decca&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+item><title>.Big Daddy Server 7 (World TV) </title><link>http://Ignoreme</link><externallink>http://cableking-iptv.com:8000/get.php?username=decca&amp;password=decca&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+item><title>.Big Daddy Server 8 (World TV - new 4/2/2017) </title><link>http://Ignoreme</link><externallink>http://sv1.alphafeed.tv:9514/get.php?username=kam83&amp;password=10334478847&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+
+
+
+
+http://gh-ah.ddns.net:8000
+http://panelclubiptvlatino.com:8000
+cableking-iptv.com
+https://albaniaiptv.com/m3u/usa.m3u
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/
+
+
+
+                                                                                                                                                                                        
+
+
+
+item><title>[B][COLOR red] Total[COLOR blue] P[COLOR red]lay[/COLOR][/B][COLOR red] [/COLOR]</title>
+<thumbnail>http://www.totalplay.com.mx/images/logos/total_play_logo.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=[B][COLOR white]Kodi Latino YouTube[COLOR blue] IP [COLOR red]TV[/COLOR][/B] [makelist.param1]</link>
+    <thumbnail></thumbnail><fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,LA:(.*?)\n(.*)</expres>
+<page>http://smartvespana.ddns.net:8080/get.php?username=onzalez6&amp;password=6&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+<item><title>[B][COLOR white ] sky[COLOR blue] Go[COLOR white ] UK off line[/COLOR][/B][COLOR red] [/COLOR]</title>
+<thumbnail>http://www.logospike.com/wp-content/uploads/2014/11/Sky_logo-7.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param1]</title>
+	<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=[B][COLOR white]sky[COLOR blue] IPTV [COLOR red]UK[/COLOR][/B] [makelist.param1]</link>
+	<thumbnail></thumbnail><fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,UK:(.*?)\n(.*)</expres>
+<page>http://live.softiptv.com:9900/get.php?username=525&amp;password=525&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+item>
+<title>[B][COLOR white ] m3u list[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [COLOR white]Servers[COLOR blue]Daily updates Severs[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>                                                              
+
+<item><title>[COLOR white ] Miami TV[/COLOR]</title><link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link></item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] 5 IPTV [/B] [/COLOR][COLOR white][I] JHGMASTER [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>$pyFunction:('[makelist.param1] ').replace('JHG','list-')</title>
+ <link>NA</link>
+<externallink>[makelist.param2]$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres>IPTV:"(.*?)" URL="(.*?)";</expres>
+<page>http://adryanlist.org/adryan/servers.txt</page>
+</regex>
+
+<thumbnail></thumbnail>
+</item>
