@@ -132,11 +132,11 @@
 
 
 
-<item><title>[COLOR blue][B][COLOR deepskyblue]Premium Server (4/8/2017)  [/COLOR][/B] </title><link>http://Ignoreme</link>
+<item><title>[COLOR blue][B][COLOR deepskyblue]Premium Server   [/COLOR][/B] </title><link>http://Ignoreme</link>
 <thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
 <externallink>http://go.teamexpat.ninja/get.php?username=easy897&amp;password=easy897&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>[COLOR blue][B][COLOR deepskyblue]Premium Server (4/12/2017)  [/COLOR][/B] </title><link>http://Ignoreme</link>
+<item><title>[COLOR blue][B][COLOR deepskyblue]Premium Server  [/COLOR][/B] </title><link>http://Ignoreme</link>
 <thumbnail>http://s19.postimg.org/4discu5gj/icon.png</thumbnail>
 <externallink>http://bbrtv.ddns.net:8000/get.php?username=boomboom&amp;password=boomboom&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
@@ -148,7 +148,8 @@ http://geantsatcom.giize.com:61555/live/www.genatsat.com/geantsat.com/55.ts
 <item><title>.Big Daddy Server 3 (World TV New 4/8/17) </title><link>http://Ignoreme</link><externallink>http://g-ip.ddns.net:8000/get.php?username=28637288237427&amp;password=1593574628&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
 <http://192.99.149.20:8080/get.php?username=jdillon845&password= Sxrg9elTS8&type=m3u
-<http://g-ip.ddns.net:8000/live/28637288237427/1593574628
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628
+
 
 <item><title>.Big Daddy Server 5 (World TV) - offline </title><link>http://Ignoreme</link><externallink>http://iptv.iptvthebest.net:15000/get.php?username=ale&amp;password=ale1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
@@ -165,11 +166,11 @@ http://geantsatcom.giize.com:61555/live/www.genatsat.com/geantsat.com/55.ts
 
 
 <http://gh-ah.ddns.net:8000
-<http://panelclubiptvlatino.com:8000
-<cableking-iptv.com
-<https://albaniaiptv.com/m3u/usa.m3u
-<http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/
-<http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/
+http://panelclubiptvlatino.com:8000
+cableking-iptv.com
+https://albaniaiptv.com/m3u/usa.m3u
+http://51.255.77.23:7777/live/0628724613/ew6GyCmBiJ/
+http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/
 
 
 
@@ -188,7 +189,7 @@ http://geantsatcom.giize.com:61555/live/www.genatsat.com/geantsat.com/55.ts
     <thumbnail></thumbnail><fanart></fanart>
 ]]></listrepeat>
 <expres>#EXTINF:-1,LA:(.*?)\n(.*)</expres>
-<page>http://smartvespana.ddns.net:8080/get.php?username=onzalez6&amp;password=6&amp;type=m3u</page>
+<page>https://albaniaiptv.com/m3u/usa.m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
@@ -218,3 +219,21 @@ http://geantsatcom.giize.com:61555/live/www.genatsat.com/geantsat.com/55.ts
 
 
 
+<item>
+<title>[B][COLOR white ] m3u list[COLOR blue] Daily updates[COLOR blue] Servers[COLOR red][/COLOR][/B]</title> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [COLOR white]Servers[COLOR blue]Daily updates Severs[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>https://albaniaiptv.com/m3u/usa.m3u</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item
