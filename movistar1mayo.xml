@@ -1,327 +1,181 @@
-#EXTM3U
- 
- 
-#EXTINF:-1 tvg-ID="" tvg-name="=======JHG.MASTER=======" tvg-logo="" group-title="SPAIN",=======   SPANISH   =======
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1 tvg-ID="" tvg-name="=======   SPANISH   =======" tvg-logo="" group-title="SPAIN",=======   SPANISH   =======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/2890.ts
-#EXTINF:-1 tvg-ID="#0.es" tvg-name="SP: #0 HD" tvg-logo="http://www.iptvsensation.com/picons/0.png" group-title="SPAIN",SP: #0 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12532.ts
-#EXTINF:-1 tvg-ID="LA1.es" tvg-name="SP: LA 1" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQ2z7RIAvsk-IKUv24lHRVuK-Jvbdx8x8ICnpA8Q7B37pq_YuEz36Ve" group-title="SPAIN",SP: LA 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15907.ts
-#EXTINF:-1 tvg-ID="LA1.es" tvg-name="SP: LA 1 HD" tvg-logo="http://www.iptvsensation.com/picons/la1hd.png" group-title="SPAIN",SP: LA 1 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7661.ts
-#EXTINF:-1 tvg-ID="LA2.es" tvg-name="SP: LA 2" tvg-logo="http://www.iptvsensation.com/picons/la2.png" group-title="SPAIN",SP: LA 2
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7660.ts
-#EXTINF:-1 tvg-ID="Antena3.sp" tvg-name="SP: Antena 3 HD" tvg-logo="http://www.iptvsensation.com/picons/antena3hd.png" group-title="SPAIN",SP: Antena 3 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7710.ts
-#EXTINF:-1 tvg-ID="Antena3.sp" tvg-name="SP: Antena 3" tvg-logo="" group-title="SPAIN",SP: Antena 3
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15474.ts
-#EXTINF:-1 tvg-ID="Cuatro.sp" tvg-name="SP: CUATRO HD" tvg-logo="http://magicboxiptv.dyndns.tv:1978/live/iptvhenry/CanGVZyEeo/1600.ts" group-title="SPAIN",SP: CUATRO HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15411.ts
-#EXTINF:-1 tvg-ID="Cuatro.sp" tvg-name="SP: Cuatro." tvg-logo="http://www.iptvsensation.com/picons/cuatro.png" group-title="SPAIN",SP: Cuatro.
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7686.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: TELECINCO FHD" tvg-logo="" group-title="SPAIN",SP: TELECINCO FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15412.ts
-#EXTINF:-1 tvg-ID="Telecinco.sp" tvg-name="SP: TELECINCO" tvg-logo="http://www.iptvsensation.com/picons/telecincohd.png" group-title="SPAIN",SP: TELECINCO
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/10008.ts
-#EXTINF:-1 tvg-ID="LaSexta.sp" tvg-name="SP: La Sexta HD" tvg-logo="http://www.iptvsensation.com/picons/lasextahd.png" group-title="SPAIN",SP: La Sexta HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7674.ts
-#EXTINF:-1 tvg-ID="LaSexta.sp" tvg-name="SP: La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/125px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",SP: La Sexta
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15909.ts
-#EXTINF:-1 tvg-ID="Neox.sp" tvg-name="SP: Neox" tvg-logo="http://www.iptvsensation.com/picons/neox.png" group-title="SPAIN",SP: Neox
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/14970.ts
-#EXTINF:-1 tvg-ID="Nova.sp" tvg-name="SP: NOVA" tvg-logo="http://www.iptvsensation.com/picons/nova.png" group-title="SPAIN",SP: NOVA
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7668.ts
-#EXTINF:-1 tvg-ID="Mega.es" tvg-name="SP: Mega Tv HD" tvg-logo="http://www.iptvsensation.com/picons/mega.png" group-title="SPAIN",SP: Mega Tv HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7713.ts
-#EXTINF:-1 tvg-ID="FDF.sp" tvg-name="SP: Fdf" tvg-logo="http://www.iptvsensation.com/picons/fdf.png" group-title="SPAIN",SP: Fdf
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7679.ts
-#EXTINF:-1 tvg-ID="Divinity.es" tvg-name="SP: DIVINITY" tvg-logo="http://www.iptvsensation.com/picons/divinity.png" group-title="SPAIN",SP: DIVINITY
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7714.ts
-#EXTINF:-1 tvg-ID="Energy.es" tvg-name="SP: Energy" tvg-logo="http://www.iptvsensation.com/picons/energy.png" group-title="SPAIN",SP: Energy
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7681.ts
-#EXTINF:-1 tvg-ID="AndaluciaTVsat.sp" tvg-name="SP: Andalucia TV" tvg-logo="" group-title="SPAIN",SP: Andalucia TV
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7640.ts
-#EXTINF:-1 tvg-ID="TVGalicia.es" tvg-name="SP: TV Galicia" tvg-logo="" group-title="SPAIN",SP: TV Galicia
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7601.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== ESTILO DE VIDA======" tvg-logo="" group-title="SPAIN",====== ESTILO DE VIDA======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12539.ts
-#EXTINF:-1 tvg-ID="CosmopolitanHD.es" tvg-name="SP: Cosmo HD" tvg-logo="https://i.imgsafe.org/4ba9549320.png" group-title="SPAIN",SP: Cosmo HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13704.ts
-#EXTINF:-1 tvg-ID="CosmopolitanHD.es" tvg-name="SP: Cosmo" tvg-logo="http://www.iptvsensation.com/picons/cosmo.png" group-title="SPAIN",SP: Cosmo
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7621.ts
-#EXTINF:-1 tvg-ID="Cocina.sp" tvg-name="SP: Canal Cocina" tvg-logo="http://www.iptvsensation.com/picons/canalcocina.png" group-title="SPAIN",SP: Canal Cocina
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7629.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: 24 Horas" tvg-logo="https://i.imgsafe.org/4b6cd191cc.png" group-title="SPAIN",SP: 24 Horas
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== INFANTILES ======" tvg-logo="" group-title="SPAIN",====== INFANTILES ======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12536.ts
-#EXTINF:-1 tvg-ID="DisneyChannel.sp" tvg-name="SP: Disney Channel" tvg-logo="http://www.iptvsensation.com/picons/disneychannel.png" group-title="SPAIN",SP: Disney Channel
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7684.ts
-#EXTINF:-1 tvg-ID="DisneyJr.sp" tvg-name="SP: Disney Jr." tvg-logo="http://www.iptvsensation.com/picons/disneyjr.png" group-title="SPAIN",SP: Disney Jr.
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7683.ts
-#EXTINF:-1 tvg-ID="DisneyXD.sp" tvg-name="SP: DISNEY XD" tvg-logo="http://www.iptvsensation.com/picons/disneyxd.png" group-title="SPAIN",SP: DISNEY XD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7682.ts
-#EXTINF:-1 tvg-ID="ClanTVE.sp" tvg-name="SP: Clan TVE" tvg-logo="http://www.iptvsensation.com/picons/clantve.png" group-title="SPAIN",SP: Clan TVE
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7720.ts
-#EXTINF:-1 tvg-ID="Boing.sp" tvg-name="SP: Boing" tvg-logo="http://www.iptvsensation.com/picons/boing.png" group-title="SPAIN",SP: Boing
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7707.ts
-#EXTINF:-1 tvg-ID="NickJunior.sp" tvg-name="SP: Nick Jr." tvg-logo="http://www.iptvsensation.com/picons/nickjr.png" group-title="SPAIN",SP: Nick Jr.
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7670.ts
-#EXTINF:-1 tvg-ID="Nickelodeon.sp" tvg-name="SP: NICKELODEON HD" tvg-logo="http://www.iptvsensation.com/picons/nickelodeon.png" group-title="SPAIN",SP: NICKELODEON HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7669.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== DOCUMENTALES ======" tvg-logo="" group-title="SPAIN",====== DOCUMENTALES ======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12537.ts
-#EXTINF:-1 tvg-ID="Historia.sp" tvg-name="SP: HISTORIA" tvg-logo="http://www.iptvsensation.com/picons/historia.png" group-title="SPAIN",SP: HISTORIA
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7676.ts
-#EXTINF:-1 tvg-ID="Viajar.sp" tvg-name="SP: Viajar HD" tvg-logo="https://i.imgsafe.org/4ada6a57cd.png" group-title="SPAIN",SP: Viajar HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12542.ts
-#EXTINF:-1 tvg-ID="DisneyChannel.sp" tvg-name="SP: Discovery Channel" tvg-logo="http://www.iptvsensation.com/picons/discoverychannel.png" group-title="SPAIN",SP: Discovery Channel
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7620.ts
-#EXTINF:-1 tvg-ID="NatGeoHD.sp" tvg-name="SP: National Geo HD" tvg-logo="" group-title="SPAIN",SP: National Geo HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13706.ts
-#EXTINF:-1 tvg-ID="NationalGeographic.sp" tvg-name="SP: National Geo" tvg-logo="http://www.iptvsensation.com/picons/natgeo.png" group-title="SPAIN",SP: National Geo
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7671.ts
-#EXTINF:-1 tvg-ID="NatGeoWild.sp" tvg-name="SP: National Geo Wild HD" tvg-logo="https://i.imgsafe.org/4adad53547.png" group-title="SPAIN",SP: National Geo Wild HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13707.ts
-#EXTINF:-1 tvg-ID="NatGeoWild.sp" tvg-name="SP: National Geo Wild" tvg-logo="http://www.iptvsensation.com/picons/ngcwild.png" group-title="SPAIN",SP: National Geo Wild
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7672.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Crime + Investigation" tvg-logo="http://www.iptvsensation.com/picons/crimeinvest.png" group-title="SPAIN",SP: Crime + Investigation
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13004.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: NON STOP PEOPLE" tvg-logo="" group-title="SPAIN",SP: NON STOP PEOPLE
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15427.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== CINE ======" tvg-logo="" group-title="SPAIN",====== CINE ======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12538.ts
-#EXTINF:-1 tvg-ID="CanalPlusEstrenos.sp" tvg-name="SP: M. ESTRENOS FHD" tvg-logo="" group-title="SPAIN",SP: M. ESTRENOS FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15414.ts
-#EXTINF:-1 tvg-ID="CanalPlusEstrenos.sp" tvg-name="SP: M.Estrenos" tvg-logo="http://www.iptvsensation.com/picons/mestrenos.png" group-title="SPAIN",SP: M.Estrenos
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7703.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. ACCION HD" tvg-logo="" group-title="SPAIN",SP: M. ACCION HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15415.ts
-#EXTINF:-1 tvg-ID="CanalPlusAccion.es" tvg-name="SP: M. Accion" tvg-logo="http://www.iptvsensation.com/picons/maccion.png" group-title="SPAIN",SP: M. Accion
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7698.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. COMEDIA FHD" tvg-logo="" group-title="SPAIN",SP: M. COMEDIA FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15416.ts
-#EXTINF:-1 tvg-ID="CanalPlusComedia.es" tvg-name="SP: M. Comedia" tvg-logo="http://www.iptvsensation.com/picons/mcomediahd.png" group-title="SPAIN",SP: M. Comedia
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7697.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. DCINE HD" tvg-logo="" group-title="SPAIN",SP: M. DCINE HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15417.ts
-#EXTINF:-1 tvg-ID="DCineEsp.sp" tvg-name="SP: M. Dcine" tvg-logo="http://www.iptvsensation.com/picons/dcineespa1ol.png" group-title="SPAIN",SP: M. Dcine
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7652.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. XTRA FHD" tvg-logo="" group-title="SPAIN",SP: M. XTRA FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15418.ts
-#EXTINF:-1 tvg-ID="CanalPlusXtra.sp" tvg-name="SP: M. XTRA" tvg-logo="http://www.iptvsensation.com/picons/mseriesxtrahd.png" group-title="SPAIN",SP: M. XTRA
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7649.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. SERIES HD" tvg-logo="" group-title="SPAIN",SP: M. SERIES HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15419.ts
-#EXTINF:-1 tvg-ID="CanalPlusSeries.sp" tvg-name="SP: M. Series" tvg-logo="http://www.iptvsensation.com/picons/mseries.png" group-title="SPAIN",SP: M. Series
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7691.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. SERIES XTRA HD" tvg-logo="" group-title="SPAIN",SP: M. SERIES XTRA HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15420.ts
-#EXTINF:-1 tvg-ID="CanalPlusSeriesXtra.sp" tvg-name="SP: M. Series Xtra" tvg-logo="http://www.iptvsensation.com/picons/mseriesxtra.png" group-title="SPAIN",SP: M. Series Xtra
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7690.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Comedy Central HD" tvg-logo="https://i.imgsafe.org/4b58edb7d9.png" group-title="SPAIN",SP: Comedy Central HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13710.ts
-#EXTINF:-1 tvg-ID="ComedyCentral.sp" tvg-name="SP: Comedy Central." tvg-logo="http://www.iptvsensation.com/picons/comedycentral.png" group-title="SPAIN",SP: Comedy Central.
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7687.ts
-#EXTINF:-1 tvg-ID="Hollywood.sp" tvg-name="SP: Hollywood FHD" tvg-logo="http://www.iptvsensation.com/picons/canalhollywoodhd.png" group-title="SPAIN",SP: Hollywood FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7689.ts
-#EXTINF:-1 tvg-ID="Fox.sp" tvg-name="SP: FOX FHD" tvg-logo="http://www.iptvsensation.com/picons/foxhd.png" group-title="SPAIN",SP: FOX FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7643.ts
-#EXTINF:-1 tvg-ID="Fox.sp" tvg-name="SP: Fox." tvg-logo="http://www.iptvsensation.com/picons/fox.png" group-title="SPAIN",SP: Fox.
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7678.ts
-#EXTINF:-1 tvg-ID="FoxLife.sp" tvg-name="SP: Fox Life HD" tvg-logo="https://i.imgsafe.org/4bc85c693c.png" group-title="SPAIN",SP: Fox Life HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13711.ts
-#EXTINF:-1 tvg-ID="FoxLife.sp" tvg-name="SP: FOX LIFE" tvg-logo="http://www.iptvsensation.com/picons/foxlife.png" group-title="SPAIN",SP: FOX LIFE
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7677.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: AMC HD" tvg-logo="" group-title="SPAIN",SP: AMC HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15421.ts
-#EXTINF:-1 tvg-ID="AXNhd.sp" tvg-name="SP: AXN HD" tvg-logo="http://www.iptvsensation.com/picons/axn.png" group-title="SPAIN",SP: AXN HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7653.ts
-#EXTINF:-1 tvg-ID="AXNhd.sp" tvg-name="SP: AXN" tvg-logo="http://www.iptvsensation.com/picons/axnspainhd.png" group-title="SPAIN",SP: AXN
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7709.ts
-#EXTINF:-1 tvg-ID="AXNWhite.es" tvg-name="SP: AXN WHITE HD" tvg-logo="http://www.iptvsensation.com/picons/axnwhite.png" group-title="SPAIN",SP: AXN WHITE HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7708.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: SYFY HD" tvg-logo="http://www.iptvsensation.com/picons/syfyhd.png" group-title="SPAIN",SP: SYFY HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7594.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: SYFY" tvg-logo="http://www.iptvsensation.com/picons/syfy.png" group-title="SPAIN",SP: SYFY
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7666.ts
-#EXTINF:-1 tvg-ID="TCM.sp" tvg-name="SP: TCM HD" tvg-logo="" group-title="SPAIN",SP: TCM HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15423.ts
-#EXTINF:-1 tvg-ID="TCM.sp" tvg-name="SP: TCM" tvg-logo="http://www.iptvsensation.com/picons/tcm.png" group-title="SPAIN",SP: TCM
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7665.ts
-#EXTINF:-1 tvg-ID="TNT.sp" tvg-name="SP: TNT" tvg-logo="http://www.iptvsensation.com/picons/tnt.png" group-title="SPAIN",SP: TNT
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7663.ts
-#EXTINF:-1 tvg-ID="TNT.sp" tvg-name="SP: TNT HD" tvg-logo="" group-title="SPAIN",SP: TNT HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15422.ts
-#EXTINF:-1 tvg-ID="Calle13.sp" tvg-name="SP: CALLE 13 HD" tvg-logo="http://www.iptvsensation.com/picons/calle13hd.png" group-title="SPAIN",SP: CALLE 13 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7705.ts
-#EXTINF:-1 tvg-ID="Paramount.es" tvg-name="SP: PARAMOUNT" tvg-logo="http://www.iptvsensation.com/picons/clantve.png" group-title="SPAIN",SP: PARAMOUNT
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7716.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== Taquilla ======" tvg-logo="" group-title="SPAIN",====== Taquilla ======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12540.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 1" tvg-logo="https://i.imgsafe.org/4b6039da4e.png" group-title="SPAIN",SP: Taquilla 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7612.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 2" tvg-logo="https://i.imgsafe.org/4b596aa165.png" group-title="SPAIN",SP: Taquilla 2
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7610.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 3" tvg-logo="https://i.imgsafe.org/4ba20b2c09.png" group-title="SPAIN",SP: Taquilla 3
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7609.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 4" tvg-logo="https://i.imgsafe.org/4ba213c938.png" group-title="SPAIN",SP: Taquilla 4
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7608.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 5" tvg-logo="https://i.imgsafe.org/4ba1b23238.png" group-title="SPAIN",SP: Taquilla 5
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7607.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 6" tvg-logo="https://i.imgsafe.org/4ba1c757c8.png" group-title="SPAIN",SP: Taquilla 6
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7606.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 7" tvg-logo="https://i.imgsafe.org/4ba1cbf7ec.png" group-title="SPAIN",SP: Taquilla 7
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7605.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 8" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN",SP: Taquilla 8
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7604.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 9" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN",SP: Taquilla 9
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7603.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Taquilla 10" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN",SP: Taquilla 10
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7611.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== EXTRA ======" tvg-logo="" group-title="SPAIN",====== EXTRA ======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15476.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: TOROS HD" tvg-logo="" group-title="SPAIN",SP: TOROS HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15424.ts
-#EXTINF:-1 tvg-ID="CanalPlusToros.es" tvg-name="SP: Toros Tv" tvg-logo="http://www.iptvsensation.com/picons/torostv.png" group-title="SPAIN",SP: Toros Tv
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7701.ts
-#EXTINF:-1 tvg-ID="CazayPesca.es" tvg-name="SP: Caza Y Pesca HD" tvg-logo="http://www.iptvsensation.com/picons/cazaypescahd.png" group-title="SPAIN",SP: Caza Y Pesca HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7688.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: IBERALIA TV" tvg-logo="" group-title="SPAIN",SP: IBERALIA TV
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15425.ts
-#EXTINF:-1 tvg-ID="" tvg-name="====== DEPORTES ======" tvg-logo="" group-title="SPAIN",====== DEPORTES ======
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12541.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP:  M. MOTO GP" tvg-logo="" group-title="SPAIN",SP:  M. MOTO GP
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15438.ts
-#EXTINF:-1 tvg-ID="MovistarMotoGP.es" tvg-name="SP: M. MotoGp HD" tvg-logo="http://www.iptvsensation.com/picons/mmotogp.png" group-title="SPAIN",SP: M. MotoGp HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7616.ts
-#EXTINF:-1 tvg-ID="CanalPlusLiga.es" tvg-name="SP: Canal+ Liga" tvg-logo="http://www.iptvsensation.com/picons/canalplusliga.png" group-title="SPAIN",SP: Canal+ Liga
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7715.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Gol TV" tvg-logo="" group-title="SPAIN",SP: Gol TV
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7702.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M.  FUTBOL FHD" tvg-logo="" group-title="SPAIN",SP: M.  FUTBOL FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15433.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. Futbol" tvg-logo="https://i.imgsafe.org/4b63c5225d.png" group-title="SPAIN",SP: M. Futbol
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13008.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. GOLF" tvg-logo="https://i.imgsafe.org/4bc803ec02.png" group-title="SPAIN",SP: M. GOLF
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13010.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. DEPORTES 1 HD" tvg-logo="" group-title="SPAIN",SP: M. DEPORTES 1 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15434.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. Depotes 1" tvg-logo="" group-title="SPAIN",SP: M. Depotes 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13009.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. DEPORTES 2 HD" tvg-logo="" group-title="SPAIN",SP: M. DEPORTES 2 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15435.ts
-#EXTINF:-1 tvg-ID="CanalPlusDeportes2.es" tvg-name="SP: M. Deportes 2" tvg-logo="https://i.imgsafe.org/4ace8f15f9.png" group-title="SPAIN",SP: M. Deportes 2
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12545.ts
-#EXTINF:-1 tvg-ID="MovistarFormula1.es" tvg-name="SP: M. Formula 1 HD" tvg-logo="http://www.iptvsensation.com/picons/movistarf1hd.png" group-title="SPAIN",SP: M. Formula 1 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15437.ts
-#EXTINF:-1 tvg-ID="MovistarFormula1.es" tvg-name="SP: M. Formula 1" tvg-logo="http://www.iptvsensation.com/picons/movistarf1.png" group-title="SPAIN",SP: M. Formula 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7617.ts
-#EXTINF:-1 tvg-ID="Golf.sp" tvg-name="SP: M. GOLF HD" tvg-logo="http://www.iptvsensation.com/picons/mgolfhd.png" group-title="SPAIN",SP: M. GOLF HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15436.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: M. PARTIDAZO HD" tvg-logo="" group-title="SPAIN",SP: M. PARTIDAZO HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15431.ts
-#EXTINF:-1 tvg-ID="RealMadridTV.sp" tvg-name="SP: Real Madrid" tvg-logo="http://www.iptvsensation.com/picons/realmadridtv.png" group-title="SPAIN",SP: Real Madrid
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7614.ts
-#EXTINF:-1 tvg-ID="BarcaTV.es" tvg-name="SP: Barca TV" tvg-logo="http://www.iptvsensation.com/picons/barcatv.png" group-title="SPAIN",SP: Barca TV
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7662.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Eurosport 1 HD" tvg-logo="" group-title="SPAIN",SP: Eurosport 1 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15439.ts
-#EXTINF:-1 tvg-ID="Eurosport1.es" tvg-name="SP: Eurosport 1" tvg-logo="http://www.iptvsensation.com/picons/eurosport1.png" group-title="SPAIN",SP: Eurosport 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7680.ts
-#EXTINF:-1 tvg-ID="Eurosport2.es" tvg-name="SP: Eurosport 2" tvg-logo="http://www.iptvsensation.com/picons/eurosport2.png" group-title="SPAIN",SP: Eurosport 2
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15475.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN SPORTS HD" tvg-logo="" group-title="SPAIN",SP: BEIN SPORTS HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15440.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BeIN Sports FHD" tvg-logo="" group-title="SPAIN",SP: BeIN Sports FHD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13279.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Bein LaLiga HD" tvg-logo="http://www.iptvsensation.com/picons/beinlaliga.png" group-title="SPAIN",SP: Bein LaLiga HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13709.ts
-#EXTINF:-1 tvg-ID="BeINsports.es" tvg-name="SP: beIN La Liga" tvg-logo="http://www.iptvsensation.com/picons/beinlaliga.png" group-title="SPAIN",SP: beIN La Liga
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12497.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: La Liga TV Bar" tvg-logo="" group-title="SPAIN",SP: La Liga TV Bar
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/13006.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV BAR HD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV BAR HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15429.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA BAR TV 1" tvg-logo="" group-title="SPAIN",SP: LA LIGA BAR TV 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15430.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA HD" tvg-logo="" group-title="SPAIN",SP: LA LIGA HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15428.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA" tvg-logo="" group-title="SPAIN",SP: LA LIGA
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15441.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 1 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 1 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 2 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 2 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15443.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 3 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 3 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15444.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 4 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 4 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15445.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 5 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 5 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15446.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 6 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 6 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15447.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 7 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 7 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15448.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: LA LIGA TV 8 SD" tvg-logo="" group-title="SPAIN",SP: LA LIGA TV 8 SD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 1 HD" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 1 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15450.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 1" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 2 HD" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 2 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15451.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 2" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 2
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 3" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 3
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15455.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 3 HD" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 3 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 4" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 4
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 5" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 5
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15457.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 6" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 6
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 7" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 7
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15459.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: BEIN MAX 8" tvg-logo="" group-title="SPAIN",SP: BEIN MAX 8
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15460.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: MULTIDEPORTES 1" tvg-logo="" group-title="SPAIN",SP: MULTIDEPORTES 1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15461.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: MULTIDEPORTES 2" tvg-logo="" group-title="SPAIN",SP: MULTIDEPORTES 2
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15462.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: MULTIDEPORTES 3" tvg-logo="" group-title="SPAIN",SP: MULTIDEPORTES 3
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15463.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: MULTIDEPORTES 4" tvg-logo="" group-title="SPAIN",SP: MULTIDEPORTES 4
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/15464.ts
-#EXTINF:-1 tvg-ID="Teledeporte.sp" tvg-name="SP: Teledeporte" tvg-logo="http://www.iptvsensation.com/picons/teledeporte.png" group-title="SPAIN",SP: Teledeporte
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7658.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Sol Musica" tvg-logo="http://www.iptvsensation.com/picons/solmsica.png" group-title="SPAIN",SP: Sol Musica
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7721.ts
-#EXTINF:-1 tvg-ID="MTVEsp.sp" tvg-name="SP: MTV Espana" tvg-logo="http://www.iptvsensation.com/picons/mtvespana.png" group-title="SPAIN",SP: MTV Espana
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12535.ts
-#EXTINF:-1 tvg-ID="VH1.sp" tvg-name="SP: VH1" tvg-logo="http://www.iptvsensation.com/picons/vh1.png" group-title="SPAIN",SP: VH1
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7591.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Proyecto 40" tvg-logo="" group-title="SPAIN",SP: Proyecto 40
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7667.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Canal 7 HD" tvg-logo="" group-title="SPAIN",SP: Canal 7 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7631.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: TELEVISA HD" tvg-logo="" group-title="SPAIN",SP: TELEVISA HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7657.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Canal 41 Mar Del" tvg-logo="" group-title="SPAIN",SP: Canal 41 Mar Del
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7632.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Canal 3 HD" tvg-logo="" group-title="SPAIN",SP: Canal 3 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7633.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Canal 2 HD" tvg-logo="" group-title="SPAIN",SP: Canal 2 HD
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Canal Costa" tvg-logo="" group-title="SPAIN",SP: Canal Costa
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7628.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: 3/24" tvg-logo="" group-title="SPAIN",SP: 3/24
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/7642.ts
-#EXTINF:-1 tvg-ID="40TV.sp" tvg-name="SP: 40 TV" tvg-logo="http://www.iptvsensation.com/picons/40tv.png" group-title="SPAIN",SP: 40 TV
-http://tv.iptvsensation.com:6500/live/FRIRSA/FRIRSA1MES/12534.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SP: Canal De Las Estrellas" tvg-logo="http://www.iptvsensation.com/picons/cestrellas.png" group-title="SPAIN",SP: Canal De Las Estrellas
-http://tv.iptvsensation.com:6500/live/FR
+
+
+  <streamingInfos>
+		
+		
+		
+		
+		<item> 
+            <title>[COLOR yellow] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge2.telesport.pw/live/fox/33024.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge1.telesport.pw/live/tnt/2800.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item>
+			
+		<item> 
+            <title>[COLOR yellow] AMC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge4.telesport.pw/live/amc/13652.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SYFY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge1.telesport.pw/live/syfy/2572.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
