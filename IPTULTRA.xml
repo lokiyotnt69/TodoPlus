@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]IPTV Ultra[/COLOR]  [COLOR red]channels[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]IPTV Ultra[/COLOR]  [COLOR red] JHGMASTER[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
