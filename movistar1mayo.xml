@@ -1,8 +1,9 @@
-?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 
   <streamingInfos>
+		
 		
 		
 		
@@ -14,8 +15,7 @@
 		<item> 
             <title>[COLOR yellow] TNT [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge1.telesport.pw/live/tnt/2800.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item>
-			
+        </item>			
 		<item> 
             <title>[COLOR yellow] AMC [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge4.telesport.pw/live/amc/13652.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
@@ -25,8 +25,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://edge1.telesport.pw/live/syfy/2572.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] DISCOVERY MAX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge7.telesport.pw/live/dmax/28890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY MAX</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
