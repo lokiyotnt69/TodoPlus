@@ -4,33 +4,28 @@
 
 
 
-		<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]TOROSTV [/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/tv/digitales/plustoros.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] TOROS TV[/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/toros.html</sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-            </item>
-			
-								
-<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]1[/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://latelete.tv/</referer>
-            <thumbnail></thumbnail>
-            </item>
-		  
+
+<streamingInfos>
+
+
+
+
+
+
+ <item>
+      <title>[COLOR white] TOROSTV [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  movistar Toros HD</link> 
+         </item> 		 
+      <item> 
+          <title>[COLOR blue] TOROSTV [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  movistar Toros HD</link> 
+         </item>
+		 <item> 
+          <title>[COLOR gold] TOROSTV [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  movistar Toros HD</link> 
+         </item> 
+<item> 
+          <title>[COLOR red] TOROSTV [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/BRUJATV/BRUJATV_FIRST_WARNING_FOR_STRONG_PASSWORD/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  movistar Toros HD</link> 
+         </item> 
 	
