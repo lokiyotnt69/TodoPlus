@@ -9,7 +9,7 @@
 
 
 <item>
- <title>[COLOR red].[/COLOR][COLOR yellow][B]World Servers[/B] [/COLOR][COLOR red ][I] JHG MASTER[/I][/COLOR]</title>
+ <title>[COLOR red].[/COLOR][COLOR red][B]World Servers[/B] [/COLOR][COLOR red ][I] JHG MASTER[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR red].[/COLOR][COLOR blue][B] JHG MASTER[/B] [/COLOR][COLOR white ][I] M3U Listas[/I][/COLOR]</title>
+<title>[COLOR white].[/COLOR][COLOR blue][B] JHG MASTER[/B] [/COLOR][COLOR white ][I] M3U Listas[/I][/COLOR]</title>
 <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
 <link>$doregex[makelist2]</link>
 
@@ -134,7 +134,7 @@
 
 
 <item>
-<title>[B][COLOR white ] m3u list[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title> 
+<title>[B][COLOR green ] m3u list[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title> 
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
