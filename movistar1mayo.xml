@@ -13,644 +13,795 @@
 		
 		
 		
-<item>
-<title>=======   ESPAÑA  =======</title>
-<item>
-<title>SP: LA 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15907.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1 </link>
-</item>
-<item>
-<title>SP: LA 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7661.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1 HD </link>
-</item>
-<item>
-<title>SP: LA 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7660.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 2 </link>
-</item>
-<item>
-<title>SP: Antena 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7710.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3 HD </link>
-</item>
-<item>
-<title>SP: Antena 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15474.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3 </link>
-</item>
-<item>
-<title>SP: CUATRO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15411.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO HD </link>
-</item>
-<item>
-<title>SP: Cuatro.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cuatro. </link>
-</item>
-<item>
-<title>SP: TELECINCO FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15412.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO FHD </link>
-</item>
-<item>
-<title>SP: TELECINCO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/10008.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO </link>
-</item>
-<item>
-<title>SP: La Sexta HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7674.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta HD </link>
-</item>
-<item>
-<title>SP: La Sexta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15909.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta </link>
-</item>
-<item>
-<title>SP: Neox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/14970.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Neox </link>
-</item>
-<item>
-<title>SP: NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NOVA </link>
-</item>
-<item>
-<title>SP: Mega Tv HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Mega Tv HD </link>
-</item>
-<item>
-<title>SP: Fdf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7679.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fdf </link>
-</item>
-<item>
-<title>SP: DIVINITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DIVINITY </link>
-</item>
-<item>
-<title>SP: Energy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7681.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Energy </link>
-</item>
-<item>
-<title>SP: Andalucia TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Andalucia TV </link>
-</item>
-<item>
-<title>SP: TV Galicia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7601.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV Galicia </link>
-</item>
-<item>
-<title>====== ESTILO DE VIDA======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12539.ts&amp;streamtype=TSDOWNLOADER&amp;name======= ESTILO DE VIDA====== </link>
-</item>
-<item>
-<title>SP: Cosmo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13704.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cosmo HD </link>
-</item>
-<item>
-<title>SP: Cosmo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7621.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cosmo </link>
-</item>
-<item>
-<title>SP: Canal Cocina</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7629.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Cocina </link>
-</item>
-<item>
-<title>SP: 24 Horas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13003.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 24 Horas </link>
-</item>
-<item>
-<title>====== INFANTILES ======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12536.ts&amp;streamtype=TSDOWNLOADER&amp;name======= INFANTILES ====== </link>
-</item>
-<item>
-<title>SP: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney Channel </link>
-</item>
-<item>
-<title>SP: Disney Jr.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney Jr. </link>
-</item>
-<item>
-<title>SP: DISNEY XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7682.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY XD </link>
-</item>
-<item>
-<title>SP: Clan TVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Clan TVE </link>
-</item>
-<item>
-<title>SP: Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Boing </link>
-</item>
-<item>
-<title>SP: Nick Jr.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7670.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nick Jr. </link>
-</item>
-<item>
-<title>SP: NICKELODEON HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICKELODEON HD </link>
-</item>
-<item>
-<title>====== DOCUMENTALES ======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12537.ts&amp;streamtype=TSDOWNLOADER&amp;name======= DOCUMENTALES ====== </link>
-</item>
-<item>
-<title>SP: HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7676.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HISTORIA </link>
-</item>
-<item>
-<title>SP: Viajar HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12542.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Viajar HD </link>
-</item>
-<item>
-<title>SP: Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7620.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Discovery Channel </link>
-</item>
-<item>
-<title>SP: National Geo HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13706.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo HD </link>
-</item>
-<item>
-<title>SP: National Geo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7671.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo </link>
-</item>
-<item>
-<title>SP: National Geo Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo Wild HD </link>
-</item>
-<item>
-<title>SP: National Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7672.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geo Wild </link>
-</item>
-<item>
-<title>SP: Crime + Investigation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13004.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Crime + Investigation </link>
-</item>
-<item>
-<title>SP: NON STOP PEOPLE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15427.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NON STOP PEOPLE </link>
-</item>
-<item>
-<title>====== CINE ======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12538.ts&amp;streamtype=TSDOWNLOADER&amp;name======= CINE ====== </link>
-</item>
-<item>
-<title>SP: M. ESTRENOS FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15414.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS FHD </link>
-</item>
-<item>
-<title>SP: M.Estrenos</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7703.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.Estrenos </link>
-</item>
-<item>
-<title>SP: M. ACCION HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15415.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION HD </link>
-</item>
-<item>
-<title>SP: M. Accion</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7698.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Accion </link>
-</item>
-<item>
-<title>SP: M. COMEDIA FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15416.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. COMEDIA FHD </link>
-</item>
-<item>
-<title>SP: M. Comedia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7697.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Comedia </link>
-</item>
-<item>
-<title>SP: M. DCINE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15417.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE HD </link>
-</item>
-<item>
-<title>SP: M. Dcine</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7652.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Dcine </link>
-</item>
-<item>
-<title>SP: M. XTRA FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15418.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA FHD </link>
-</item>
-<item>
-<title>SP: M. XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7649.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA </link>
-</item>
-<item>
-<title>SP: M. SERIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES HD </link>
-</item>
-<item>
-<title>SP: M. Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7691.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Series </link>
-</item>
-<item>
-<title>SP: M. SERIES XTRA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA HD </link>
-</item>
-<item>
-<title>SP: M. Series Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7690.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Series Xtra </link>
-</item>
-<item>
-<title>SP: Comedy Central HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13710.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Comedy Central HD </link>
-</item>
-<item>
-<title>SP: Comedy Central.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7687.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Comedy Central. </link>
-</item>
-<item>
-<title>SP: Hollywood FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7689.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Hollywood FHD </link>
-</item>
-<item>
-<title>SP: FOX FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX FHD </link>
-</item>
-<item>
-<title>SP: Fox.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7678.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox. </link>
-</item>
-<item>
-<title>SP: Fox Life HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13711.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox Life HD </link>
-</item>
-<item>
-<title>SP: FOX LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7677.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX LIFE </link>
-</item>
-<item>
-<title>SP: AMC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15421.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC HD </link>
-</item>
-<item>
-<title>SP: AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN HD </link>
-</item>
-<item>
-<title>SP: AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7709.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN </link>
-</item>
-<item>
-<title>SP: AXN WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7708.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE HD </link>
-</item>
-<item>
-<title>SP: SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7594.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY HD </link>
-</item>
-<item>
-<title>SP: SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY </link>
-</item>
-<item>
-<title>SP: TCM HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM HD </link>
-</item>
-<item>
-<title>SP: TCM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM </link>
-</item>
-<item>
-<title>SP: TNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7663.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT </link>
-</item>
-<item>
-<title>SP: TNT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT HD </link>
-</item>
-<item>
-<title>SP: CALLE 13 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7705.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13 HD </link>
-</item>
-<item>
-<title>SP: PARAMOUNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7716.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: PARAMOUNT </link>
-</item>
-<item>
-<title>====== Taquilla ======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12540.ts&amp;streamtype=TSDOWNLOADER&amp;name======= Taquilla ====== </link>
-</item>
-<item>
-<title>SP: Taquilla 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7612.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 1 </link>
-</item>
-<item>
-<title>SP: Taquilla 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7610.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 2 </link>
-</item>
-<item>
-<title>SP: Taquilla 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7609.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 3 </link>
-</item>
-<item>
-<title>SP: Taquilla 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7608.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 4 </link>
-</item>
-<item>
-<title>SP: Taquilla 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7607.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 5 </link>
-</item>
-<item>
-<title>SP: Taquilla 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7606.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 6 </link>
-</item>
-<item>
-<title>SP: Taquilla 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7605.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 7 </link>
-</item>
-<item>
-<title>SP: Taquilla 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7604.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 8 </link>
-</item>
-<item>
-<title>SP: Taquilla 9</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7603.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 9 </link>
-</item>
-<item>
-<title>SP: Taquilla 10</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7611.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 10 </link>
-</item>
-<item>
-<title>====== EXTRA ======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15476.ts&amp;streamtype=TSDOWNLOADER&amp;name======= EXTRA ====== </link>
-</item>
-<item>
-<title>SP: TOROS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS HD </link>
-</item>
-<item>
-<title>SP: Toros Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Toros Tv </link>
-</item>
-<item>
-<title>SP: Caza Y Pesca HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Caza Y Pesca HD </link>
-</item>
-<item>
-<title>SP: IBERALIA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: IBERALIA TV </link>
-</item>
-<item>
-<title>====== DEPORTES ======</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12541.ts&amp;streamtype=TSDOWNLOADER&amp;name======= DEPORTES ====== </link>
-</item>
-<item>
-<title>SP:  M. MOTO GP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  M. MOTO GP </link>
-</item>
-<item>
-<title>SP: M. MotoGp HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. MotoGp HD </link>
-</item>
-<item>
-<title>SP: Canal+ Liga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ Liga </link>
-</item>
-<item>
-<title>SP: Gol TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Gol TV </link>
-</item>
-<item>
-<title>SP: M.  FUTBOL FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15433.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.  FUTBOL FHD </link>
-</item>
-<item>
-<title>SP: M. Futbol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13008.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Futbol </link>
-</item>
-<item>
-<title>SP: M. GOLF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13010.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF </link>
-</item>
-<item>
-<title>SP: M. DEPORTES 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15434.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 1 HD </link>
-</item>
-<item>
-<title>SP: M. Depotes 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13009.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Depotes 1 </link>
-</item>
-<item>
-<title>SP: M. DEPORTES 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15435.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2 HD </link>
-</item>
-<item>
-<title>SP: M. Deportes 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12545.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Deportes 2 </link>
-</item>
-<item>
-<title>SP: M. Formula 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15437.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Formula 1 HD </link>
-</item>
-<item>
-<title>SP: M. Formula 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Formula 1 </link>
-</item>
-<item>
-<title>SP: M. GOLF HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15436.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF HD </link>
-</item>
-<item>
-<title>SP: M. PARTIDAZO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15431.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO HD </link>
-</item>
-<item>
-<title>SP: Real Madrid</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7614.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Real Madrid </link>
-</item>
-<item>
-<title>SP: Barca TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7662.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV </link>
-</item>
-<item>
-<title>SP: Eurosport 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15439.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 1 HD </link>
-</item>
-<item>
-<title>SP: Eurosport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 1 </link>
-</item>
-<item>
-<title>SP: Eurosport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15475.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 2 </link>
-</item>
-<item>
-<title>SP: BEIN SPORTS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15440.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS HD </link>
-</item>
-<item>
-<title>SP: BeIN Sports FHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13279.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BeIN Sports FHD </link>
-</item>
-<item>
-<title>SP: Bein LaLiga HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13709.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bein LaLiga HD </link>
-</item>
-<item>
-<title>SP: beIN La Liga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: beIN La Liga </link>
-</item>
-<item>
-<title>SP: La Liga TV Bar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Liga TV Bar </link>
-</item>
-<item>
-<title>SP: LA LIGA TV BAR HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15429.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR HD </link>
-</item>
-<item>
-<title>SP: LA LIGA BAR TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15430.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA BAR TV 1 </link>
-</item>
-<item>
-<title>SP: LA LIGA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15428.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA HD </link>
-</item>
-<item>
-<title>SP: LA LIGA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 1 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15442.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 1 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 2 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15443.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 2 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 3 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15444.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 3 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 4 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15445.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 4 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 5 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 5 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 6 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15447.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 6 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 7 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15448.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 7 SD </link>
-</item>
-<item>
-<title>SP: LA LIGA TV 8 SD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15449.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 8 SD </link>
-</item>
-<item>
-<title>SP: BEIN MAX 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15450.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1 HD </link>
-</item>
-<item>
-<title>SP: BEIN MAX 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15453.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15451.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2 HD </link>
-</item>
-<item>
-<title>SP: BEIN MAX 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15454.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15455.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15452.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3 HD </link>
-</item>
-<item>
-<title>SP: BEIN MAX 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15456.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 4 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15457.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 5 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15458.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 6 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 7</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15459.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 7 </link>
-</item>
-<item>
-<title>SP: BEIN MAX 8</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15460.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 8 </link>
-</item>
-<item>
-<title>SP: MULTIDEPORTES 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15461.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 1 </link>
-</item>
-<item>
-<title>SP: MULTIDEPORTES 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15462.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 2 </link>
-</item>
-<item>
-<title>SP: MULTIDEPORTES 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15463.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 3 </link>
-</item>
-<item>
-<title>SP: MULTIDEPORTES 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/15464.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 4 </link>
-</item>
-<item>
-<title>SP: Teledeporte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7658.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Teledeporte </link>
-</item>
-<item>
-<title>SP: Sol Musica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7721.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Sol Musica </link>
-</item>
-<item>
-<title>SP: MTV Espana</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MTV Espana </link>
-</item>
-<item>
-<title>SP: VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7591.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: VH1 </link>
-</item>
-<item>
-<title>SP: Proyecto 40</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Proyecto 40 </link>
-</item>
-<item>
-<title>SP: Canal 7 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7631.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 7 HD </link>
-</item>
-<item>
-<title>SP: TELEVISA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7657.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELEVISA HD </link>
-</item>
-<item>
-<title>SP: Canal 41 Mar Del</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7632.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 41 Mar Del </link>
-</item>
-<item>
-<title>SP: Canal 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7633.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 3 HD </link>
-</item>
-<item>
-<title>SP: Canal 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7634.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 2 HD </link>
-</item>
-<item>
-<title>SP: Canal Costa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7628.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Costa </link>
-</item>
-<item>
-<title>SP: 3/24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7642.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 3/24 </link>
-</item>
-<item>
-<title>SP: 40 TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 40 TV </link>
-</item>
-<item>
-<title>SP: Canal De Las Estrellas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7627.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal De Las Estrellas </link>
-</item>
+ <item> 
+            <title>[ES] Bein La Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Bein La Liga</link> 
+        </item> 
+          <item> 
+            <title>ES:Bein_Sport _ES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Bein_Sport _ES_HD</link> 
+        </item> 
+          <item> 
+            <title>ES: BEIN LA LIGA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LA LIGA 1</link> 
+        </item> 
+          <item> 
+            <title>[ES] C LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/581.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ Futbol</link> 
+        </item> 
+          <item> 
+            <title>[ES] MOVISTAR Futboll</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] MOVISTAR Futboll</link> 
+        </item> 
+          <item> 
+            <title>ES: LA LIGATV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA LIGATV BAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES:TELEDEPORTE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELEDEPORTE_HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1875.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Deportes 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Deportes 1</link> 
+        </item> 
+          <item> 
+            <title>ES:DEPORTES.2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DEPORTES.2</link> 
+        </item> 
+          <item> 
+            <title>Movistar_Nat_Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1242.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar_Nat_Geo</link> 
+        </item> 
+          <item> 
+            <title>Movistar_Nat_Geo_Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar_Nat_Geo_Wild</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Toros TV</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Series.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Series.</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Series XTRA.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Series XTRA.</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Moto GP ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Moto GP ES</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Golf</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar F1</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Estrenos</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Dcine Ñ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Dcine Ñ</link> 
+        </item> 
+          <item> 
+            <title>ES_FOX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_FOX_HD</link> 
+        </item> 
+          <item> 
+            <title>ES:FOX_LIFE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_LIFE_HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Asturias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Asturias</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 4</link> 
+        </item> 
+          <item> 
+            <title>ES:La -SextaHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:La -SextaHD</link> 
+        </item> 
+          <item> 
+            <title>ES:TeleticinoHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TeleticinoHD</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1879.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES:ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANTENA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>[ES] Movistar Dcine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Movistar Dcine</link> 
+        </item> 
+          <item> 
+            <title>[ES] MOVISTAR COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] MOVISTAR COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>[ES] MOVISTAR ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] MOVISTAR ACTION HD</link> 
+        </item> 
+          <item> 
+            <title>[ES] Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Barca TV</link> 
+        </item> 
+          <item> 
+            <title>[ES] Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] Real Madrid TV</link> 
+        </item> 
+          <item> 
+            <title>ES:AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN</link> 
+        </item> 
+          <item> 
+            <title>ES:ODESSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ODESSEIA</link> 
+        </item> 
+          <item> 
+            <title>ES: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC</link> 
+        </item> 
+          <item> 
+            <title>ES: CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>ES: CLAN TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CLAN TVE</link> 
+        </item> 
+          <item> 
+            <title>ES: CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1895.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
+        </item> 
+          <item> 
+            <title>ES:LA_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_1_HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE LA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA2</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: -Hollywood-Spain-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/582.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: -Hollywood-Spain-HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy central</link> 
+        </item> 
+          <item> 
+            <title>ES: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1918.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>ES:DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>ES:DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1938.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1939.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DECASA</link> 
+        </item> 
+          <item> 
+            <title>ES: EUROSPORT 1 HD esp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1940.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 1 HD esp</link> 
+        </item> 
+          <item> 
+            <title>ES: EUROSPORT 2 HD esp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 2 HD esp</link> 
+        </item> 
+          <item> 
+            <title>ES: GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1942.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL TV</link> 
+        </item> 
+          <item> 
+            <title>ES: M. PARTIDAZO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1944.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. PARTIDAZO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MTV ESP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1946.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV ESP</link> 
+        </item> 
+          <item> 
+            <title>ES:ES: Canal #0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ES: Canal #0 HD</link> 
+        </item> 
+          <item> 
+            <title>Movistar_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1241.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar_Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>ES:DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_XD</link> 
+        </item> 
+          <item> 
+            <title>ES:NICK_Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NICK_Jr</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Crime&amp;Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Crime&amp;Investigation</link> 
+        </item> 
+          <item> 
+            <title>ES: NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NON STOP PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>ES: Paramount Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Paramount Channel</link> 
+        </item> 
+          <item> 
+            <title>ES: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VH1</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>ES: Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Boing</link> 
+        </item> 
+          <item> 
+            <title>ES.Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES.Energy</link> 
+        </item> 
+          <item> 
+            <title>ES:TAQUILLA_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_1</link> 
+        </item> 
+          <item> 
+            <title>ES:TAQUILLA_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_3</link> 
+        </item> 
+          <item> 
+            <title>ES:TAQUILLA_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1268.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_4</link> 
+        </item> 
+          <item> 
+            <title>ES:TAQUILLA_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_5</link> 
+        </item> 
+          <item> 
+            <title>ES:TAQUILLA_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_6</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA _4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA _4</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_1</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_2</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_3</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_5</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_6</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA_7</link> 
+        </item> 
+          <item> 
+            <title>RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
+        </item> 
+          <item> 
+            <title>RTP 1 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 Mobile</link> 
+        </item> 
+          <item> 
+            <title>SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
+        </item> 
+          <item> 
+            <title>SIC Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Mobile</link> 
+        </item> 
+          <item> 
+            <title>TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
+        </item> 
+          <item> 
+            <title>TVI Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Mobile</link> 
+        </item> 
+          <item> 
+            <title>RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+        </item> 
+          <item> 
+            <title>RTP 2 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 Mobile</link> 
+        </item> 
+          <item> 
+            <title>RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
+        </item> 
+          <item> 
+            <title>RTP 3 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 Mobile</link> 
+        </item> 
+          <item> 
+            <title>TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
+        </item> 
+          <item> 
+            <title>TVI 24 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 Mobile</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS Mobile</link> 
+        </item> 
+          <item> 
+            <title>CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
+        </item> 
+          <item> 
+            <title>BTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV</link> 
+        </item> 
+          <item> 
+            <title>BTV Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV Mobile</link> 
+        </item> 
+          <item> 
+            <title>BTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link> 
+        </item> 
+          <item> 
+            <title>Sport TV 1 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1 Mobile</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 Mobile</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 Mobile</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1523.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + HD</link> 
+        </item> 
+          <item> 
+            <title>PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV</link> 
+        </item> 
+          <item> 
+            <title>SPORTING TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV HD</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>AXN Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN Mobile</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>AMC Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC Mobile</link> 
+        </item> 
+          <item> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD Mobile</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>FOX MOVIES Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES Mobile</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 1 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 Mobile</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 2 Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 Mobile</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 3</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 4</link> 
+        </item> 
+          <item> 
+            <title>TV CINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1526.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1527.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO HD</link> 
+        </item> 
+          <item> 
+            <title>MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV</link> 
+        </item> 
+          <item> 
+            <title>TVI FICCÃO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCÃO</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
+        </item> 
+          <item> 
+            <title>SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
+        </item> 
+          <item> 
+            <title>SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
+        </item> 
+          <item> 
+            <title>SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1524.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
+        </item> 
+          <item> 
+            <title>RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
+        </item> 
+          <item> 
+            <title>TV GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24</link> 
+        </item> 
+          <item> 
+            <title>CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
+        </item> 
+          <item> 
+            <title>KOMBAT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1528.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT</link> 
+        </item> 
+          <item> 
+            <title>MOTORVISION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION HD</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA Mobile</link> 
+        </item> 
+          <item> 
+            <title>CANAL HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>CANAL HISTORIA Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA Mobile</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL Mobile</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY SHOWCASE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE HD</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>CAÇAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇAVISION</link> 
+        </item> 
+          <item> 
+            <title>CAÇA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1519.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
+        </item> 
+          <item> 
+            <title>TRACE URBAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1518.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN</link> 
+        </item> 
+          <item> 
+            <title>AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>FOX CRIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link> 
+        </item> 
+          <item> 
+            <title>FOX COMEDY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY HD</link> 
+        </item> 
+          <item> 
+            <title>E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1525.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
+        </item> 
+          <item> 
+            <title>CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q</link> 
+        </item> 
+          <item> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
+        </item> 
+          <item> 
+            <title>MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>MTV DANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
+        </item> 
+          <item> 
+            <title>SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA Mobile</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA Mobile</link> 
+        </item> 
+          <item> 
+            <title>CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS</link> 
+        </item> 
+  
 
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
