@@ -1,0 +1,225 @@
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1,[COLOR yellow][I][B]-----------------JHG-MASTER----------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,LA 1 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13950.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LA 2 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13949.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tele Cinco HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/4412.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24 Horas (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13908.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13923.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Antena 3 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13948.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13927.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13926.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN White (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13929.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN White HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13928.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Barca TV (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13872.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein La Liga (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13878.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein LA Liga 1 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13875.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein La Liga 2 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13874.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein La Liga HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13873.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13879.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Boing (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13940.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Calle 13 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13916.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Calle 13 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13915.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Decasa (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13917.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Hollywood (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13882.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal panda (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13899.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal Cocina (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Caza Y Pesca HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Clan TVE (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13902.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Centra HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13936.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cosmo HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13922.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Crimen Inves (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13920.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cuatro (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13945.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cuatro HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13952.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13921.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13903.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Junior (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13905.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney XD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13904.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Divinity (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13942.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Energy (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13939.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 1 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13871.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Factoria de Ficcion (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13941.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13935.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13934.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX Life (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13933.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX Life HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13932.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Historia (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13907.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hollywood HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13881.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Iberalia TV (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La Liga TV (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13876.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La Liga TV Bar HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13877.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LA Sexta (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13931.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LA Sexta HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13930.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M. Dcine HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13897.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Accion (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13894.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Accion HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13893.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Cine Espanol (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13886.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Comedia (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13896.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Comedia HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13895.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Dcine (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13898.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Dep 1 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13868.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Dep 2 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13867.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Deports (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13866.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Estrenos HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13885.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Formula 1 HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Futbol (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13870.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Futbol HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13869.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Golf (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13865.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Golf HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13864.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Moto GP HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13862.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Partidazo HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Series (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13890.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Series HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13887.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Series Xtra (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13892.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Series Xtra HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13891.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Xtra (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13889.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,M.Xtra HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13888.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mega (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13937.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mezzo Live HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13859.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV Espana (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13938.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT Geo HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13913.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT Geo Wild (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13912.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT GEO Wild HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13911.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Georaphic (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13914.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Neox (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13947.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nick JR (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13901.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nickelodeon HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13900.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NON Stop People (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13880.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nova (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13946.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Odisea (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13906.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Syfy HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13883.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Syfy Universal Spain (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13884.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCM HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13924.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecinco (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13944.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecinco HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13943.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13951.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Toros TV HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13909.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viajar HD (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13910.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13925.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 1 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13953.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 2 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13955.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 3 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13956.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 4 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13957.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 5 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13958.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 6 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13959.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 7 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13960.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 8 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13961.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 9 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13962.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taquilla 10 (SP)
+plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/Curt/Curt/13954.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
