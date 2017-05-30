@@ -6,31 +6,26 @@
 
   
 		<item> 
-            <title> Cuatro</title> 
+            <title>[COLOR red]*Cuatro [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
-        </item>          
-    
-          <item> 
-            <title> LA 1 ES</title> 
+        </item>    
+        <item> 
+            <title> [COLOR red]*LA 1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 </link> 
         </item> 
           <item> 
-            <title> LA 2 </title> 
+            <title> [COLOR red]*LA 2 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="LA 2 ES" tvg-name="ES: TVE LA 2" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="SPAIN CHANNEL"ES: TVE LA 2</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="ES: TV3 Catalynia HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: TV3 Catalynia HD</title> 
+            <title> [COLOR red]*TV3 [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2145.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: TV3 Catalynia HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: TV3 Catalynia HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="ES: Antena 3" tvg-logo="" group-title="SPAIN CHANNEL"ES: Antena 3</title> 
+            <title> [COLOR red]*ANTENA3 [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Antena 3" tvg-logo="" group-title="SPAIN CHANNEL"ES: Antena 3</link> 
         </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="ES: Azteca Trece" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Trece</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4632.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Azteca Trece" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Trece</link> 
-        </item> 
-          <item> 
+        <item> 
             <title> tvg-ID="" tvg-name="ES: Cuatro" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: Cuatro</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Cuatro" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: Cuatro</link> 
         </item> 
@@ -39,11 +34,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2152.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: N Cuatro HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: N Cuatro HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Telecinco ES" tvg-name="ES: Telecinco HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco HD</title> 
+            <title>[COLOR red]*TELECINCO [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Telecinco ES" tvg-name="ES: Telecinco HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Telecinco ES" tvg-name="ES: Telecinco" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco</title> 
+            <title>[COLOR red]*TELECINCO [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Telecinco ES" tvg-name="ES: Telecinco" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco</link> 
         </item> 
           <item> 
@@ -59,11 +54,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4630.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: RTVA" tvg-logo="" group-title="SPAIN CHANNEL"ES: RTVA</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Baby TV ES" tvg-name="ES: Baby TV" tvg-logo="" group-title="SPAIN CHANNEL"ES: Baby TV</title> 
+            <title>[COLOR red]*BABY TV [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Baby TV ES" tvg-name="ES: Baby TV" tvg-logo="" group-title="SPAIN CHANNEL"ES: Baby TV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Boing ES" tvg-name="ES: BOING" tvg-logo="" group-title="SPAIN CHANNEL"ES: BOING</title> 
+            <title>[COLOR red]*BOING [/COLOR] </title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Boing ES" tvg-name="ES: BOING" tvg-logo="" group-title="SPAIN CHANNEL"ES: BOING</link> 
         </item> 
           <item> 
