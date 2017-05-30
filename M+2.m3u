@@ -3,6 +3,11 @@
 
 #EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+
+
+
+#EXTINF:-1,es:mtv
+http://192.99.47.130:8000/live/stalker2/stalker2/604.ts
 #EXTINF:-1,es#0
 http://192.99.47.130:8000/live/stalker2/stalker2/605.ts
 #EXTINF:-1,es:mtv
