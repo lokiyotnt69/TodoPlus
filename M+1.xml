@@ -1,201 +1,477 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-
-
-
- 
+   
+          <item> 
+            <title>LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3166.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4375.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+        </item> 
+          <item> 
+            <title>LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3167.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3176.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4387.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+        </item> 
+          <item> 
+            <title>CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3168.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4378.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3169.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4371.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3170.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4374.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
+        </item> 
+          <item> 
+            <title>24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3224.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
+        </item> 
+          <item> 
+            <title>MEGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5753.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA HD</link> 
+        </item> 
+          <item> 
+            <title>DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3226.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3233.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
+        </item> 
+          <item> 
+            <title>NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3175.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item> 
+          <item> 
+            <title>ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5852.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISEA</link> 
+        </item> 
+          <item> 
+            <title>FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3245.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+        </item> 
+          <item> 
+            <title>COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3204.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>PARAMOUNT CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>TELENOVELAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8667.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELENOVELAS</link> 
+        </item> 
+          <item> 
+            <title>CANAL ESTRELLAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3174.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ESTRELLAS</link> 
+        </item> 
+          <item> 
+            <title>TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3171.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>CANAL SUR ANDALUCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3182.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR ANDALUCIA</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ #0</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3183.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ #0</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3187.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4379.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3192.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4385.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ACCION</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8655.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3191.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3189.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4384.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DCINE</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3194.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3186.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3184.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4380.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ XTRA</link> 
+        </item> 
+          <item> 
+            <title>AXN ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3198.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN ES</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4386.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE ES</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3196.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD ES</link> 
+        </item> 
+          <item> 
+            <title>FOX HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD ES</link> 
+        </item> 
+          <item> 
+            <title>FOX ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4376.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ES</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE ES</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8656.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3173.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>COSMO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3180.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO</link> 
+        </item> 
+          <item> 
+            <title>TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3243.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+        </item> 
+          <item> 
+            <title>DCINE ESPANOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3203.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE ESPANOL</link> 
+        </item> 
+          <item> 
+            <title>CLAN TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3181.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TVE</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD ES</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3202.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD ES</link> 
+        </item> 
+          <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3172.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item> 
+          <item> 
+            <title>BEIN LA LIGA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4536.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA SD</link> 
+        </item> 
+          <item> 
+            <title>BEIN LA LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8659.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>LALIGATV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5837.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR HD</link> 
+        </item> 
+          <item> 
+            <title>LALIGATV BAR SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8660.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR SD</link> 
+        </item> 
+          <item> 
+            <title>GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/7258.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ PARTIZADO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3215.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ PARTIZADO HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3211.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORTS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8661.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS SD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ FÚTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4382.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FÚTBOL</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ DEPORTES SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8662.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES SD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3212.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3213.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES 2 HD</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ DEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4383.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES 2</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3222.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1 HD</link> 
+        </item> 
+          <item> 
+            <title>MOTOGP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP HD</link> 
+        </item> 
+          <item> 
+            <title>MOTOGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4373.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR+ GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3216.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ GOLF</link> 
+        </item> 
+          <item> 
+            <title>BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/7259.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>TELEDEPORTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTE</link> 
+        </item> 
+          <item> 
+            <title>CULTURAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8666.ts&amp;streamtype=TSDOWNLOADER&amp;name=CULTURAL</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5851.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL ES</link> 
+        </item> 
+          <item> 
+            <title>NATI GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3235.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATI GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4372.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD ES</link> 
+        </item> 
+          <item> 
+            <title>A &amp; E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3242.ts&amp;streamtype=TSDOWNLOADER&amp;name=A &amp; E</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3238.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3240.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>VIAJAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4370.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link> 
+        </item> 
+          <item> 
+            <title>MTV ESPANA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3225.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPANA</link> 
+        </item> 
+          <item> 
+            <title>CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3239.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
+        </item> 
+          <item> 
+            <title>NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3244.ts&amp;streamtype=TSDOWNLOADER&amp;name=NON STOP PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3223.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>NIÑOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8663.ts&amp;streamtype=TSDOWNLOADER&amp;name=NIÑOS</link> 
+        </item> 
+          <item> 
+            <title>DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL ES</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3228.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA ES</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JR ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/4377.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JR ES</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8664.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON HD ES</link> 
+        </item> 
+          <item> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3234.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item> 
+          <item> 
+            <title>NICK JR ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/8665.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR ES</link> 
+        </item> 
+          <item> 
+            <title>BABY TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/3232.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV ES</link> 
+        </item> 
+          <item> 
+            <title>BEIN LA LIGA 1  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5850.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA 1  HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN LA LIGA MAX 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5849.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA MAX 1 HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN LA LIGA MAX 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5848.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA MAX 2 HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN LIGA BAR 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5833.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA BAR 1</link> 
+        </item> 
+          <item> 
+            <title>BEIN LIGA BAR 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5834.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA BAR 2</link> 
+        </item> 
+          <item> 
+            <title>BEIN LIGA BAR 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5835.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA BAR 3</link> 
+        </item> 
+          <item> 
+            <title>BEIN LIGA BAR 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5836.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA BAR 4</link> 
+        </item> 
+          <item> 
+            <title>MULTIDEPORTE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5860.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIDEPORTE 1</link> 
+        </item> 
+          <item> 
+            <title>MULTIDEPORTE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5859.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIDEPORTE 2</link> 
+        </item> 
+          <item> 
+            <title>MULTIFUTEBOL 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5858.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIFUTEBOL 1</link> 
+        </item> 
+          <item> 
+            <title>MULTIFUTEBOL 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5857.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIFUTEBOL 2</link> 
+        </item> 
+          <item> 
+            <title>MULTIFUTEBOL 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5856.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIFUTEBOL 3</link> 
+        </item> 
+          <item> 
+            <title>MULTIFUTEBOL 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5855.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIFUTEBOL 4</link> 
+        </item> 
+          <item> 
+            <title>MULTIFUTEBOL 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5854.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIFUTEBOL 5</link> 
+        </item> 
+          <item> 
+            <title>MULTIFUTEBOL 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5853.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIFUTEBOL 6</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5846.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 1 HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5847.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 1</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5845.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 2</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5843.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 3</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 4</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5841.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 5</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5840.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 6</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5839.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 7</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magikserv.com/live/LUXCOMBI-0646/FGQY459I/5838.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 8</link> 
+        </item> 
   
- <item>
-<link>http://Ignoreme</link>
-<title>[COLOR lime] -----------------------------------LISTA--- [/COLOR][COLOR white] ---I P T V-----2017--- [/COLOR][COLOR white] ------ 18 MAYO ------- [/COLOR]</title>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] TECNOTV - http://144.217.255.123:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://144.217.255.123:8000/get.php?username=tecnotv&password=roxtvplus2017&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] RADIOSATNA - http://4k.electrodahri.com:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://4k.electrodahri.com:8000/get.php?username=radiosatna.tk&password=BJ527TgFIf&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] 1 - http://bestiptv01.com:8080 [/COLOR][COLOR white] ESP/IT/UK [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://bestiptv01.com:8080/get.php?username=1&password=1&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] CURT - http://193.70.15.59:8000 [/COLOR][COLOR white] ESP [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://193.70.15.59:8000/get.php?username=Curt&password=Curt&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] CARLA-ROJAS - http://104.245.96.214:8000 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://104.245.96.214:8000/get.php?username=Carla-Rojas&password=iptvpremium&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] STALKERDIRECT - http://192.99.149.20:8080 [/COLOR][COLOR white] ESP estable [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://192.99.149.20:8080/get.php?username=stalkerdirect&password=0kozpapBTb&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] RYANRIVIERE - http://37.59.26.76:6500 [/COLOR][COLOR white] ESP/UK/IT [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://37.59.26.76:6500/get.php?username=ryanriviere24@gmail.com&password=Wfdy30rB56&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] RYANRIVIERE - http://tv.iptvsensation.com:6500 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://tv.iptvsensation.com:6500/get.php?username=ryanriviere24@gmail.com&password=Wfdy30rB56&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] www.genatsat.com - http://geantsat-com.accesscam.org:61555 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://geantsat-com.accesscam.org:61555/get.php?username=www.genatsat.com&password=12052017genatsat.com&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] KIKO - http://clientportal.link:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://clientportal.link:8080/get.php?username=kiko&password=kiko1&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
- 
- 
-  
-  
-		
-		
