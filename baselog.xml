@@ -29,3 +29,30 @@
 <fanart></fanart>
 <externallink></externallink>
 </item>
+
+
+
+<item>
+<title>[COLOR white]*ZONA DEPORTES[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Zonadeportes1.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>[COLOR white]*WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR red]*JHG MASTER Server 2 [/COLOR](ESPAÑA) </title>
+<link>http://Ignoreme</link>
+<externallink>http://192.99.149.20:8080/get.php?username=grspan&amp;password=sxlk2slkx&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+</item>
