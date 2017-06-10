@@ -1,287 +1,4540 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<streamingInfos>
+ 
+
+ Primero TDT Y AUTONOMICAS
+ <streamingInfos>
+ 
+        <item> 
+          <title>                                                    |•| CANALES TDT |•| </title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link> 
+      </item> 
+<streamingInfos>
+        
+    <channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►CANALES[/COLOR]</name>
+    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    <fanart>URL DE LA IMAGEN DE FONDO</fanart>
+ 
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA 1</title>
+<link>http://149.100.19.147:8000/play/a01p</link>
+<thumbnail>http://img.rtve.es/v/3347/</thumbnail>
+<fanart>https://i.blogs.es/75317b/logo_tve_1/original.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA 2</title>
+<link>http://149.100.19.147:8000/play/a01q</link>
+<thumbnail>http://www.aeas.es/aeas_rep/ShowImage.jsp?filePath=/var/www/vhosts/asoaeas.net/aeas_pro/AEAS_Excel/2015-10-27 12:55:57.241Logo tve2.jpg</thumbnail>
+<fanart>http://img.rtve.es/a/3803139?w=1180&preview=1479280957704.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ANTENA 3 HD</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://3.bp.blogspot.com/-r0ZSfApmBPI/VSiWrkaNhmI/AAAAAAAAAmE/HNmaaERRznU/s320/Antena+3.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/562240130761515008/0-y3GBYM.jpeg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CUATRO 1</title>
+<link>http://149.100.19.147:8000/play/a01j</link>
+<thumbnail>http://revista-digital.verdadera-seduccion.com/wp-content/uploads//2008/09/canal_cuatro.jpg</thumbnail>
+<fanart>http://i3.photobucket.com/albums/y83/funes/cuatro.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CUATRO 2</title>
+<link>http://88.148.69.129:9090/play/a01k</link>
+<thumbnail>http://revista-digital.verdadera-seduccion.com/wp-content/uploads//2008/09/canal_cuatro.jpg</thumbnail>
+<fanart>http://i3.photobucket.com/albums/y83/funes/cuatro.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TELE 5</title>
+<link>http://149.100.19.147:8000/play/a01i</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/05/telecinco.jpg</thumbnail>
+<fanart>http://www.diesl.com/wp-content/uploads/2012/05/telecinco.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TELE 5 HD (1080)</title>
+<link>http://149.100.19.147:8000/play/a01m</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/05/telecinco.jpg</thumbnail>
+<fanart>http://www.diesl.com/wp-content/uploads/2012/05/telecinco.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA SEXTA HD</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/lasexta-logo-mjg-20140530.jpg</thumbnail>
+<fanart>http://s.libertaddigital.com/fotos/noticias/lasexta-logo-mjg-20140530.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 24 HORAS</title>
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8</link>
+<thumbnail>http://img.rtve.es/imagenes/multisenal-24/1361962728583.png</thumbnail>
+<fanart>http://img.rtve.es/v/3341/</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ [Foto]
+ <item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MEGA</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://todotele.com/wp-content/uploads/2015/07/LOGO-MEGA.jpg</thumbnail>
+<fanart>http://todotele.com/wp-content/uploads/2015/07/LOGO-MEGA.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NOVA</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhls/geonova_1@379404/index_2_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.antena3.com/imagesranking/4/3/43EcFjPT.jpg</thumbnail>
+<fanart>http://www.antena3.com/imagesranking/4/3/43EcFjPT.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NEOX</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</thumbnail>
+<fanart>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ATRESERIES</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries.jpg</thumbnail>
+<fanart>http://www.culturamas.es/wp-content/uploads/2015/11/atreseries.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY CHANNEL</title>
+<link>https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8</link>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-g4tm4_61fae1fe.png?region=0,0,750,334</thumbnail>
+<fanart>http://img.oxfordpoetryelection.com/resize/2017/02/14/medium-disney-channel-10th-logo-png.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CLAN TVE</title>
+<link>http://149.100.19.147:8000/play/a01s</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png</thumbnail>
+<fanart>http://img.irtve.es/im/2883991/?w=400</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BOING 1</title>
+<link>http://149.100.19.147:8000/play/a00v</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/2/22/Boinges.png/revision/latest?cb=20160313214531</thumbnail>
+<fanart>http://www.sarapedrero.com/images/Boing_logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BOING 2</title>
+<link>http://93.158.220.149:5001/play/a018</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/2/22/Boinges.png/revision/latest?cb=20160313214531</thumbnail>
+<fanart>http://www.sarapedrero.com/images/Boing_logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EURONEWS</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TV3 CAT</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b548000_DVR.m3u8</link>
+<thumbnail>http://logotiposvectoriales.com/imagenes/logotv3cat.gif</thumbnail>
+<fanart>http://logotiposvectoriales.com/imagenes/logotv3cat.gif</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ <item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TELE MADRID</title>
+<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-iF-xfeAzC4U/AAAAAAAAAAI/AAAAAAAAAAA/6ifSYjJnJF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://www.cineytele.com/wp-content/uploads/2015/12/telemadrid.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CYL7</title>
+<link>http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_348/chunklist.m3u8?wowzasessionid=834483401&secHash=5a4f518140baea939a6855b3ed8066bc</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_CyLTV.svg/260px-Logo_CyLTV.svg.png</thumbnail>
+<fanart>http://todotele.com/wp-content/uploads/2015/02/cyl7_horizontal.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ETB EUSKADI</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-b.m3u8?sd=8&rebase=on</link>
+<thumbnail>http://logos.streamsites.eu/2617_eitb-canal-vasco_overview.png</thumbnail>
+<fanart>http://www.eitb.eus/multimedia/images/2012/12/27/1006644/1006644_canal_vasco_foto610x342.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]INTERECONOMÍA TV</title>
+<link>http://195.55.74.204/rtpa/tv-iphone/stream.m3u8?GKID=740d8fce3a5c11e7adc200163e914f69&fspref=aHR0cDovL3R2ZXNwYW5hLmJsb2dzcG90LmNvbS5lcy8yMDEzLzA1L2FzdHVyaWFzLTctZW4tZGlyZWN0by5odG1s</link>
+<thumbnail>http://www.formulatv.com/images/noticias/36000/36061/1_f013ef0bed.jpg</thumbnail>
+<fanart>http://www.formulatv.com/images/noticias/36000/36061/1_f013ef0bed.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ASTURIAS 7</title>
+<link>http://195.55.74.204/rtpa/tv-iphone/stream.m3u8?GKID=740d8fce3a5c11e7adc200163e914f69&fspref=aHR0cDovL3R2ZXNwYW5hLmJsb2dzcG90LmNvbS5lcy8yMDEzLzA1L2FzdHVyaWFzLTctZW4tZGlyZWN0by5odG1s</thumbnail>
+<fanart>http://www.rtpa.es/fotos//10/06/121275553780_TPAlogo09.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]POPULAR TV CANTABRIA</title>
+<link>http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8</link>
+<thumbnail>http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg</thumbnail>
+<fanart>https://i2.wp.com/populartvcantabria.com/wp-content/uploads/2016/12/popular-tv.jpg?fit=450,264</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SPORT 3</title>
+<link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b1296000.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/4a2fad639838c8994d8b85599384468a</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/807606523765649408/GODu5Swr.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]3/24</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/f73c555900260978803182d96eda4b3d</thumbnail>
+<fanart>http://www.directe.cat/imatges/nou-3-24.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]13TV</title>
+<link>http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w2073880088_b700000.m3u8</link>
+<thumbnail>http://www.formulatv.com/images/noticias/26800/26864/1.jpg</thumbnail>
+<fanart>http://www.formulatv.com/images/noticias/26800/26864/1.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ [Foto]
+ <item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SUPER 3/CANAL 33</title>
+<link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b1296000.m3u8</link>
+<thumbnail>http://ibeconomia.com/wp-content/uploads/2015/11/logos-tv.jpg</thumbnail>
+<fanart>http://www.diariwin.cat/wp-content/uploads/s31.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]GOL TV</title>
+<link></link>
+<thumbnail>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</thumbnail>
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]GOL TV 1</title>
+<link>http://93.158.220.133:5000/play/a02c</link>
+<thumbnail>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</thumbnail>
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]GOL TV 2</title>
+<link>http://149.100.19.147:8000/play/a010</link>
+<thumbnail>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</thumbnail>
+<fanart>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DIVINITY</title>
+<link>http://88.148.69.129:9090/play/a01m</link>
+<thumbnail>http://www.mediaset.es/mediasetcom/brand-download/png/divinity_circular_500.png</thumbnail>
+<fanart>http://i.bssl.es/telelocura/2012/04/divinity.bmp</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FDF FACTORIA</title>
+<link>http://edge6.telesport.pw/live/fdf/index.m3u8|User-Agent=iPad</link>
+<thumbnail>http://publiespstatic-a.akamaihd.net/FDF_PUBIMA20130221_0008_17.jpg</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2013-07/364067/4078862_640px.jpg?1374757155</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ENERGY</title>
+<link>http://93.158.220.149:5001/play/a019</link>
+<thumbnail>http://www.cineytele.com/wp-content/uploads/2015/11/energy-logo-mediaset-500-2.jpg</thumbnail>
+<fanart>http://www.cineytele.com/wp-content/uploads/2015/11/energy-logo-mediaset-500-2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TV GALICIA</title>
+<link></link>
+<thumbnail>http://www.clag.es/sites/default/files/noticias/imagen/2015/10/28/tvg_logo.png</thumbnail>
+<fanart>http://www.lapublicidad.net/wp-content/uploads/2016/09/imagen_noticia_5039.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL SUR ANDALUCIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3302.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20CANAL%20SUR%20A.</link>
+<thumbnail>http://blogs.canalsur.es/saladeprensa/files/CANAL_SUR_ANDALUCIA1-300x294.jpg</thumbnail>
+<fanart>http://s.libertaddigital.com/fotos/noticias/canalsur-mjg.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL DE CASA</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3305.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20CANAL%20DECASA</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/avatars/canaldecasa_1383662784_280.jpg</thumbnail>
+<fanart>http://tutele.s3.amazonaws.com/wp-content/uploads/2015/03/Canal-Decasa.jpg</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NON STOP PEOPLE</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3280.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20NONSTOPEOPLE</link>
+<thumbnail>https://pbs.twimg.com/profile_images/712920605876690944/27aSrrXV.jpg</thumbnail>
+<fanart>https://i.blogs.es/f5f211/non-stop-people/original.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RTV ESPAÑA 1</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3313.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20RT%20Spain</link>
+<thumbnail>https://i.ytimg.com/vi/KPOJz25DYkI/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/KPOJz25DYkI/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RTV ESPAÑOL 2</title>
+<link>http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RTV ESPAÑOL 3</title>
+<link>http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RTV CEUTA</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3312.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20RTV%20Ceuta</link>
+<thumbnail>http://media.tvalacarta.info/canales/256x256/rtvceuta.png</thumbnail>
+<fanart>https://esp.rt.com/actualidad/public_images/313/3137042acf00ed53dd08f9a292bbc937_article.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL LA OTRA</title>
+<linK>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-QKdA61PEUIU/VNk8XG4TqaI/AAAAAAAACPw/ochRP4JDOp4/s340-c/la-otra-telemadrid.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-QKdA61PEUIU/VNk8XG4TqaI/AAAAAAAACPw/ochRP4JDOp4/s340-c/la-otra-telemadrid.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 101</title>
+<linK>http://cls.todostreaming.eu/101tv/livestream2/.m3u8</link>
+<thumbnail>http://files.antenista.webnode.es/200002502-399603a7ea/101tv.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-wC5bIb5ooRM/VIY53CnVRaI/AAAAAAAABVc/KQpcG1Ki9GY/s1600/101-tv-en-directo,-online.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ AHORA PLUS LISTA1
+ <streamingInfos>
+ 
+        <item>
+           <title>                                                          |.| CANALES |.|</title>
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+      </item>
+<streamingInfos>
+ 
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********MOVISTAR + Y CINE**********MOVISTAR + Y CINE**********MOVISTAR + Y CINE**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</thumbnail>
+<fanart>http://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR #0</title>
+<link>http://edge2.telesport.pw/live/plus1/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2015/12/movistar-0-2.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2015/12/movistar-0-2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COSMO TV</title>
+<linK>http://cdn3.shurs.xyz/verdirectotv/15/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png</thumbnail>
+<fanart>http://s3-eu-west-1.amazonaws.com/rankia/images/valoraciones/0020/3460/movistar-plus-.png?1436255144</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ACCIÓN</title>
+<link>http://edge2.telesport.pw/live/plusaccion/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-accion.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1200px-Movistar_Acción.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+ 
+
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ESTRENOS</title>
+<link>http://edge1.telesport.pw/live/plusestrenos/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1200px-Movistar_Estrenos.svg.png</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg?x=634</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COMEDIA HD</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COMEDIA</title>
+<link>http://cdn2.shurs.xyz/verliga/1/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DCINE</title>
+<link>http://cdn2.shurs.xyz/verliga/3/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-dcine.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DCINE 1-2</title>
+<link></link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-dcine.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR CINE Ñ</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MovistarCineÑ.png/1200px-MovistarCineÑ.png</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111652i5C6AECD1888E0BFE/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********DEPORTES**********DEPORTES**********DEPORTES**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>https://i.ytimg.com/vi/Kdcl_EScjTw/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Kdcl_EScjTw/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN SPORT</title>
+<link>http://edge1502.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest?cb=20140328172314</thumbnail>
+<fanart>https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN LA LIGA</title>
+<link>http://edge1506.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8|User-Agent=iPad</link>
+<thumbnail>http://www.mundoplus.tv/img/0b453954f3a34adbf9fdb65025a674bf</thumbnail>
+<fanart>http://www.mundoplus.tv/img/0b453954f3a34adbf9fdb65025a674bf</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN LA LIGA 1</title>
+<link></thumbnail>
+<fanart>https://lh3.googleusercontent.com/dSKprXwjvlhGD3sle1Q0uG80gOyDf2frx6s1qv6-k4j96dkW1tCIgnKU47MBjppzEaRK=w300</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN LA LIGA 2</title>
+<link></link>
+<thumbnail>http://latelete.tv/img/beinlaliga.png</thumbnail>
+<fanart>http://www.clipartkid.com/images/12/description-number-2-in-light-blue-rounded-square-svg-hBYikM-clipart.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA LIGA TV BAR HD</title>
+<link></link>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</thumbnail>
+<fanart>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA LIGA TV</title>
+<link>http://edge1508.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</thumbnail>
+<fanart>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA LIGA TV BAR TV 1</title>
+<link></link>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</thumbnail>
+<fanart>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR PARTIDAZO HD</title>
+<link></link>
+<thumbnail>https://cdn.sincroguia.tv/uploads/channels/logo-transparent-movistar-el-partidazo-hd-855.jpg</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111635i12697E61697C6874/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR PARTIDAZO</title>
+<link></link>
+<thumbnail>https://cdn.sincroguia.tv/uploads/channels/logo-transparent-movistar-el-partidazo-hd-855.jpg</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111635i12697E61697C6874/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR FUTBOL HD</title>
+<link></link>
+<thumbnail>http://resource.t13.cl/img/img-disp/logo-movistar.png</thumbnail>
+<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/0/05/MovistarFutbol.png/revision/latest?cb=20160818152152</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR FUTBOL</title>
+<link>http://edge1508.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://resource.t13.cl/img/img-disp/logo-movistar.png</thumbnail>
+<fanart>http://vignette1.wikia.nocookie.net/logopedia/images/0/05/MovistarFutbol.png/revision/latest?cb=20160818152152</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DEPORTES 1</title>
+<link>http://edge1508.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111638i1580B6528385CB55/image-size/original?v=v2&px=-1</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111638i1580B6528385CB55/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DEPORTES 2 (1080)</title>
+<link></link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111639iD0549753EF2632A8/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR GOLF HD 1080</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111640i14C587E782206722/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR GOLF</title>
+<link>http://edge1505.livesports.pw/live/vergolfespef14708285db183/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111640i14C587E782206722/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR F1 HD</title>
+<link></link>
+<thumbnail>https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg</thumbnail>
+<fanart>http://pitlanef1.es/wp-content/uploads/2016/02/Movistar-F1.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR F1</title>
+<link>http://edge1504.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg</thumbnail>
+<fanart>http://pitlanef1.es/wp-content/uploads/2016/02/Movistar-F1.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR MOTO GP</title>
+<link>http://edge1502.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://static3.masmoto.net/competicion/files/2015/04/movistar-motogp-660x330.jpg</thumbnail>
+<fanart>http://www.vootar.com/imgs/elementos/_Movistar Moto GP.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 1 HD</title>
+<link></link>
+<thumbnail>https://media.info/i/lf/0/1447433721/1065.png</thumbnail>
+<fanart>https://media.info/i/lf/0/1447433721/1065.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 1</title>
+<link>http://edge1505.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://media.info/i/lf/0/1447433721/1065.png</thumbnail>
+<fanart>https://media.info/i/lf/0/1447433721/1065.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 2</title>
+<link>http://edge1508.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</thumbnail>
+<fanart>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA LIGA TV 2</title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR white]|•|  [/COLOR]LA LIGA TV 3</title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR white]|•|  [/COLOR]LA LIGA TV 4</title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR white]|•|  [/COLOR]LA LIGA TV 5</title>
+<link</link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR white]|•|  [/COLOR]LA LIGA TV 6</title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR white]|•|  [/COLOR]LA LIGA TV 7</title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]LA LIGA TV 8</title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN MAX SPORT 1 HD</title>
+<link></link>
+<thumbnail>https://i0.wp.com/cafe-tv.net/wp-content/uploads/2017/03/Bein-Sport-Max-1-Live-Streaming-–-MENA-Arabe-HD.png?resize=350,200&ssl=1</thumbnail>
+<fanart>http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN MAX SPORT 2 HD</title>
+<link></link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/2/2f/Beinsport2.jpg/revision/latest?cb=20170302102513</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg/revision/latest?cb=20140712174936</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BETIS TV</title>
+<linK>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
+<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
+<fanart>http://elcorreoweb.es/documents/10157/0/675x400/0c0/0d0/none/10703/ENGJ/image_content_17879799_20160415202519.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BARçA TV</title>
+<linK></link>
+<thumbnail>http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2014-08/385719/4507906_640px.jpg?1473825359</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]REAL MADRID TV</title>
+<linK>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?</link>
+<thumbnail>http://movistar.i.lithium.com/t5/image/serverpage/image-id/116744i0573F208BA2B822B?v=1.0</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/116744i0573F208BA2B822B?v=1.0</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS</title>
+<link>http://cdn2.shurs.xyz/verdirectotv/9/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://www.comparaiso.es/images/canalplustoros_300.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********SERIES**********SERIES**********SERIES**********SERIES**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>https://i.blogs.es/d5c6b2/650_1000_movistar-series-1/original.jpg</thumbnail>
+<fanart>https://i.blogs.es/d5c6b2/650_1000_movistar-series-1/original.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES HD (1080)</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/839441053056913409/xuMO5zsq_400x400.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/839441053056913409/xuMO5zsq_400x400.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES EXTRA</title>
+<linK></link>
+<thumbnail>http://www.mundoplus.tv/img/08503ab172fa3c5e6adb50b4dc6b5b19</thumbnail>
+<fanart>http://parrillatv.mundo-r.com/parrillatv/imagenes/canales/canalplus-series-xtra-hd.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES EXTRA 2</title>
+<linK></link>
+<thumbnail>http://www.mundoplus.tv/img/08503ab172fa3c5e6adb50b4dc6b5b19</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2zXIfR8Vxar93sJOdgO7KNRrG8_1lA3M_pep5FLV7NY4l0xe0</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]H0LLYWOOD HD</title>
+<linK></link>
+<thumbnail>http://www.tvhoradada.com/images/logos/canales/hollywood.png</thumbnail>
+<fanart>http://epsmotiongraphics.com/wp-content/uploads/2016/10/4_CANAL-HOLLYWOOD_07-1.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]H0LLYWOOD</title>
+<linK>http://edge1203.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8|User-Agent=|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://www.tvhoradada.com/images/logos/canales/hollywood.png</thumbnail>
+<fanart>http://epsmotiongraphics.com/wp-content/uploads/2016/10/4_CANAL-HOLLYWOOD_07-1.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]PARAMOUNT CHANNEL</title>
+<linK></link>
+<thumbnail>http://morbidlybeautiful.com/wp-content/uploads/2017/02/IMG_2435.png</thumbnail>
+<fanart>https://101level.com/wp-content/uploads/2015/10/Paramount-pictures1.jpg</fanart>
+<info></info>
+</item>
+</items>
 
 
 
 
 
 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]COMEDY CENTRAL HD</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/870px-Comedy_Central_Sweden.svg.png</thumbnail>
+<fanart>http://www.cc.com//sitewide/images/default_image.jpg</fanart>
+<info></info>
+</item>
+</items>
 
-   
-  
-          <item> 
-            <title>ES: VIRGIN TV Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/416.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIRGIN TV Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: VIAJAR Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIAJAR Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: VH1 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VH1 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: TOROSTV HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TOROSTV HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: TNT Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: TELEDEPORTE Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELEDEPORTE Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: TELECINCO Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: TCM Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: SYFY Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: Real Madrid TV Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid TV Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: PARAMOUNT Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PARAMOUNT Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: PANDA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PANDA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: ODISEA HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ODISEA HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: NOVA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: NON STOP PEOPLE Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NON STOP PEOPLE Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: NICKELODEON Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: NEOX Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: NAT GEO WILD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: NAT GEO Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR XTRA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR XTRA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR SERIES XTRA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES XTRA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR SERIES Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR PARTIDAZO HD opp2 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR PARTIDAZO HD opp2 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR PARTIDAZO HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR PARTIDAZO HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: Movistar MotoGP Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar MotoGP Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR MOTO GP Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR MOTO GP Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR GOLF Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR GOLF Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR FUTBOL HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR FUTBOL HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: Movistar F1 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar F1 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR ESTRENOS Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ESTRENOS Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR DEPORTES 2 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTES 2 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR DEPORTES 1 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTES 1 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR DCINE Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DCINE Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR COMEDIA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR COMEDIA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: MOVISTAR ACCION HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ACCION HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: Mega Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Mega Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: M6 MUSIC Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M6 MUSIC Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: M20 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M20 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: LaLigaTV BAR HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LaLigaTV BAR HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: La Sexta Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: LA 2 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: LA 1 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: HOLLYWOOD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: HISTORIA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: GOL Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX LIFE Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: FDF Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: ENERGY Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ENERGY Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: DIVINITY Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DIVINITY Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY XD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY JUNIOR Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JUNIOR Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY CHANNEL Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CHANNEL Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: DISCOVERY CI Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CI Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: DISCOVERY CHANNEL Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: CUATRO Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: COSMO Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: COMEDY CENTRAL Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: COCINA Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COCINA Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: CALLE 13 Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13 Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: BOING Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BOING Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: BEIN La Liga HD Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN La Liga HD Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN WHITE Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: ANDALUCIA TV Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANDALUCIA TV Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: AMC Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: A&amp;E Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: 40 TV Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 40 TV Op2</link> 
-        </item> 
-          <item> 
-            <title>ES: #O Op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #O Op2</link> 
-        </item> 
-  
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]COMEDY CENTRAL 1</title>
+<linK>http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/870px-Comedy_Central_Sweden.svg.png</thumbnail>
+<fanart>http://www.cc.com//sitewide/images/default_image.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]COMEDY CENTRAL 2</title>
+<linK>http://cdn1.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=iPad</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/870px-Comedy_Central_Sweden.svg.png</thumbnail>
+<fanart>http://www.cc.com//sitewide/images/default_image.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX HD</title>
+<linK></link>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</thumbnail>
+<fanart>https://theident.gallery/fox/2015/FOX-2015-ID-1-H.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3298.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20Fox</link>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</thumbnail>
+<fanart>https://theident.gallery/fox/2015/FOX-2015-ID-1-H.jpg</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX LIFE</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3299.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20Fox%20Life</link>
+<thumbnail>https://diariodeunatelefila.files.wordpress.com/2014/10/logo-fox-life.png?w=1400</thumbnail>
+<fanart>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/foxlife.png?ver=bfbed005-be43-4661-b8b5-8f8ebccd06d14</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX LIFE</title>
+<linK></link>
+<thumbnail>https://diariodeunatelefila.files.wordpress.com/2014/10/logo-fox-life.png?w=1400</thumbnail>
+<fanart>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/foxlife.png?ver=bfbed005-be43-4661-b8b5-8f8ebccd06d14</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AXN HD</title>
+<linK></link>
+<thumbnail>http://www.mejorescanales.com/wp-content/uploads/2016/02/AXN_2011.png</thumbnail>
+<fanart>http://www.mejorescanales.com/wp-content/uploads/2016/02/AXN_2011.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AXN</title>
+<linK>http://edge7.telesport.pw/live/axn/index.m3u8|User-Agent=iPad</link>
+<thumbnail>http://www.mejorescanales.com/wp-content/uploads/2016/02/AXN_2011.png</thumbnail>
+<fanart>http://www.mejorescanales.com/wp-content/uploads/2016/02/AXN_2011.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AXN WHITE HD 1080</title>
+<linK></link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/22483iFC2A3212D7580461?v=1.0</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AXN WHITE</title>
+<linK></link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/22483iFC2A3212D7580461?v=1.0</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AMC</title>
+<linK>http://edge1204.livesports.pw/live/veramcespteledd21791245ff/index.m3u8|User-Agent=|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://tv.bt.com/images/amc-logo-hero-136407005253903901-160818144213.jpg</thumbnail>
+<fanart>http://tv.bt.com/images/amc-logo-hero-136407005253903901-160818144213.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AMC HD 1080</title>
+<linK></link>
+<thumbnail>http://tv.bt.com/images/amc-logo-hero-136407005253903901-160818144213.jpg</thumbnail>
+<fanart>http://tv.bt.com/images/amc-logo-hero-136407005253903901-160818144213.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TNT HD</title>
+<linK></link>
+<thumbnail>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</thumbnail>
+<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TNT</title>
+<linK>http://edge2.telesport.pw/live/tnt/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</thumbnail>
+<fanart>http://pulsoslp.com.mx/wp-content/uploads/2015/03/tnt.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TCM HD</title>
+<linK></link>
+<thumbnail>http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</thumbnail>
+<fanart>http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TCM</title>
+<linK></link>
+<thumbnail>http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</thumbnail>
+<fanart>http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CALLE 13 HD</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png</thumbnail>
+<fanart>http://tecnotv.info/logoss/calle13.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CALLE 13 </title>
+<linK>http://edge2.telesport.pw/live/calle13/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png</thumbnail>
+<fanart>http://tecnotv.info/logoss/calle13.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]A & E</title>
+<linK>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3308.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20A%26E</link>
+<thumbnail>http://i49.photobucket.com/albums/f295/vatkeezy/A-E_Logo_2_.jpg</thumbnail>
+<fanart>http://i49.photobucket.com/albums/f295/vatkeezy/A-E_Logo_2_.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SYFY  HD</title>
+<linK>http://edge1204.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8|User-Agent=|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg</thumbnail>
+<fanart>http://www.syfy.es/sites/syfy.es/files/default.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SYFY</title>
+<linK></link>
+<thumbnail>http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg</thumbnail>
+<fanart>http://www.syfy.es/sites/syfy.es/files/default.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SUNDANCE</title>
+<linK></link>
+<thumbnail>http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png</thumbnail>
+<fanart>http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********INFANTILES +**********INFANTILES +**********INFANTILES +**********INFANTILES +**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://www.conmishijos.com/uploads/ocio_familia/television_canal_panda.jpg</thumbnail>
+<fanart>http://static01.diariodenavarra.es/uploads/imagenes/bajacalidad/2013/06/03/_pocoyo_cbbf4884.jpg?6824169589bc63fbda33b0f7b6cbeea3</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ANIME TV</title>
+<linK>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</thumbnail>
+<fanart>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY JUNIOR</title>
+<linK></link>
+<thumbnail>http://style.shockvisual.net/wp-content/uploads/2014/11/disney-junior-logo.jpg</thumbnail>
+<fanart>http://style.shockvisual.net/wp-content/uploads/2014/11/disney-junior-logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY XD</title>
+<linK></link>
+<thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/b/b5/Disney_XD_Mixels_logo.png/revision/latest?cb=20150402231147</thumbnail>
+<fanart>http://static.tvtropes.org/pmwiki/pub/images/tumblr_nogdvw7y5b1tef55uo1_1280.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NICK JR</title>
+<linK></link>
+<thumbnail>http://thevent.tv/wp-content/uploads/2014/09/nick-jnr.jpg</thumbnail>
+<fanart>http://thevent.tv/wp-content/uploads/2014/09/nick-jnr.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NICKELODEON HD</title>
+<linK></link>
+<thumbnail>https://www.2017auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg</thumbnail>
+<fanart>https://www.2017auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BABY TV</title>
+<linK></link>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043</thumbnail>
+<fanart>https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL PANDA</title>
+<linK></link>
+<thumbnail>http://www.formulatv.com/images/noticias/47500/47542/1_3b2074f602.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/logopedia/images/c/c9/New_Logo_Canal_Panda.jpg/revision/latest?cb=20150706102643</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL PAKA PAKA</title>
+<linK>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://firmat24.com.ar/wp-content/uploads/2013/03/paka-paka.png</thumbnail>
+<fanart>http://firmat24.com.ar/wp-content/uploads/2013/03/paka-paka.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********DOCUMENTALES Y EXTRAS**********DOCUMENTALES Y EXTRAS**********DOCUMENTALES Y EXTRAS+**********DOCUMENTALES Y EXTRAS**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>https://www.adslzone.net/app/uploads/2015/07/apertura-movistar-plus.jpg</thumbnail>
+<fanart>http://www.movistarplus.es/recorte/t/fotograma391/c0b8b15f63ca82c605354bc4b410884e</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]RETRO TV</title>
+<linK>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
+<thumbnail>http://vivotvhd.com/img/cha/994.gif</thumbnail>
+<fanart>http://sincable.tv/noticias/wp-content/uploads/2013/02/Retro-Love-Thumb.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISCOVERY CHANNEL</title>
+<link>http://cdn1.shurs.xyz/verdirectotv/11/playlist.m3u8|User-Agent=iPad</link>
+<thumbnail>http://www.mejorescanales.com/wp-content/uploads/2016/02/Discovery_Channel_2000.png</thumbnail>
+<fanart>http://chingonatv.com/wp-content/uploads/2013/11/Discovery_Channel.jpg</fanart>
+<info></info>
+</item>
+</items>
+<items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CAZA Y PESCA</title>
+<linK>http://edge1201.livesports.pw/live/vercazaypesca65b3f60d9f53/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://scontent.cdninstagram.com/t51.2885-15/e35/13166816_1705502169703569_1977793477_n.jpg?ig_cache_key=MTI1MjA0MTEwODA3NzczODY0MQ==.2</thumbnail>
+<fanart>http://www.movistarplus.es/recorte/n/fotograma3/F3335062</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR HISTORIA</title>
+<linK>http://edge1204.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8|User-Agent=|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://canalhistoria.es/wp-content/uploads/2017/01/39244054_Historia_Logo_2015_RGB_Black_type-250x250.jpg</thumbnail>
+<fanart>http://www.adslzone.net/app/uploads/2014/04/totalchannel.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COCINA</title>
+<linK>http://edge1202.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8|User-Agent=|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://canalcocina.es/images/canalcocina.png</thumbnail>
+<fanart>http://www.canalcocina.es/medias/images/1703canalcocina4k1600x9001.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********MÚSICA +**********MÚSICA +**********MÚSICA +**********MÚSICA +**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://3.bp.blogspot.com/-SpTODqiB76k/UKmrIodUGcI/AAAAAAAAA0c/Ce9of4grev0/s1600/Movistar+Musica.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-SpTODqiB76k/UKmrIodUGcI/AAAAAAAAA0c/Ce9of4grev0/s1600/Movistar+Musica.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ESPAÑA MTV</title>
+<linK></link>
+<thumbnail>http://vercanalestv.com/imagenes/mtv.jpg</thumbnail>
+<fanart>http://vercanalestv.com/logos/mtv.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CLASSICA</title>
+<linK></link>
+<thumbnail>https://satcesc.com/web/wp-content/uploads/2015/12/classica.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/iRffQthqs8E/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TELEMÚSICA</title>
+<linK>http://186.155.200.118:1935/live/telemusica/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-P6p7967q0RM/U5k_TMCDSfI/AAAAAAAADqY/iWxoySn9wHk/s1600/TELEMUSICA.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-TtC5bZWcSDA/AAAAAAAAAAI/AAAAAAAAAAA/JwwPlc_cvo8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MELODY CHANNEL</title>
+<linK>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
+<thumbnail>http://cmiarabia.com/assets/clients/8.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/yhKgE81b2nc/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]COOL HD</title>
+<linK>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
+<thumbnail>http://www.ryanhamilton.ca/wp-content/themes/alabastroswp/js/timthumb.php?src=http://www.ryanhamilton.ca/wp-content/uploads/2011/02/coolTV.jpg&w=640&h=265&q=95&zc=1</thumbnail>
+<fanart>http://www.ryanhamilton.ca/wp-content/themes/alabastroswp/js/timthumb.php?src=http://www.ryanhamilton.ca/wp-content/uploads/2011/02/coolTV.jpg&w=640&h=265&q=95&zc=1</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]HIT TV</title>
+<linK>http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8</link>
+<thumbnail>http://www.hittv.es/img/cabeceras/HITtv1.jpg</thumbnail>
+<fanart>http://www.hittv.es/img/cabeceras/HITtv1.jpg</fanart>
+<info></info>
+</item>
+</items>
+ AHORA PLUS LISTA 2
+ <streamingInfos>
+ 
+        <item>
+           <title>                                                          |.| CANALES |.|</title>
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+      </item>
+<streamingInfos>
+ 
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********MOVISTAR + Y CINE**********MOVISTAR + Y CINE**********MOVISTAR + Y CINE**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</thumbnail>
+<fanart>http://www.adslzone.net/app/uploads/2015/07/apertura-canales-movistar-plus.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR #0 HD</title>
+<link></link>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2015/12/movistar-0-2.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2015/12/movistar-0-2.jpg</fanart>
+<info></info>
+</item>
+</items>
+<items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TAQUILLA 1</title>
+<link></link>
+<thumbnail>https://i1.wp.com/4.bp.blogspot.com/-9DILJoiQIzs/WDVLTxezTOI/AAAAAAAAB-E/HgUkvSkYtY0I54-KaeoSGkDjsYPLLI7FQCLcB/s1600/iptvTaquilla.jpg?ssl=1</thumbnail>
+<fanart>https://i.ytimg.com/vi/DbNBZAd9Q88/hq720.jpg</fanart>
+<info></info>
+</item>
+</items>
+<items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COSMO TV</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png</thumbnail>
+<fanart>http://s3-eu-west-1.amazonaws.com/rankia/images/valoraciones/0020/3460/movistar-plus-.png?1436255144</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ACCIÓN HD (1080)</title>
+<link></link>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-accion.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1200px-Movistar_Acción.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ACCIÓN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8139.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR ACCION</link>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-accion.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1200px-Movistar_Acción.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ACCIÓN 2</title>
+<link></link>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-accion.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1200px-Movistar_Acción.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+ 
+<items>
+
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ESTRENOS 1</title>
+<link>http://edge2.telesport.pw/live/plusestrenos/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1200px-Movistar_Estrenos.svg.png</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg?x=634</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ [Foto]
+ <item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ESTRENOS 2</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1200px-Movistar_Estrenos.svg.png</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg?x=634</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COMEDIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8158.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR COMEDIA</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR COMEDIA 2</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-comedia.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DCINE HD (1080)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/4179.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DCINE</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-dcine.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DCINE 2</title>
+<link></link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/ee/MDCine.png/revision/latest?cb=20160707190104</thumbnail>
+<fanart>http://vercanalestv.com/imagenes/movistar-dcine.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********DEPORTES**********DEPORTES**********DEPORTES**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>https://i.ytimg.com/vi/Kdcl_EScjTw/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Kdcl_EScjTw/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN SPORT HD (1080)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest?cb=20140328172314</thumbnail>
+<fanart>https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN MAX 1</title>
+<link></link>
+<thumbnail>https://1.bp.blogspot.com/-PPqBu_W7aYc/V1IvAFmy8RI/AAAAAAAABJc/591dOvJEkTwv60ETo-6nFRBCAGaNI93PACLcB/s1600/MAX_1_200X200.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-wMDnX_xSNYA/V3OfZjD0f5I/AAAAAAAAAg0/bbif3oTRVCs5qbyFOEBbtkFs6PNygFoUACLcB/s1600/bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN MAX 2</title>
+<link></link>
+<thumbnail>https://3.bp.blogspot.com/-OQWLycpVxhE/V2ZQnM5xMKI/AAAAAAAABa8/KGsjUMlQaPIgssYNw6lfo-4SYW9AzRzOACKgB/s200/bandicam+2016-06-19+10-54-58-608.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/proxy/6h34_1fL2VpjmWxLbQYuqFuau-y-wb-fRkpi-gWamUPFm9KwWcZhSioJGnELoxO6u_4sqSg5mwwr-SNYy76ly1BlhiqUCbDbzjB6bENEKxgidsTsYNqq5gv4UNTOn26Z9n5v4rsQ8zxl6Q5oLIM-j8xeVkIKcc4vFjsp2xqxWCgEoGfyYzj87QGMN0o=w530-h308-p</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]WIN SPORT</title>
+<link>http://cdn2.shurs.xyz/verliga/5/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://tele-envivo.com/wp-content/uploads/2015/12/winsports.jpg</thumbnail>
+<fanart>http://tele-envivo.com/wp-content/uploads/2015/12/winsports.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX SPORTS</title>
+<link></link>
+<thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg</thumbnail>
+<fanart>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/FOX_SPORTS.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN LA LIGA TV</title>
+<link></link>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</thumbnail>
+<fanart>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BEIN LA LIGA TV BAR (1080)</title>
+<link></link>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</thumbnail>
+<fanart>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR FUTBOL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8156.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR FUTBOL</link>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/0/05/MovistarFutbol.png/revision/latest?cb=20160818152152</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111635i12697E61697C6874/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DEPORTES 1-1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/5696.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTES 1-1</link>
+<thumbnail>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111638i1580B6528385CB55?v=1.0</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111639iD0549753EF2632A8/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DEPORTES 1-2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8235.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTES 1-2</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111639iD0549753EF2632A8/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR GOLF</title>
+<link>http://edge2.telesport.pw/live/golf/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111640i14C587E782206722/image-size/original?v=v2&px=-1</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR MOTO GP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8231.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTO GP</link>
+<thumbnail>http://static3.masmoto.net/competicion/files/2015/04/movistar-motogp-660x330.jpg</thumbnail>
+<fanart>http://www.vootar.com/imgs/elementos/_Movistar Moto GP.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR F1 HD (1080)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8239.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1</link>
+<thumbnail>https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg</thumbnail>
+<fanart>http://pitlanef1.es/wp-content/uploads/2016/02/Movistar-F1.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR F1 2</title>
+<link></link>
+<thumbnail>https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP.jpg</thumbnail>
+<fanart>http://pitlanef1.es/wp-content/uploads/2016/02/Movistar-F1.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 1</title>
+<link></link>
+<thumbnail>https://media.info/i/lf/0/1447433721/1065.png</thumbnail>
+<fanart>https://media.info/i/lf/0/1447433721/1065.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 1</title>
+<link></link>
+<thumbnail>https://media.info/i/lf/0/1447433721/1065.png</thumbnail>
+<fanart>https://media.info/i/lf/0/1447433721/1065.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 2</title>
+<link>http://edge10.verliga.me/live/verliga3/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</thumbnail>
+<fanart>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 2</title>
+<link></link>
+<thumbnail>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</thumbnail>
+<fanart>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EUROSPORT 3</title>
+<link></link>
+<thumbnail>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</thumbnail>
+<fanart>http://aom99.files.wordpress.com/2009/10/eurosport2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]REAL MADRID TV</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/5699.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link>
+<thumbnail>http://movistar.i.lithium.com/t5/image/serverpage/image-id/116744i0573F208BA2B822B?v=1.0</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/116744i0573F208BA2B822B?v=1.0</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BARçA TV</title>
+<link></link>
+<thumbnail>http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2014-08/385719/4507906_640px.jpg?1473825359</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SEVILLA TV</title>
+<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png</thumbnail>
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/05/o_20110816180900_sfc_tv_arrasa_con_la_emision_en_directo_del_deportivo_sevilla_fc_a_traves_de_tdt_e_internet.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BETIS TV</title>
+<linK>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
+<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
+<fanart>http://elcorreoweb.es/documents/10157/0/675x400/0c0/0d0/none/10703/ENGJ/image_content_17879799_20160415202519.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8237.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR TOROS</link>
+<thumbnail>https://www.comparaiso.es/images/canalplustoros_300.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********SERIES**********SERIES**********SERIES**********SERIES**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>https://i.blogs.es/d5c6b2/650_1000_movistar-series-1/original.jpg</thumbnail>
+<fanart>https://i.blogs.es/d5c6b2/650_1000_movistar-series-1/original.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ESPAÑA MTV</title>
+<linK></link>
+<thumbnail>http://vercanalestv.com/imagenes/mtv.jpg</thumbnail>
+<fanart>http://vercanalestv.com/logos/mtv.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES 1</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/839441053056913409/xuMO5zsq_400x400.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES 2</title>
+<linK></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/839441053056913409/xuMO5zsq_400x400.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR SERIES EXTRA HD</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8153.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR SERIES EXTRA HD</link>
+<thumbnail>http://www.mundoplus.tv/img/08503ab172fa3c5e6adb50b4dc6b5b19</thumbnail>
+<fanart>http://parrillatv.mundo-r.com/parrillatv/imagenes/canales/canalplus-series-xtra-hd.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]H0LLYWOOD</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/4200.ts&amp;streamtype=TSDOWNLOADER&amp;name=H0LLYWOOD</link>
+<thumbnail>http://www.tvhoradada.com/images/logos/canales/hollywood.png</thumbnail>
+<fanart>http://epsmotiongraphics.com/wp-content/uploads/2016/10/4_CANAL-HOLLYWOOD_07-1.jpg</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]COMEDY CENTRAL</title>
+<linK>http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/870px-Comedy_Central_Sweden.svg.png</thumbnail>
+<fanart>http://www.cc.com//sitewide/images/default_image.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX NEWS</title>
+<linK></link>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</thumbnail>
+<fanart>https://theident.gallery/fox/2015/FOX-2015-ID-1-H.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX</title>
+<linK></link>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fox-generic.png?ver=e2e5a340-3c27-4ac3-9044-a01138da9091</thumbnail>
+<fanart>https://theident.gallery/fox/2015/FOX-2015-ID-1-H.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]FOX LIFE</title>
+<linK></link>
+<thumbnail>http://vignette1.wikia.nocookie.net/tvcable/images/f/fa/Fox_Life_13.png/revision/latest?cb=20131029201500&path-prefix=es</thumbnail>
+<fanart>https://diariodeunatelefila.files.wordpress.com/2014/10/logo-fox-life.png?w=1400</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AXN</title>
+<linK></link>
+<thumbnail>http://www.mejorescanales.com/wp-content/uploads/2016/02/AXN_2011.png</thumbnail>
+<fanart>http://www.mejorescanales.com/wp-content/uploads/2016/02/AXN_2011.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AXN WHITE</title>
+<linK></link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20161214222911</thumbnail>
+<fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/22483iFC2A3212D7580461?v=1.0</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]AMC</title>
+<linK></link>
+<thumbnail>http://tv.bt.com/images/amc-logo-hero-136407005253903901-160818144213.jpg</thumbnail>
+<fanart>http://tv.bt.com/images/amc-logo-hero-136407005253903901-160818144213.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TNT</title>
+<linK></link>
+<thumbnail>https://i.ytimg.com/vi/J-aU-N4X-Ks/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/J-aU-N4X-Ks/hqdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TCM</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8251.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link>
+<thumbnail>http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</thumbnail>
+<fanart>http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.11.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CALLE 13 HD</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8242.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png</thumbnail>
+<fanart>http://tecnotv.info/logoss/calle13.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]SYFY</title>
+<linK></link>
+<thumbnail>http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg</thumbnail>
+<fanart>http://www.syfy.es/sites/syfy.es/files/default.jpg</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]A & E 1</title>
+<linK></link>
+<thumbnail>http://i49.photobucket.com/albums/f295/vatkeezy/A-E_Logo_2_.jpg</thumbnail>
+<fanart>http://i49.photobucket.com/albums/f295/vatkeezy/A-E_Logo_2_.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]A & E 2</title>
+<linK></link>
+<thumbnail>http://i49.photobucket.com/albums/f295/vatkeezy/A-E_Logo_2_.jpg</thumbnail>
+<fanart>http://i49.photobucket.com/albums/f295/vatkeezy/A-E_Logo_2_.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********INFANTILES +**********INFANTILES +**********INFANTILES +**********INFANTILES +**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://www.conmishijos.com/uploads/ocio_familia/television_canal_panda.jpg</thumbnail>
+<fanart>http://static01.diariodenavarra.es/uploads/imagenes/bajacalidad/2013/06/03/_pocoyo_cbbf4884.jpg?6824169589bc63fbda33b0f7b6cbeea3</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ANIME TV</title>
+<linK>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</thumbnail>
+<fanart>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NICK JR</title>
+<linK></link>
+<thumbnail>http://thevent.tv/wp-content/uploads/2014/09/nick-jnr.jpg</thumbnail>
+<fanart>http://thevent.tv/wp-content/uploads/2014/09/nick-jnr.jpg</fanart>
+<info></info>
+</item>
+</items>
+ 
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NICKELODEON</title>
+<linK></link>
+<thumbnail>https://www.2017auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg</thumbnail>
+<fanart>https://www.2017auditions.com/wp-content/uploads/2015/05/Nickelodeon-old-school-nickelodeon-295359_1024_768.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY CHANNEL</title>
+<linK>http://149.100.19.147:8000/play/a00x</link>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/games_app_disneychannelwatch_7275e209.jpeg?region=0,0,450,450&width=320</thumbnail>
+<fanart>http://www.disney.es/disney-channel/sites/default/files/local_territories/es-ES/games/backgrounds/emea_games_hbg_gbl_0.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY CHANNEL 2</title>
+<linK</link>
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/games_app_disneychannelwatch_7275e209.jpeg?region=0,0,450,450&width=320</thumbnail>
+<fanart>http://www.disney.es/disney-channel/sites/default/files/local_territories/es-ES/games/backgrounds/emea_games_hbg_gbl_0.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY XD</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8140.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/mixels/images/b/b5/Disney_XD_Mixels_logo.png/revision/latest?cb=20150402231147</thumbnail>
+<fanart>http://static.tvtropes.org/pmwiki/pub/images/tumblr_nogdvw7y5b1tef55uo1_1280.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]DISNEY JUNIOR</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8233.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link>
+<thumbnail>http://style.shockvisual.net/wp-content/uploads/2014/11/disney-junior-logo.jpg</thumbnail>
+<fanart>http://style.shockvisual.net/wp-content/uploads/2014/11/disney-junior-logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BABY TV 1</title>
+<linK></link>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043</thumbnail>
+<fanart>https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]BABY TV 2</title>
+<linK></link>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043</thumbnail>
+<fanart>https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL PANDA</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8236.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link>
+<thumbnail>http://www.formulatv.com/images/noticias/47500/47542/1_3b2074f602.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/logopedia/images/c/c9/New_Logo_Canal_Panda.jpg/revision/latest?cb=20150706102643</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL PANDA 2</title>
+<linK></link>
+<thumbnail>http://www.formulatv.com/images/noticias/47500/47542/1_3b2074f602.jpg</thumbnail>
+<fanart>http://vignette3.wikia.nocookie.net/logopedia/images/c/c9/New_Logo_Canal_Panda.jpg/revision/latest?cb=20150706102643</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL PAKA PAKA</title>
+<linK>http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://firmat24.com.ar/wp-content/uploads/2013/03/paka-paka.png</thumbnail>
+<fanart>http://firmat24.com.ar/wp-content/uploads/2013/03/paka-paka.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********DOCUMENTALES Y EXTRAS**********DOCUMENTALES Y EXTRAS**********DOCUMENTALES Y EXTRAS+**********DOCUMENTALES Y EXTRAS**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>https://www.adslzone.net/app/uploads/2015/07/apertura-movistar-plus.jpg</thumbnail>
+<fanart>http://www.movistarplus.es/recorte/t/fotograma391/c0b8b15f63ca82c605354bc4b410884e</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]RETRO TV</title>
+<linK>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
+<thumbnail>http://vivotvhd.com/img/cha/994.gif</thumbnail>
+<fanart>http://sincable.tv/noticias/wp-content/uploads/2013/02/Retro-Love-Thumb.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ALFA TV</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALFA TV</link>
+<thumbnail>http://www.digita.fi/files/1541/textsize/Alfatv_logo_small.png</thumbnail>
+<fanart>http://2.bp.blogspot.com/-JwUi65WP9Fc/VTvAvNNgROI/AAAAAAAABI0/DWA5WWdfomQ/s1600/alfa-tv-canal-8-en-vivo-cono-norte-lima-peru+1152_13464612539-tpfil02aw-26424.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CAZA Y PESCA</title>
+<linK></link>
+<thumbnail>http://scontent.cdninstagram.com/t51.2885-15/e35/13166816_1705502169703569_1977793477_n.jpg?ig_cache_key=MTI1MjA0MTEwODA3NzczODY0MQ==.2</thumbnail>
+<fanart>http://www.movistarplus.es/recorte/n/fotograma3/F3335062</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR HISTORIA</title>
+<linK></link>
+<thumbnail>http://canalhistoria.es/wp-content/uploads/2017/01/39244054_Historia_Logo_2015_RGB_Black_type-250x250.jpg</thumbnail>
+<fanart>http://www.adslzone.net/app/uploads/2014/04/totalchannel.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]EXTRA VIAJAR</title>
+<linK>http://194.179.53.124:1935/live/myStream_2/playlist.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://ilovetheworld.es/wp-content/uploads/2013/12/canal-viajar.jpg</thumbnail>
+<fanart>http://blog.ono.es/wp-content/uploads/2015/08/30-AGOSTO1.gif</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NAT GEO</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8249.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO</link>
+<thumbnail>https://i.vimeocdn.com/portrait/5080931_640x640</thumbnail>
+<fanart>https://elsilbiditodetarantino.files.wordpress.com/2013/08/nat-geo-ad-tiger.jpg?w=1200</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]NAT GEO WILD HD (1080)</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8142.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (1080)</link>
+<thumbnail>https://i.vimeocdn.com/portrait/5080931_640x640</thumbnail>
+<fanart>https://elsilbiditodetarantino.files.wordpress.com/2013/08/nat-geo-ad-tiger.jpg?w=1200</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ODISEA 1-1</title>
+<linK>http://edge2.telesport.pw/live/odisea/index.m3u8|User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko</link>
+<thumbnail>http://amcnetworks.es/wp-content/uploads/2012/05/logo-odisea-fondo-blanco.jpg</thumbnail>
+<fanart>http://amcnetworks.es/wp-content/uploads/2012/05/logo-odisea-fondo-blanco.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR ODISEA 1-2</title>
+<linK>plugin://plugin.video.f4mTester/?url=http://diptv.ddns.net:8000/live/es-al-usa/235642/8232.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR ODISEA 1-2</link>
+<thumbnail>http://amcnetworks.es/wp-content/uploads/2012/05/logo-odisea-fondo-blanco.jpg</thumbnail>
+<fanart>http://amcnetworks.es/wp-content/uploads/2012/05/logo-odisea-fondo-blanco.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR DISCOVERY</title>
+<linK></link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100728112637/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>
+<fanart>http://cdn.quepasa.com.ve/site/wp-content/uploads/2016/11/Discovery.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR CRIMEN & INVESTIGACIÓN</title>
+<linK></link>
+<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2017/02/nueva-imagen-crimen-investigacion.jpg</thumbnail>
+<fanart>http://www.grupocomunica.com/wp-content/uploads/2016/10/crimen-investigacion-sabias-que.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********MÚSICA +**********MÚSICA +**********MÚSICA +**********MÚSICA +**********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://3.bp.blogspot.com/-SpTODqiB76k/UKmrIodUGcI/AAAAAAAAA0c/Ce9of4grev0/s1600/Movistar+Musica.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-SpTODqiB76k/UKmrIodUGcI/AAAAAAAAA0c/Ce9of4grev0/s1600/Movistar+Musica.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]ESPAÑA MTV</title>
+<linK></link>
+<thumbnail>http://vercanalestv.com/imagenes/mtv.jpg</thumbnail>
+<fanart>http://vercanalestv.com/logos/mtv.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CLASSICA</title>
+<linK></link>
+<thumbnail>https://satcesc.com/web/wp-content/uploads/2015/12/classica.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/iRffQthqs8E/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]TELEMÚSICA</title>
+<linK>http://186.155.200.118:1935/live/telemusica/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-P6p7967q0RM/U5k_TMCDSfI/AAAAAAAADqY/iWxoySn9wHk/s1600/TELEMUSICA.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/-TtC5bZWcSDA/AAAAAAAAAAI/AAAAAAAAAAA/JwwPlc_cvo8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MEZZO</title>
+<linK></link>
+<thumbnail>http://www.vootar.com/imgs/elementos/1248125182_Mezzo TV.jpg</thumbnail>
+<fanart>http://www.vootar.com/imgs/elementos/1248125182_Mezzo TV.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MELODY CHANNEL</title>
+<linK>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
+<thumbnail>http://cmiarabia.com/assets/clients/8.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/yhKgE81b2nc/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]COOL HD</title>
+<linK>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
+<thumbnail>http://www.ryanhamilton.ca/wp-content/themes/alabastroswp/js/timthumb.php?src=http://www.ryanhamilton.ca/wp-content/uploads/2011/02/coolTV.jpg&w=640&h=265&q=95&zc=1</thumbnail>
+<fanart>http://www.ryanhamilton.ca/wp-content/themes/alabastroswp/js/timthumb.php?src=http://www.ryanhamilton.ca/wp-content/uploads/2011/02/coolTV.jpg&w=640&h=265&q=95&zc=1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]HIT TV</title>
+<linK>http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8</link>
+<thumbnail>http://www.hittv.es/img/cabeceras/HITtv1.jpg</thumbnail>
+<fanart>http://www.hittv.es/img/cabeceras/HITtv1.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]VIRGIN TV</title>
+<linK>http://wow01.105.net/live/virgin1/playlist.m3u8</link>
+<thumbnail>http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=CnsIu+dscuqHv0NJkNpVOezQ.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=520&pfdrid_c=false&uid=e0b6c791-ae4b-43d8-b72e-11bb79816c32</thumbnail>
+<fanart>http://static.trustedreviews.com/94/00002a218/95be/Virgin-Media-logo.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ AHORA LISTA LATINA ETCC
+ <streamingInfos>
+ 
+        <item>
+           <title>                                                          |.| CANALES |.|</title>
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+      </item>
+<streamingInfos>
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********MEXICO**********MEXICO**********MEXICO**********MEXICO***********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL VITATO SIMPSONS</title>
+<link></link>
+<thumbnail>http://3.bp.blogspot.com/-SSbLRqS8kYQ/VlMGV3KqK-I/AAAAAAAAAJE/ChMIUSmoHVY/s1338-r/logo+blog.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL SIMPSONMANIA HD 1080</title>
+<link></link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/simpson_mania_320.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL LAS ESTRELLAS LATINOAMERICA</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AZTECA + PLUS</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AZTECA 13</title>
+<link>http://209.126.110.107:8081/113azteca13/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL ONCE</title>
+<link>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+<items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AZTECA 7</title>
+<link>http://209.126.110.107:8081/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 5</title>
+<link>http://209.126.110.107:8081/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL CAPITAL 21 CDMX</title>
+<link>http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 22</title>
+<link>http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]UNA VOZ CON TODOS</title>
+<link>http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV MEXIQUENSE</title>
+<link>http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RCG TV1</title>
+<link>http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL OCHO TV (GDL)</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 10 CHETUMAL</title>
+<link>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+<items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELEMAR CAMPECHE</title>
+<link>http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TRECEVISIÓN YUCATÁN</title>
+<link>http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL GALA TV (CANCUN)</title>
+<link>http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL GALA TV (MORELOS)</title>
+<link>http://logan.exabytetv.info/exabytetv-esgratis/utube1/INZPJ-1011001000111110011010100100111-ExabyteTV/aHR0cDovL3d3dy5nYWxhdHZtb3JlbG9zLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MULTIMEDIOS MONTERREY</title>
+<link>http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MULTIMEDIOS LAGUNA</title>
+<link>http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8?</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 44 JUAREZ</title>
+<link>http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_1000k_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 4 XHBC MEXICALI</title>
+<link>http://logan.exabytetv.info/exabytetv-esgratis/utube1/INZPJ-1011001000111110011010100100111-ExabyteTV/aHR0cDovL3d3dy50ZWxldmlzYW1leGljYWxpLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 66 MEXICALI</title>
+<link>http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/index_250k_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV TLAXCALA</title>
+<link>http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RTG GUERRERO</title>
+<link>http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ AHORA CANALES TOROS
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV 13 PUEBLA</title>
+<link>http://logan.exabytetv.info/exabytetv-esgratis/utube1/INZPJ-1011001000111110011010100100111-ExabyteTV/aHR0cDovL3d3dy50ZWxldmlzYXB1ZWJsYS50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVMAS VERACRUZ</title>
+<link>http://50.7.98.234:1935/rtv/videortv//playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVP MAZATLÁN</title>
+<link>http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVP YAQUI TV</title>
+<link>http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVP MOCHIS</title>
+<link>http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVP CULIACÁN</title>
+<link>http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVT TABASCO</title>
+<link>http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********LATINO**********LATINO**********LATINO**********LATINO***********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://viejaiglesiacatolicaromanaritolatino.files.wordpress.com/2012/10/bolivia-bandera-de-bolivia-i22.png</fanart>
+<info></info>
+</item>
+</items>
+ 
+ 
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AZTECA 50</title>
+<link>http://cdn2.miip.tv:8880/live/stalker/stalker/3.ts</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://viejaiglesiacatolicaromanaritolatino.files.wordpress.com/2012/10/bolivia-bandera-de-bolivia-i22.png</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL SUPER CANAL RD </title>
+<link>http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELEUNIVERSO </title>
+<link>http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********SUDAMÉRICA**********SUDAMÉRICA**********SUDAMÉRICA**********SUDAMÉRICA***********SUDAMÉRICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MEGAVISION </title>
+<link>http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL CLARO </title>
+<link>http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL UNO </title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NEW TV </title>
+<link>http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RCN COLOMBIA </title>
+<link>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELECAFE </title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL UNIMAS</title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://viejaiglesiacatolicaromanaritolatino.files.wordpress.com/2012/10/bolivia-bandera-de-bolivia-i22.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL WAPA </title>
+<link>http://live-14.viewer.dacast.com/i/dclive_1@176094/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://viejaiglesiacatolicaromanaritolatino.files.wordpress.com/2012/10/bolivia-bandera-de-bolivia-i22.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********CENTROAMÉRICA**********CENTROAMÉRICA**********CENTROAMÉRICA**********CENTROAMÉRICA***********CENTROAMÉRICA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NEX TV </title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL RCP </title>
+<link>http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELEMETRO </title>
+<link>http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV MAX </title>
+<link>http://cdn2.miip.tv:8880/live/stalker/stalker/12.ts</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVN PANAMA </title>
+<link>http://cdn2.miip.tv:8880/live/stalker/stalker/11.ts</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 36 </title>
+<link>http://cdn2.miip.tv:8880/live/stalker/stalker/67.ts</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 4 JUJUY </title>
+<link>http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL ORBE 21 </title>
+<link>http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL I </title>
+<link>http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TLT LA TELE TUYA </title>
+<link>http://migre.me/wmYYP/TuIptvLatinoSinFrontera/LaTeleTuya.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL EL VENEZOLANO TV </title>
+<link>http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL LATINA TV </title>
+<link>http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL WILLAX TV </title>
+<link>http://m.mediastream.pe/vv_willax/livestream/.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://media.istockphoto.com/vectors/north-and-south-america-round-flags-collection-vector-id175564854</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR yellow][COLOR yellow]  [/COLOR]**********NOTICIAS & NEWS**********NOTICIAS & NEWS**********NOTICIAS & NEWS**********NOTICIAS & NEWS***********</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELEMUNDO 48</title>
+<link>http://198.16.64.106:1935/live/live_telemundo48/playlist.m3u8?pHQWEbv3JiZKC9jgmezqG9VvwqWknuuE</link>
+<thumbnail>http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TICAVISIÓN </title>
+<link>http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL GUATEVISIÓN </title>
+<link>http://162.220.218.101:8081/live/stream1.sdp/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TVN NICARAGUA </title>
+<link>http://162.244.81.181:1935/live//Stream1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AZ HONDURAS </title>
+<link>http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV CENTRO HONDURAS </title>
+<link>http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV UNO</title>
+<link>http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL VMAS TV </title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL BHTV </title>
+<link>http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TV MARTÍ (CUBA) </title>
+<link>http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>https://previews.123rf.com/images/chelovek/chelovek1502/chelovek150200132/36292791-Bandera-de-Provincias-Unidas-de-Centroam-rica-De-Cerca--Foto-de-archivo.jpg</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL ARISTEGUI NOTICIAS </title>
+<link>https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL DEL CONGRESO </title>
+<link>http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL FORO TV 1 </title>
+<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRtNEWS.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL FORO TV 2 </title>
+<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_259_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL EFEKTO TV HD </title>
+<link>http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL EFEKTO TV </title>
+<link>http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MILENIO TV 1 </title>
+<link>https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MILENIO TV 2 </title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NOTICIAS RT ESPAÑOL 1</title>
+<link>http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NOTICIAS RT ESPAÑOL 2</title>
+<link>http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL UNA VOZ CON TODOS</title>
+<link>http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/index_2_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELEFORMULA 1</title>
+<link>http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TELEFORMULA 2</title>
+<link>http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b732000.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL MVS NOTICIAS</title>
+<link>http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL DW LATINOAMERICA</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL CABLE NOTICIAS</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL ECO TV</title>
+<link>http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/chunks.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL CNN CHILE</title>
+<link>http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL EL TIEMPO</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL 26</title>
+<link>http://200.115.193.177/live/26hd-720/.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL ABC NEWS</title>
+<link>http://abclive.abcNEWS.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AL JAZEERA</title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL BBC WORLD NEWS</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL BLOOMBERG</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NIGERIA TVC NEWS</title>
+<link>http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL SYRIA NEWS</title>
+<link>http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL WGN CHICAGO</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL TRT WORLD</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL NEWS ASIA</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL SKY NEWS</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skyNEWS/1404/live/04.m3u8</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL AMERICA TV MIAMI</title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL UNIVISION PUERTO RICO</title>
+<link>rtmp://cdnp1.iblups.com/live/ playpath=TzMLT5VhhH swfUrl=https://iblups.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=https://iblups.com/e_RaceTVUnivision</link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+ <items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL</title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL</title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL</title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]CANAL</title>
+<link></link>
+<thumbnail>http://ftahouse.esy.es/css/images/canales110.jpg</thumbnail>
+<fanart>http://valleyaids.org/wp-content/uploads/2013/04/news-noticias.png</fanart>
+<info></info>
+</item>
+</items>
+ [Foto]
+ <streamingInfos>
+ 
+        <item>
+          <title>                                           |•| CANALES TOROS |•| </title>
+          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link>
+      </item>
+<streamingInfos>
+       
+    <channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►CANALES[/COLOR]</name>
+    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
+    <thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+    <fanart>URL DE LA IMAGEN DE FONDO</fanart>
+ 
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 1</title>
+<link></link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 1</title>
+<link>http://cdn3.shurs.xyz/verdirectotv/9/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 2</title>
+<link</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 2</title>
+<link>http://cdn3.shurs.xyz/verdirectotv/9/playlist.m3u8|User-Agent=iPad</link>
+<thumbnail>https://www.comparaiso.es/images/canalplustoros_300.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 4</title>
+<link></link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F192.99.149.20%3A8080%2Flive%2Fgrspan%2Fsxlk2slkx%2F3291.ts&amp;streamtype=TSDOWNLOADER&name=ES%3A%20C%20TOROS%20HD</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR yellow]|•|  [/COLOR]MOVISTAR TOROS 6</title>
+<link></link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</thumbnail>
+<fanart>http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg</fanart>
+<info></info>
+</item>
+</items>
