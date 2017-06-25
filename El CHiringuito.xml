@@ -169,6 +169,10 @@
             <title>SP: Euro Sport 2</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 2</link> 
         </item> 
+		   <item> 
+            <title>MovieStar F1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar F1 ES</link> 
+        </item> 
           <item> 
             <title>SP: Moto GP</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
