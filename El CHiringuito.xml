@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
   
- 
+ [COLOR yellow][/COLOR]
           <item> 
-            <title>SP: La 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 1</link> 
+            <title>[COLOR yellow]*LA 1[/COLOR]SP: La 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7301.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 1</link> 
         </item> 
           <item> 
-            <title>SP: La 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 2</link> 
+            <title>[COLOR yellow]*LA2[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7302.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 2</link> 
         </item> 
           <item> 
             <title>SP: Antena 3</title> 
