@@ -28,15 +28,15 @@
             <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7304.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta</link> 
         </item> 
           <item> 
-            <title>[COLOR yellow][/COLOR]SP: Clan TVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Clan TVE</link> 
+            <title>[COLOR yellow]*CLAN[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22159.ts&amp;name=SP: Clan TVE</link> 
         </item> 
           <item> 
-            <title>SP: Nova</title> 
+            <title> [COLOR yellow]*[/COLOR]SP: Nova</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nova</link> 
         </item> 
           <item> 
-            <title>SP: Neox</title> 
+            <title> [COLOR yellow]*[/COLOR]SP: Neox</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Neox</link> 
         </item> 
           <item> 
@@ -45,22 +45,22 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*C+ESTRENOS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11017.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
         </item> 
           <item> 
             <title>[COLOR yellow]*C+EXTRA[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Xtra</link> 
         </item> 
           <item> 
-            <title>SP: C+ Accion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Accion HD</link> 
+            <title>[COLOR yellow]*ACCION[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11018.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Accion HD</link> 
         </item> 
           <item> 
-            <title>SP:  C+ Comedia HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  C+ Comedia HD</link> 
+            <title>[COLOR yellow]*COMEDIA[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11019.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  C+ Comedia HD</link> 
         </item> 
           <item> 
-            <title>SP: C+ Dcine HD</title> 
+            <title>[COLOR yellow]DCINE[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Dcine HD</link> 
         </item> 
           <item> 
@@ -120,8 +120,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Energy</link> 
         </item> 
           <item> 
-            <title>SP: C+ Toros</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
+            <title>[COLOR yellow]*TOROS[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11035.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
         </item> 
           <item> 
             <title>SP: Ltc</title> 
