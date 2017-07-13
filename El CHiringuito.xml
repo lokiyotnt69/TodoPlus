@@ -44,12 +44,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Sur</link> 
         </item> 
           <item> 
-            <title>SP: C+ Estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
+            <title>[COLOR yellow]*C+ESTRENOS[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
         </item> 
           <item> 
-            <title>SP: C+ Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Xtra</link> 
+            <title>[COLOR yellow]*C+EXTRA[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Xtra</link> 
         </item> 
           <item> 
             <title>SP: C+ Accion HD</title> 
@@ -173,7 +173,7 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*MOTOGP[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22142.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11039.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
         </item> 
           <item> 
             <title>SP: C+ Golf</title> 
