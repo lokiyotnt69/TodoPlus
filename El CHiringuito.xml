@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
+
   
  [COLOR yellow][/COLOR]
           <item> 
-            <title>[COLOR yellow]*LA 1[/COLOR]SP: La 1</title> 
+            <title>[COLOR yellow]*LA 1[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7301.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 1</link> 
         </item> 
           <item> 
@@ -11,28 +12,28 @@
             <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7302.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 2</link> 
         </item> 
           <item> 
-            <title>SP: Antena 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3</link> 
+            <title> [COLOR yellow]*ANTENA 3[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7271.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3</link> 
         </item> 
           <item> 
-            <title>SP: Cuatro</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cuatro</link> 
+            <title>[COLOR yellow]*CUATRO[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7317.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cuatro</link> 
         </item> 
           <item> 
-            <title>SP: Telecino</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Telecino</link> 
+            <title>[COLOR yellow]*TELECINCO[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7321.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Telecino</link> 
         </item> 
           <item> 
-            <title>SP: La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta</link> 
+            <title>[COLOR yellow]*LA SEXTA[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7304.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta</link> 
         </item> 
           <item> 
-            <title>SP: Clan TVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Clan TVE</link> 
+            <title>[COLOR yellow][/COLOR]SP: Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Clan TVE</link> 
         </item> 
           <item> 
             <title>SP: Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nova</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nova</link> 
         </item> 
           <item> 
             <title>SP: Neox</title> 
@@ -160,19 +161,19 @@
         </item> 
           <item> 
             <title>SP: Barca TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV</link> 
         </item> 
           <item> 
-            <title>SP: Euro Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 1</link> 
+            <title>[COLOR yellow][/COLOR]SP: Euro Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11028.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 1</link> 
         </item> 
           <item> 
-            <title>SP: Euro Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 2</link> 
+            <title>[COLOR yellow][/COLOR]SP: Euro Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11029.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 2</link> 
         </item> 
           <item> 
-            <title>SP: Moto GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
+            <title>[COLOR yellow]*MOTOGP[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22142.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
         </item> 
           <item> 
             <title>SP: C+ Golf</title> 
