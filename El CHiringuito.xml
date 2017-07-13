@@ -29,7 +29,7 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*CLAN[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22159.ts&amp;name=SP: Clan TVE</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22159.ts&amp;;streamtype=TSDOWNLOADER&name=SP: Clan TVE</link> 
         </item> 
           <item> 
             <title> [COLOR yellow]*[/COLOR]SP: Nova</title> 
@@ -45,7 +45,7 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*C+ESTRENOS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11017.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
         </item> 
           <item> 
             <title>[COLOR yellow]*C+EXTRA[/COLOR]</title> 
@@ -53,11 +53,11 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*ACCION[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11018.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Accion HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Accion HD</link> 
         </item> 
           <item> 
             <title>[COLOR yellow]*COMEDIA[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11019.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  C+ Comedia HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP:  C+ Comedia HD</link> 
         </item> 
           <item> 
             <title>[COLOR yellow]DCINE[/COLOR]</title> 
@@ -121,8 +121,12 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*TOROS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11035.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/19653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
         </item> 
+		  <item> 
+            <title>[COLOR yellow]*TOROS[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
+        </item>
           <item> 
             <title>SP: Ltc</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Ltc</link> 
@@ -173,7 +177,7 @@
         </item> 
           <item> 
             <title>[COLOR yellow]*MOTOGP[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11039.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best-anonymous.eu:8000/live/donat2/donat2/24964.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
         </item> 
           <item> 
             <title>SP: C+ Golf</title> 
