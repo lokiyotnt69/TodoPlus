@@ -125,7 +125,7 @@
         </item> 
 		  <item> 
             <title>[COLOR yellow]*TOROS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
         </item>
           <item> 
             <title>SP: Ltc</title> 
