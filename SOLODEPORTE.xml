@@ -13,8 +13,8 @@
 
 <item>
             <title>[COLOR yellow][COLOR skyblue]**JHG*MASTER [/COLOR] LA 1 [COLOR red][/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/tv/nacionales/tve1.html</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail>http://cdn.playbuzz.com/cdn/74d2c118-26b5-42e2-8a4b-e7887906f1d7/d7ce8cd5-68cd-46c1-8c90-c0e52c2dceeb.jpg</thumbnail>
             </item>  
 			
@@ -47,7 +47,7 @@
 
 <item>
             <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR] TELECINCO [COLOR red][/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/tv/nacionales/telecinco2.html</sportsdevil>
+            <sportsdevil></sportsdevil>
             <referer>http://verdirectotv.com/</referer>
             <thumbnail></thumbnail>
             </item>
@@ -124,11 +124,7 @@
             <title>[COLOR gold][COLOR orange]**JHG** [/COLOR]canal accion[COLOR red][/COLOR]</title>
             <sportsdevil>http://zagaiptv.eklablog.com/canal-accion-spain-p1157350</sportsdevil>
             <referer>http://zagaiptv.eklablog.com/</referer>
-			
-			
-			
-			
-            <thumbnail></thumbnail>
+			<thumbnail></thumbnail>
             </item>
 
 
