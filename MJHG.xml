@@ -1,0 +1,33 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------PREPARANDO MEGA LISTA--------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------LISTA JHG.MASTER JULIO 2017-------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR red]*SERIES[/COLOR]
+http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*#0[/COLOR]
+http://edge2502.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*SERIES[/COLOR]
+http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*SERIES XTRA[/COLOR]
+http://edge5204.livesports.pw/live/vera6669184f0b71095624027/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*FOX[/COLOR]
+http://edge5202.livesports.pw/live/verfoxespana247756767558f1/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*AXN[/COLOR]
+http://edge5204.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*TNT[/COLOR]
+http://edge5204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*COMEDY CENTRAL[/COLOR]
+http://cdn3.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*CALLE 13[/COLOR]CALLE 13
+http://edge5202.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*AMC[/COLOR]
+http://edge5204.livesports.pw/live/veramcespteledd21791245ff/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*SYFY[/COLOR]
+http://edge5202.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8|User-Agent=iPad
