@@ -11,21 +11,31 @@
 
 
 
+
 <item>
-            <title>[COLOR yellow][COLOR skyblue]**JHG*MASTER [/COLOR] [COLOR red]*LA 1 [/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/tv/nacionales/tve1.html</sportsdevil>
-            <referer>http://verdirectotv.tv/</referer>
-            <thumbnail>http://cdn.playbuzz.com/cdn/74d2c118-26b5-42e2-8a4b-e7887906f1d7/d7ce8cd5-68cd-46c1-8c90-c0e52c2dceeb.jpg</thumbnail>
-            </item>  
-			
-			
-			<item>
-            <title>[COLOR yellow][COLOR skyblue]**JHG*MASTER [/COLOR][COLOR red] LA 1** [COLOR red][/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/envivo/tve1.html</sportsdevil>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR red]*DEPORTES 1[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/envivo/plusdeportes.html</sportsdevil>
             <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>https://pbs.twimg.com/profile_images/322579325/tve2_400x400.png</thumbnail>
-            </item>  
-						
+            <thumbnail></thumbnail>
+            </item>
+
+			
+<item>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR] [COLOR red]*DEPORTES 1*[/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/ver-canal-plus-deportes-online-gratis-en-directo-hd</sportsdevil>
+            <referer>http://verdirectotv.com/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+
+
+<item>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR] [COLOR red]*DEPORTES 2[/COLOR]</title>
+            <sportsdevil>http://verdirectotv.com/canal-plus-deportes-2-en-directo-online-las-24-horas-en-vivo</sportsdevil>
+            <referer>http://verdirectotv.com/</referer>
+            <thumbnail></thumbnail>
+            </item>
+				
 
              <item>              
              <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR]*ANTENA 3 [COLOR red][/COLOR]</title>
@@ -47,7 +57,7 @@
 
 <item>
             <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR] TELECINCO [COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
+            <sportsdevil>http://verdirectotv.com/category/ver-television-de-espana-en-directo-gratis-las-24-horas</sportsdevil>
             <referer>http://verdirectotv.com/</referer>
             <thumbnail></thumbnail>
             </item>
