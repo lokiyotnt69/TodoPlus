@@ -25,9 +25,13 @@ http://edge5204.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8|User-Age
 http://edge5204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8|User-Agent=iPad
 #EXTINF:-1,[COLOR red]*COMEDY CENTRAL[/COLOR]
 http://cdn3.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,[COLOR red]*CALLE 13[/COLOR]CALLE 13
+#EXTINF:-1,[COLOR red]*CALLE 13[/COLOR]
 http://edge5202.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8|User-Agent=iPad
 #EXTINF:-1,[COLOR red]*AMC[/COLOR]
 http://edge5204.livesports.pw/live/veramcespteledd21791245ff/index.m3u8|User-Agent=iPad
 #EXTINF:-1,[COLOR red]*SYFY[/COLOR]
 http://edge5202.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*ACCION[/COLOR]
+http://edge5202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8|User-Agent=iPad
+#EXTINF:-1,[COLOR red]*DCINE[/COLOR]
+http://edge5204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8|User-Agent=iPad
