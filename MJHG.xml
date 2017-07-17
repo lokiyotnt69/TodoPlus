@@ -90,12 +90,6 @@ http://edge2.telesport.pw/live/dkiss/index.m3u8|User-Agent=iPad
 http://edge3.telesport.pw/live/nationalwild/index.m3u8|User-Agent=iPad 
 #EXTINF:-1,JHG.MASTER:CazayPesca
 http://edge2.telesport.pw/live/cazaypesca/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:VENUS
-http://edge3.telesport.pw/live/venus/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:REDLIGHT
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:BUT GO
-rtmp://edge2.everyon.tv/etv2sb//phd10772
 #EXTINF:-1,JHG.MASTERl:goltv
 http://edge10.verliga.me/live/verliga2/index.m3u8|User-Agent=iPad
 #EXTINF:-1,JHG.MASTER:beinsports
@@ -112,10 +106,6 @@ http://edge10.verliga.me/live/verliga3/index.m3u8|User-Agent=iPad
 http://cdn2.shurs.xyz/verliga/1/playlist.m3u8|User-Agent=iPad
 #EXTINF:-1,JHG.MASTER:dcine
 http://cdn2.shurs.xyz/verliga/3/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:cinemax
-http://cdn2.shurs.xyz/verliga/4/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:WIN sport
-http://cdn2.shurs.xyz/verliga/5/playlist.m3u8|User-Agent=iPad
 #EXTINF:-1,JHG.MASTER:cocina
 http://cdn2.shurs.xyz/verliga/6/playlist.m3u8|User-Agent=iPad
 #EXTINF:-1,JHG.MASTER:redligth
@@ -124,36 +114,6 @@ http://cdn2.shurs.xyz/verliga/11/playlist.m3u8|User-Agent=iPad
 http://cdn2.shurs.xyz/verliga/2/playlist.m3u8|User-Agent=iPad
 #EXTINF:-1,JHG.MASTER:a3series
 http://cdn2.shurs.xyz/verdirectotv/7/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:Comedy Central
-http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:toros
-http://cdn2.shurs.xyz/verdirectotv/9/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:hollywood
-http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:discovery
-http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:energy
-http://cdn2.shurs.xyz/verdirectotv/12/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:nova
-http://cdn2.shurs.xyz/verdirectotv/13/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:BeMad
-http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:cosmo
-http://cdn2.shurs.xyz/verdirectotv/15/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:telecinco
-http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:cuatro
-http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:divinity
-http://cdn2.shurs.xyz/verdirectotv/3/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:antena3
-http://cdn2.shurs.xyz/verdirectotv/4/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:Paramount Channel
-http://cdn2.shurs.xyz/verdirectotv/5/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:lasexta
-http://cdn2.shurs.xyz/verdirectotv/6/playlist.m3u8|User-Agent=iPad 
-#EXTINF:-1,tvg-logo="http://s03.s3c.es/imag/_v0/640x300/f/b/f/canal-plus-series.jpg"group-title="España", SERIES
-http://edge5202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8|User-Agent=iPad
 
 
 
