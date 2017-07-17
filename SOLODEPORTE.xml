@@ -93,8 +93,8 @@
 
 <item>
             <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR] TELECINCO [COLOR red][/COLOR]</title>
-            <sportsdevil>http://verdirectotv.com/category/ver-television-de-espana-en-directo-gratis-las-24-horas</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <sportsdevil>http://verplusonline.com/ver-tele-5-online-y-en-directo-las-24h-en-vivo-y-gratis</sportsdevil>
+            <referer>http://verplusonline.com/</referer>
             <thumbnail></thumbnail>
             </item>
 
@@ -117,12 +117,39 @@
 
 			
 <item>
-            <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR]*TAQUILLA 3  [COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR red] FOX[/COLOR]</title>
+            <sportsdevil>http://verplusonline.com/ver-fox-hd-en-castellano-las-24h-online-y-en-directo-gratis</sportsdevil>
+            <referer>http://verplusonline.com/</referer>
             <thumbnail></thumbnail>
             </item>
 
+<item>
+            <title>[COLOR skyblue]*JHG*MASTER [/COLOR][COLOR red]*ESTRENOS[/COLOR]</title>
+            <sportsdevil>http://verplusonline.com/ver-canal-movistar-estrenos-online-gratis-vivo</sportsdevil>
+            <referer>http://verplusonline.com/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+			<item>
+            <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR]* [COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer>http://verplusonline.com/</referer>
+            <thumbnail></thumbnail>
+            </item>
+
+			<item>
+            <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR]* [COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer></referer>
+            <thumbnail></thumbnail>
+            </item>
+
+			<item>
+            <title>[COLOR gold][COLOR skyblue]*JHG*MASTER [/COLOR]* [COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+            <referer></referer>
+            <thumbnail></thumbnail>
+            </item>
 
 
 <item>
