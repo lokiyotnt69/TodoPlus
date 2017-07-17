@@ -5,7 +5,7 @@
 #EXTINF:-1,[COLOR red][I][B]-------------------PREPARANDO MEGA LISTA--------------------------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1,[COLOR red][I][B]--------------LISTA JHG.MASTER JULIO 2017-------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]--------------LISTA JHG.[COLOR lime]*JHG [/COLOR] JULIO 2017-------------------------------------------[/B][/I][/COLOR]
 
 
 
@@ -43,77 +43,65 @@ http://edge5204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8|User-Age
 #EXTINF:-1,[COLOR red][I][B]----------2 lista JHG------------------------------------------[/B][/I][/COLOR]
 
 
+[COLOR red]*[/COLOR]
 
 
-
-#EXTINF:-1,JHG.MASTER:#0  
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:#0  
 http://edge2.telesport.pw/live/plus1/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:ESTRENOS
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:ESTRENOS
 http://edge2.telesport.pw/live/plusestrenos/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:ACCION
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:ACCION
 http://edge2.telesport.pw/live/plusaccion/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:COMEDIA
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:COMEDIA
 http://edge2.telesport.pw/live/comedia/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:TNT
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:TNT
 http://edge2.telesport.pw/live/tnt/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:AXN
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:AXN
 http://edge2.telesport.pw/live/axn/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:FOX
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:FOX
 http://edge2.telesport.pw/live/fox/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:FOXLIFE
+#EXTINF:-1,JHG.[COLOR lime]*JHG [/COLOR]:FOXLIFE
 http://edge2.telesport.pw/live/foxlife/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:CALLE13
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:CALLE13
 http://edge2.telesport.pw/live/calle13/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:SYFY
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:SYFY
 http://edge2.telesport.pw/live/syfy/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:AMC
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:AMC
 http://edge2.telesport.pw/live/amc/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:TCM
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:TCM
 http://edge2.telesport.pw/live/tcm/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:HISTORIA
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:HISTORIA
 http://edge2.telesport.pw/live/historia/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:ODISEA
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:ODISEA
 http://edge2.telesport.pw/live/odisea/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:TELECINCO
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:TELECINCO
 http://edge2.telesport.pw/live/telecinco/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:FDF
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:FDF
 http://edge2.telesport.pw/live/fdf/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:GOLF
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:GOLF
 http://edge2.telesport.pw/live/golf/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:TEN
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:TEN
 http://edge2.telesport.pw/live/ten/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:DMAX
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:DMAX
 http://edge2.telesport.pw/live/dmax/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:DKISS
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:DKISS
 http://edge2.telesport.pw/live/dkiss/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:NATGEO WILD
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:NATGEO WILD
 http://edge3.telesport.pw/live/nationalwild/index.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:CazayPesca
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:CazayPesca
 http://edge2.telesport.pw/live/cazaypesca/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTERl:goltv
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]l:goltv
 http://edge10.verliga.me/live/verliga2/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:beinsports
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:beinsports
 http://edge10.verliga.club/live/verliga11/index.m3u8|User-Agent=iPad 
-#EXTINF:-1,JHG.MASTER:beinsports
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:beinsports
 http://edge10.verliga.me/live/verliga3/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:f1
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:FORMULA 1
 http://edge10.verliga.me/live/verliga4/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:beinlaliga
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:beinlaliga
 http://edge10.verliga.me/live/verliga11/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:beinsports
+#EXTINF:-1,[COLOR lime]*JHG [/COLOR]:beinsports
 http://edge10.verliga.me/live/verliga3/index.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:comedia
-http://cdn2.shurs.xyz/verliga/1/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:dcine
-http://cdn2.shurs.xyz/verliga/3/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:cocina
-http://cdn2.shurs.xyz/verliga/6/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:redligth
-http://cdn2.shurs.xyz/verliga/11/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:Fdf
-http://cdn2.shurs.xyz/verliga/2/playlist.m3u8|User-Agent=iPad
-#EXTINF:-1,JHG.MASTER:a3series
-http://cdn2.shurs.xyz/verdirectotv/7/playlist.m3u8|User-Agent=iPad 
 
 
 
