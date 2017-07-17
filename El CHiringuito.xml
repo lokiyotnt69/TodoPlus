@@ -3,272 +3,538 @@
 
   
  [COLOR yellow][/COLOR]
-          <item> 
-            <title>[COLOR yellow]*LA 1[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7301.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 1</link> 
+      
+	  <item> 
+            <title>#0 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9411.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 ES</link> 
         </item> 
           <item> 
-            <title>[COLOR yellow]*LA2[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7302.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 2</link> 
+            <title>#0 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12734.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD ES</link> 
         </item> 
           <item> 
-            <title> [COLOR yellow]*ANTENA 3[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7271.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*CUATRO[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7317.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cuatro</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*TELECINCO[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7321.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Telecino</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*LA SEXTA[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/7304.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*CLAN[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/22159.ts&amp;;streamtype=TSDOWNLOADER&name=SP: Clan TVE</link> 
-        </item> 
-          <item> 
-            <title> [COLOR yellow]*[/COLOR]SP: Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nova</link> 
-        </item> 
-          <item> 
-            <title> [COLOR yellow]*[/COLOR]SP: Neox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://alb-tv.dyndns.tv:8000/live/0wBIAtLFOG/oeKHA8GJdg/8420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Neox</link> 
-        </item> 
-          <item> 
-            <title>SP: Canal Sur</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Sur</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*C+ESTRENOS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*C+EXTRA[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Xtra</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*ACCION[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Accion HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*COMEDIA[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP:  C+ Comedia HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]DCINE[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Dcine HD</link> 
-        </item> 
-          <item> 
-            <title>SP: Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Hollywood</link> 
-        </item> 
-          <item> 
-            <title>SP: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT</link> 
-        </item> 
-          <item> 
-            <title>SP: Tcm</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Tcm</link> 
-        </item> 
-          <item> 
-            <title>SP: C+ Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Series</link> 
-        </item> 
-          <item> 
-            <title>SP: C+ Series Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Series Xtra</link> 
-        </item> 
-          <item> 
-            <title>SP: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox HD</link> 
-        </item> 
-          <item> 
-            <title>SP: Amc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Amc</link> 
-        </item> 
-          <item> 
-            <title>SP: Axn HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Axn HD</link> 
-        </item> 
-          <item> 
-            <title>SP: Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Syfy</link> 
-        </item> 
-          <item> 
-            <title>SP: Calle 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge7.telesport.pw/live/calle13/7114.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Calle 13</link> 
-        </item> 
-          <item> 
-            <title>SP: Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Comedy Central</link> 
-        </item> 
-          <item> 
-            <title>SP: FDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FDF</link> 
-        </item> 
-          <item> 
-            <title>SP: Divinity</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Divinity</link> 
-        </item> 
-          <item> 
-            <title>SP: Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Energy</link> 
-        </item> 
-          <item> 
-            <title>[COLOR yellow]*TOROS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://matrix.matrix-ott.tv:8000/live/Nasser/Nasser/19653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
-        </item> 
-		  <item> 
-            <title>[COLOR yellow]*TOROS[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros</link> 
-        </item>
-          <item> 
-            <title>SP: Ltc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Ltc</link> 
-        </item> 
-          <item> 
-            <title>SP: C+ Deportes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Deportes</link> 
-        </item> 
-          <item> 
-            <title>SP: C+ Deportes 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Deportes 2</link> 
-        </item> 
-          <item> 
-            <title>SP: C+ Futbol HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Futbol HD</link> 
-        </item> 
-          <item> 
-            <title>SP: C + Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C + Futbol</link> 
-        </item> 
-          <item> 
-            <title>SP: Teledeporte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Teledeporte</link> 
-        </item> 
-          <item> 
-            <title>SP: Bein Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bein Sports</link> 
+            <title>Movistar eSports ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Movistar eSports&amp;streamtype=TSDOWNLOADER&amp;name=Movistar eSports ES</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5475.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>SP: Real Madrid TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Real Madrid TV</link> 
+            <title>A&amp;E ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5474.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
         </item> 
           <item> 
-            <title>SP: Barca TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV</link> 
+            <title>AMC ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9438.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC ES</link> 
         </item> 
           <item> 
-            <title>[COLOR yellow][/COLOR]SP: Euro Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11028.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 1</link> 
+            <title>AMC HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12733.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
         </item> 
           <item> 
-            <title>[COLOR yellow][/COLOR]SP: Euro Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lupin3.mine.nu:8000/live/P45PeterCopley/delpiero10/11029.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 2</link> 
+            <title>AXN ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5471.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN ES</link> 
         </item> 
           <item> 
-            <title>[COLOR yellow]*MOTOGP[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://best-anonymous.eu:8000/live/donat2/donat2/24964.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP</link> 
+            <title>AXN HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12731.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD ES</link> 
         </item> 
           <item> 
-            <title>SP: C+ Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Golf</link> 
+            <title>AXN White ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5470.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
         </item> 
           <item> 
-            <title>SP: Canal Odisea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Odisea</link> 
+            <title>AXN White HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12730.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White HD ES</link> 
         </item> 
           <item> 
-            <title>SP: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geographic</link> 
+            <title>Animal Planet ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/11606.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet ES</link> 
         </item> 
           <item> 
-            <title>SP: National Geographic Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geographic Wild HD</link> 
+            <title>Antena 3 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 ES</link> 
         </item> 
           <item> 
-            <title>SP: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Discovery</link> 
+            <title>Antena 3 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD ES</link> 
         </item> 
           <item> 
-            <title>SP: Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Historia</link> 
+            <title>Aragón TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9409.ts&amp;streamtype=TSDOWNLOADER&amp;name=Aragón TV ES</link> 
         </item> 
           <item> 
-            <title>SP: Canal Decasa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Decasa</link> 
+            <title>Baby TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV ES</link> 
         </item> 
           <item> 
-            <title>SP: Caza Y Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Caza Y Pesca</link> 
+            <title>Barca TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV ES</link> 
         </item> 
           <item> 
-            <title>SP: Viajar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Viajar</link> 
+            <title>Boing ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9429.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing ES</link> 
         </item> 
           <item> 
-            <title>SP: Canal Cocina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Cocina</link> 
+            <title>Calle 13 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 ES</link> 
         </item> 
           <item> 
-            <title>SP: Mtv Espana</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Mtv Espana</link> 
+            <title>Calle 13 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12728.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
         </item> 
           <item> 
-            <title>SP: Mezzo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Mezzo</link> 
+            <title>Canal 24 Horas ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal 24 Horas ES</link> 
         </item> 
           <item> 
-            <title>SP: Classica</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Classica</link> 
+            <title>Canal Cocina ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5456.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina ES</link> 
         </item> 
           <item> 
-            <title>SP: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney Channel</link> 
+            <title>Decasa ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Decasa ES</link> 
         </item> 
           <item> 
-            <title>SP: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney XD</link> 
+            <title>Canal Panda ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda ES</link> 
         </item> 
           <item> 
-            <title>SP: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Boing</link> 
+            <title>Canal Sur Andalucia ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Sur Andalucia ES</link> 
         </item> 
           <item> 
-            <title>SP: Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Panda</link> 
+            <title>Caza y Pesca ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca ES</link> 
         </item> 
           <item> 
-            <title>SP: Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Baby TV</link> 
+            <title>Caza y Pesca HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/13659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca HD ES</link> 
         </item> 
           <item> 
-            <title>SP: Canal 24 Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 24 Horas</link> 
+            <title>Clan TVE ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE ES</link> 
         </item> 
           <item> 
-            <title>SP: 24 Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 24 Horas</link> 
+            <title>Comedy Central ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central ES</link> 
         </item> 
           <item> 
-            <title>SP: Fox News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox News</link> 
+            <title>Comedy Central HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD ES</link> 
         </item> 
           <item> 
-            <title>SP: TV International Europa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV International Europa</link> 
+            <title>Cosmopolitan TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmopolitan TV ES</link> 
         </item> 
           <item> 
-            <title>SP: C+ Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Liga</link> 
+            <title>Cosmopolitan TV HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmopolitan TV HD ES</link> 
         </item> 
-   
+          <item> 
+            <title>Crimen + Investigación ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9433.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crimen + Investigación ES</link> 
+        </item> 
+          <item> 
+            <title>Cuatro ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro ES</link> 
+        </item> 
+          <item> 
+            <title>Cuatro HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro HD ES</link> 
+        </item> 
+          <item> 
+            <title>Discovery Channel ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel ES</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5446.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel ES</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12708.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD ES</link> 
+        </item> 
+          <item> 
+            <title>Disney Junior ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9431.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior ES</link> 
+        </item> 
+          <item> 
+            <title>Disney XD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9430.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD ES</link> 
+        </item> 
+          <item> 
+            <title>Divinity ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity ES</link> 
+        </item> 
+          <item> 
+            <title>Energy ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 ES</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Factoria de Ficción ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9434.ts&amp;streamtype=TSDOWNLOADER&amp;name=Factoria de Ficción ES</link> 
+        </item> 
+          <item> 
+            <title>FOX ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5442.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ES</link> 
+        </item> 
+          <item> 
+            <title>FOX HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/13661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD ES</link> 
+        </item> 
+          <item> 
+            <title>FOX Life ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5439.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Life ES</link> 
+        </item> 
+          <item> 
+            <title>FOX News ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX News ES</link> 
+        </item> 
+          <item> 
+            <title>Fox Life HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12706.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
+        </item> 
+          <item> 
+            <title>Gol ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol ES</link> 
+        </item> 
+          <item> 
+            <title>Historia ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia ES</link> 
+        </item> 
+          <item> 
+            <title>HIT TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9435.ts&amp;streamtype=TSDOWNLOADER&amp;name=HIT TV ES</link> 
+        </item> 
+          <item> 
+            <title>Canal Hollywood ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Hollywood ES</link> 
+        </item> 
+          <item> 
+            <title>Canal Hollywood HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12705.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Hollywood HD ES</link> 
+        </item> 
+          <item> 
+            <title>Iberalia TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9408.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iberalia TV ES</link> 
+        </item> 
+          <item> 
+            <title>LTC ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9439.ts&amp;streamtype=TSDOWNLOADER&amp;name=LTC ES</link> 
+        </item> 
+          <item> 
+            <title>TVE La 1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9404.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE La 1 ES</link> 
+        </item> 
+          <item> 
+            <title>TVE La 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12704.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE La 1 HD ES</link> 
+        </item> 
+          <item> 
+            <title>TVE La 2 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9405.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE La 2 ES</link> 
+        </item> 
+          <item> 
+            <title>La Sexta ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9406.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta ES</link> 
+        </item> 
+          <item> 
+            <title>La Sexta HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12703.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta HD ES</link> 
+        </item> 
+          <item> 
+            <title>LaLiga TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5457.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV ES</link> 
+        </item> 
+          <item> 
+            <title>LaLiga TV HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12718.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV HD ES</link> 
+        </item> 
+          <item> 
+            <title>MTV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9448.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ES</link> 
+        </item> 
+          <item> 
+            <title>MTV ROCKS ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9444.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS ES</link> 
+        </item> 
+          <item> 
+            <title>Mega HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/16262.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega HD ES</link> 
+        </item> 
+          <item> 
+            <title>Mezzo Live HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mezzo Live HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Acción ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5463.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Acción HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12727.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Cine Ñ ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Ñ ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Comedia ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Comedia HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12726.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar DCine ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar DCine HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Deportes 1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1 ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Deportes 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12723.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 1 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Deportes 2 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2 ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Deportes 2 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12724.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Deportes 2 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Estrenos ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Estrenos HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12722.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Formula 1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5445.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Formula 1 ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Formula 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12701.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Formula 1 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Fútbol ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5459.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Fútbol ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Fútbol HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Fútbol HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Golf ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5458.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Golf ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Golf HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Golf HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Moto GP ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Moto GP ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Moto GP HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12700.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Moto GP HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Partidazo ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Partidazo ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Partidazo HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12716.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Partidazo HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Series ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Series HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/13664.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Series Xtra ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Series Xtra HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra HD ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Xtra ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra ES</link> 
+        </item> 
+          <item> 
+            <title>Movistar Xtra HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12712.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra HD ES</link> 
+        </item> 
+          <item> 
+            <title>National Geographic HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9441.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD ES</link> 
+        </item> 
+          <item> 
+            <title>National Geographic Wild ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5476.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild ES</link> 
+        </item> 
+          <item> 
+            <title>National Geographic Wild HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12698.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild HD ES</link> 
+        </item> 
+          <item> 
+            <title>National Geographic ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5455.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic ES</link> 
+        </item> 
+          <item> 
+            <title>Neox ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
+        </item> 
+          <item> 
+            <title>Nick Jr. ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/14247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr. ES</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/14248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon ES</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon HD ES</link> 
+        </item> 
+          <item> 
+            <title>Nova ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
+        </item> 
+          <item> 
+            <title>Odisea ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea ES</link> 
+        </item> 
+          <item> 
+            <title>Paramount Channel ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9446.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel ES</link> 
+        </item> 
+          <item> 
+            <title>Real Madrid TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV ES</link> 
+        </item> 
+          <item> 
+            <title>Sol Musica ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9432.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sol Musica ES</link> 
+        </item> 
+          <item> 
+            <title>Syfy ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy ES</link> 
+        </item> 
+          <item> 
+            <title>Syfy HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy HD ES</link> 
+        </item> 
+          <item> 
+            <title>TCM ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9445.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM ES</link> 
+        </item> 
+          <item> 
+            <title>TCM HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12695.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM HD ES</link> 
+        </item> 
+          <item> 
+            <title>TNT ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9423.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT ES</link> 
+        </item> 
+          <item> 
+            <title>TNT HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12693.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT HD ES</link> 
+        </item> 
+          <item> 
+            <title>TV3 Cat ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9436.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 Cat ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/15615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 1 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 2 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/15616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 3 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/15617.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 4 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/15618.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 4 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 5 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/15619.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 5 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 6 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/15620.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 6 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Telecinco ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco ES</link> 
+        </item> 
+          <item> 
+            <title>Telecinco HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco HD ES</link> 
+        </item> 
+          <item> 
+            <title>Teledeporte ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte ES</link> 
+        </item> 
+          <item> 
+            <title>Toros TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV ES</link> 
+        </item> 
+          <item> 
+            <title>Toros TV HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12713.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV HD ES</link> 
+        </item> 
+          <item> 
+            <title>Viajar ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar ES</link> 
+        </item> 
+          <item> 
+            <title>Viajar HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar HD ES</link> 
+        </item> 
+          <item> 
+            <title>Caçavision HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caçavision HD ES</link> 
+        </item> 
+          <item> 
+            <title>Galicia TV Europa ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/9473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Galicia TV Europa ES</link> 
+        </item> 
+          <item> 
+            <title>Real Madrid TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV ES</link> 
+        </item> 
+  
+	  
