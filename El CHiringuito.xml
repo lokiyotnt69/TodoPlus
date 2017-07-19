@@ -7,27 +7,5 @@
 	  
 	  
 	  
-	  
-	  
-	    <item> 
-            <title>ES: Telecinco</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/123456/123456/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco</link> 
-        </item>
-     <item> 
-            <title>ES: Nick Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/123456/123456/3348.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nick Jr.</link> 
-        </item> 
-  <item> 
-            <title>ES: Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/123456/123456/3303.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Syfy</link> 
-        </item>
-   <item> 
-            <title>ES: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/123456/123456/3302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
-        </item> 
-		  <item> 
-            <title>ES: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
-        </item> 
-		
+	 
   
