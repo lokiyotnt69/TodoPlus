@@ -32,7 +32,7 @@
             <title>[COLOR aquamarine]*CALLE 13 [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
         </item> 
-		              <item> 
+		    <item> 
             <title>[COLOR aquamarine]*CANAL COMEDIA [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COMEDIA</link> 
         </item> 
@@ -49,8 +49,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ESTRENOS</link> 
         </item> 
              <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*MOVISTAR XTRA  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR STRA</link> 
         </item> 
 		     <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
@@ -58,8 +58,8 @@
         </item> 	
   </item> 
              <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*LA LIGA TV   [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV</link> 
         </item> 
 		     <item> 
             <title>[COLOR aquamarine]*FORMULA 1  [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
