@@ -11,19 +11,19 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E</link> 
         </item> 
             <item> 
-            <title>[COLOR aquamarine]*AMC  [/COLOR][COLOR yellow]*(720)  [/COLOR]</title> 
+            <title>[COLOR aquamarine]*AMC  [/COLOR][COLOR yellow]*(720) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item> 
             <item> 
             <title>[COLOR aquamarine]*AXN (1080) [/COLOR][COLOR yellow]* (1080) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
             <item> 
-            <title>[COLOR aquamarine]*AXN WHITE  [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+            <title>[COLOR aquamarine]*AXN WHITE [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
             <item> 
-            <title>[COLOR aquamarine]*CANAL ESTRELLAS  [/COLOR][COLOR yellow]* (SD)  [/COLOR]</title> 
+            <title>[COLOR aquamarine]*CANAL ESTRELLAS [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ESTRELLAS</link> 
         </item> 
 		   <item> 
@@ -31,16 +31,56 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*CANAL ACCION  [/COLOR][COLOR yellow]* (1080) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
+            <title>[COLOR aquamarine]*MOVISTAR ESTRENOS [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR ESTRENOS</link> 
         </item> 
              <item> 
-            <title>[COLOR aquamarine]*CANAL COMEDIA [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COMEDIA</link> 
+            <title>[COLOR aquamarine]*MOVISTAR XTRA [/COLOR][COLOR yellow]* (720) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR XTRA</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*DCINE  [/COLOR][COLOR yellow]* (720) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
+            <title>[COLOR aquamarine]*MOVISTAR SERIES [/COLOR][COLOR yellow]*(720 ) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR SERIES</link> 
+        </item> 
+             <item> 
+            <title>[COLOR aquamarine]*MOVISTAR SERIES XTRA [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR SERIES XTRA </link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+             <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+               <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+             <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+             <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+               <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
              <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
