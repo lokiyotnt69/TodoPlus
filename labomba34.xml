@@ -41,24 +41,40 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
         </item> 
              <item> 
-            <title>[COLOR aquamarine]*CANAL ACCION [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <title>[COLOR aquamarine]*CANAL ACCION [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*CANAL ESTRENOS [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <title>[COLOR aquamarine]*CANAL ESTRENOS [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ESTRENOS</link> 
         </item> 
              <item> 
-            <title>[COLOR aquamarine]*MOVISTAR XTRA  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR STRA</link> 
+            <title>[COLOR aquamarine]*MOVISTAR XTRA  [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR XTRA</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*FOX  [/COLOR][COLOR yellow]*(720) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 	
+		     <item> 
+            <title>[COLOR aquamarine]*FOX LIVE  [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIVE</link> 
         </item> 
 		     <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 	
-  </item> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+        </item> 
              <item> 
-            <title>[COLOR aquamarine]*LA LIGA TV   [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <title>[COLOR aquamarine]*LA LIGA TV   [/COLOR][COLOR yellow]*(720)  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV</link> 
         </item> 
 		     <item> 
@@ -70,11 +86,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*GOLF  [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <title>[COLOR aquamarine]*GOLF  [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF</link> 
         </item> 		
   <item> 
-          <title>[COLOR lime]*CANALES*BEIN LIGA  [/COLOR][COLOR yellow]*(720)  [/COLOR]</title> 
+          <title>[COLOR aquamarine]*BEIN LIGA  [/COLOR][COLOR yellow]*(720)  [/COLOR]</title> 
           <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5423.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA  </link> 
       </item> 
         <item> 
@@ -94,10 +110,29 @@
           <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5418.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  CLAN TVE</link> 
       </item> 
         <item> 
-          <title>[COLOR aquamarine]*BOING  [/COLOR]</title> 
+          <title>[COLOR aquamarine]*BOING [/COLOR]</title> 
           <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5420.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] BOING</link> 
       </item>
-          
+          	     <item> 
+            <title>[COLOR aquamarine]*CAZA Y PESCA  [/COLOR][COLOR yellow]*(720)  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item> 	
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
 		  
 		  
 		  
