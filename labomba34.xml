@@ -37,16 +37,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COMEDIA</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*DCINE  [/COLOR][COLOR yellow]* (720) [/COLOR]</title> 
+            <title>[COLOR aquamarine]*DCINE [/COLOR][COLOR yellow]* (720) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
         </item> 
              <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*CANAL ACCION [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*CANAL ESTRENOS [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ESTRENOS</link> 
         </item> 
              <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
@@ -55,10 +55,27 @@
 		     <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 				
+        </item> 	
+  </item> 
+             <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*FORMULA 1  [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMULA 1</link> 
+        </item> 
+         <item> 
+            <title>[COLOR aquamarine]*TOROS TV  [/COLOR][COLOR yellow]*(SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*GOLF  [/COLOR][COLOR yellow]*(SD)  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF</link> 
+        </item> 		
   <item> 
-          <title>[COLOR lime]*CANALES*  [/COLOR][COLOR yellow]*CRIOS*  [/COLOR]</title> 
-          <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  </link> 
+          <title>[COLOR lime]*CANALES*BEIN LIGA  [/COLOR][COLOR yellow]*(720)  [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5423.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA  </link> 
       </item> 
         <item> 
           <title>[COLOR aquamarine]*PANDA  [/COLOR]</title> 
