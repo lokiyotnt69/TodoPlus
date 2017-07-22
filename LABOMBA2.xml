@@ -16,11 +16,11 @@
         </item> 
             <item> 
             <title>[COLOR aquamarine]*AXN (1080) [/COLOR][COLOR yellow]* (1080) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item> 
             <item> 
             <title>[COLOR aquamarine]*AXN WHITE  [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
         </item> 
             <item> 
             <title>[COLOR aquamarine]*CANAL ESTRELLAS  [/COLOR][COLOR yellow]* (SD)  [/COLOR]</title> 
@@ -31,16 +31,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*CANAL ACCION  [/COLOR][COLOR yellow]* (1080) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
         </item> 
              <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*CANAL COMEDIA [/COLOR][COLOR yellow]* (SD) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COMEDIA</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR aquamarine]*DCINE  [/COLOR][COLOR yellow]* (720) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
         </item> 
              <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
