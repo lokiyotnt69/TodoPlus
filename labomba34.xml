@@ -55,7 +55,31 @@
 		     <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
+        </item> 				
+  <item> 
+          <title>[COLOR lime]*CANALES*  [/COLOR][COLOR yellow]*CRIOS*  [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  </link> 
+      </item> 
+        <item> 
+          <title>[COLOR aquamarine]*PANDA  [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5428.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] PANDA</link> 
+      </item> 
+        <item> 
+          <title>[COLOR aquamarine]*NICKELODEON  [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5419.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  NICKELODEON</link> 
+      </item> 
+  <item> 
+          <title>[COLOR aquamarine]*NICK JR  [/COLOR][</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  NICK JR</link> 
+      </item> 
+        <item> 
+          <title>[COLOR aquamarine]*CLAN TVE  [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5418.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES]  CLAN TVE</link> 
+      </item> 
+        <item> 
+          <title>[COLOR aquamarine]*BOING  [/COLOR]</title> 
+          <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5420.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] BOING</link> 
+      </item>
           
 		  
 		  
