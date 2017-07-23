@@ -118,6 +118,38 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item> 	
 		     <item> 
+            <title>[COLOR aquamarine]*CANAL COCINA  [/COLOR][COLOR yellow]*(SD)[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*CANAL DE CASA [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE CASA</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*COSMOS [/COLOR][COLOR yellow]*(720) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMOS</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*CUATRO [/COLOR][COLOR yellow]*(1080) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item> 
+		  	     <item> 
+            <title>[COLOR aquamarine]*DISCOVERY  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/fnam7nwXUd/MnJQSzRXX1/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		  	     <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
