@@ -6,40 +6,44 @@
     
 
 
-
-    <item> 
-            <title>[COLOR aquamarine]*EN  [/COLOR][COLOR yellow]* REPARACION [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-		     <item> 
-            <title>[COLOR aquamarine]*Movistar Accion [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Accion </link> 
-        </item> 
-		     <item> 
-            <title>[COLOR aquamarine]*FOX  [/COLOR][</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
-        </item> 
+ 
 		  	     <item> 
-            <title>[COLOR aquamarine]*SYFY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/5417.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+            <title>[COLOR aquamarine]*#0  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/7262.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*CALLE 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvfree1.com:6969/live/gqmanvan@gmail.com/qSIuvzHqLu/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+            <title>[COLOR aquamarine]*CANAL ESTRENOS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTRENOS</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP</link> 
+            <title>[COLOR aquamarine]*CANAL ESTRENOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTRENOS</link> 
         </item> 
-			     <item> 
-            <title>[COLOR aquamarine]*AXN [/COLOR][COLOR yellow]*  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7709.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+		  <item> 
+            <title>[COLOR aquamarine]*CANAL ACCION  [/COLOR][COLOR yellow]*SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
         </item> 
 		     <item> 
-            <title>[COLOR aquamarine]*COMEDIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://145.239.108.17:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7697.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIA</link> 
+            <title>[COLOR aquamarine]*CANAL ACCION  [/COLOR][COLOR yellow]* HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/13603.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ACCION</link> 
         </item> 
-		  	     <item> 
+		     <item> 
+            <title>[COLOR aquamarine]*CANAL COMEDIA  [/COLOR][COLOR yellow]*SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COMEDIA</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*CANAL COMEDIA  [/COLOR][COLOR yellow]*HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/7211.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COMEDIA</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*M. DCINE  [/COLOR][COLOR yellow]*SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/25.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. DCINE</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*M. DCINE  [/COLOR][COLOR yellow]*HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://alphatv.info:999/live/rsiptv/Yetr2nQaW3/7210.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. DCINE</link> 
+        </item> 
+		      <item> 
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
@@ -51,6 +55,19 @@
             <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		     <item> 
+            <title>[COLOR aquamarine]*  [/COLOR][COLOR yellow]*  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+		  
 		  
 		  
 		  
