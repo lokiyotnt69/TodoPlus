@@ -1,255 +1,255 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ES: BEIN LA LIGA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BEIN LA LIGA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2516.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2516.m3u8
 #EXTINF:-1 tvg-name="ES: BEIN LA LIGA 1" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BEIN LA LIGA 1
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2517.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2517.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTE" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR DEPORTE
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2432.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2432.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTE 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR DEPORTE 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2518.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2518.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR FUTBOL" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR FUTBOL
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2519.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2519.m3u8
 #EXTINF:-1 tvg-name="ES: Beinsport HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Beinsport HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2515.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2515.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR GOLF" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1903.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1903.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR ACCION
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2425.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2425.m3u8
 #EXTINF:-1 tvg-name="ES: GOL TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: GOL TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2514.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2514.m3u8
 #EXTINF:-1 tvg-name="ES: Movistar moto gp" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Movistar moto gp
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1916.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1916.m3u8
 #EXTINF:-1 tvg-name="ES: Movistar F1" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Movistar F1
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1915.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1915.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2427.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2427.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR COMEDIA HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2524.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2524.m3u8
 #EXTINF:-1 tvg-name="ES : MOVISTAR TOROS HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2525.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2525.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR SERIES HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2522.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2522.m3u8
 #EXTINF:-1 tvg-name="ES : MOVISTAR LA LIGA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : MOVISTAR LA LIGA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1785.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1785.m3u8
 #EXTINF:-1 tvg-name="ES: CUATRO HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CUATRO HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2510.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2510.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR 0# HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2512.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2512.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR XTRA HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR XTRA HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/3137.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/3137.m3u8
 #EXTINF:-1 tvg-name="ES: CASA Y PESCA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CASA Y PESCA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2429.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2429.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR SERIES XTRA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2426.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2426.m3u8
 #EXTINF:-1 tvg-name="ES: Canal Cocina" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Canal Cocina
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2430.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2430.m3u8
 #EXTINF:-1 tvg-name="ES: BARCA TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BARCA TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2445.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2445.m3u8
 #EXTINF:-1 tvg-name="ES: TELECINCO" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TELECINCO
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1767.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1767.m3u8
 #EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2511.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2511.m3u8
 #EXTINF:-1 tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2724.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2724.m3u8
 #EXTINF:-1 tvg-name="ES : COMEDY CENTRAL HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1907.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1907.m3u8
 #EXTINF:-1 tvg-name="ES: TCM" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TCM
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2528.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2528.m3u8
 #EXTINF:-1 tvg-name="ES: REAL MADRID TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: REAL MADRID TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2436.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2436.m3u8
 #EXTINF:-1 tvg-name="ES: MEGA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MEGA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2721.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2721.m3u8
 #EXTINF:-1 tvg-name="ES : Viajar HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : Viajar HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1909.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1909.m3u8
 #EXTINF:-1 tvg-name="ES: La 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: La 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2532.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2532.m3u8
 #EXTINF:-1 tvg-name="ES: La 1" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: La 1
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2531.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2531.m3u8
 #EXTINF:-1 tvg-name="ES: BEIN LA LIGA 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BEIN LA LIGA 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2438.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2438.m3u8
 #EXTINF:-1 tvg-name="ES: ENERGY" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: ENERGY
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2530.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2530.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR DCINE" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2529.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2529.m3u8
 #EXTINF:-1 tvg-name="ES: Baby TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Baby TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2527.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2527.m3u8
 #EXTINF:-1 tvg-name="ES: Antena 3" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Antena 3
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1770.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1770.m3u8
 #EXTINF:-1 tvg-name="ES: antena3 HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: antena3 HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/3135.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/3135.m3u8
 #EXTINF:-1 tvg-name="ES: Disney channel" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Disney channel
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1793.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1793.m3u8
 #EXTINF:-1 tvg-name="ES: FOX" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: FOX
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1790.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1790.m3u8
 #EXTINF:-1 tvg-name="ES: History" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: History
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1928.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1928.m3u8
 #EXTINF:-1 tvg-name="ES: Hollywood HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Hollywood HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1773.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1773.m3u8
 #EXTINF:-1 tvg-name="ES: SyFy HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: SyFy HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1791.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1791.m3u8
 #EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2421.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2421.m3u8
 #EXTINF:-1 tvg-name="ES: LaSextaHD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: LaSextaHD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1768.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1768.m3u8
 #EXTINF:-1 tvg-name="ES: AMC HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: AMC HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2435.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2435.m3u8
 #EXTINF:-1 tvg-name="ES: AMC" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: AMC
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2434.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2434.m3u8
 #EXTINF:-1 tvg-name="ES: FOX Life" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: FOX Life
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1771.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1771.m3u8
 #EXTINF:-1 tvg-name="ES: CUATRO SD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CUATRO SD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1769.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1769.m3u8
 #EXTINF:-1 tvg-name="ES: CALLE13" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CALLE13
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2422.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2422.m3u8
 #EXTINF:-1 tvg-name="ES: Axn White" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Axn White
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1786.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1786.m3u8
 #EXTINF:-1 tvg-name="ES: 40 TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: 40 TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2423.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/2423.m3u8
 #EXTINF:-1 tvg-name="ES: TVE 24 Hora" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TVE 24 Hora
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1923.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1923.m3u8
 #EXTINF:-1 tvg-name="ES: COSMO" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: COSMO
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1919.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1919.m3u8
 #EXTINF:-1 tvg-name="ES: TVE 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TVE 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1918.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1918.m3u8
 #EXTINF:-1 tvg-name="ES: TNT HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TNT HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1788.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1788.m3u8
 #EXTINF:-1 tvg-name="ES: Odisea HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Odisea HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1912.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1912.m3u8
 #EXTINF:-1 tvg-name="ES: Nat Geo Wild" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1789.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1789.m3u8
 #EXTINF:-1 tvg-name="ES: Eurosport" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Eurosport
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1906.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1906.m3u8
 #EXTINF:-1 tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1917.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1917.m3u8
 #EXTINF:-1 tvg-name="ES: AXNSpain" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: AXNSpain
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1772.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1772.m3u8
 #EXTINF:-1 tvg-name="ES: Andalucia TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Andalucia TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1921.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/y224JRbTdE/AbsmgQTUrC/1921.m3u8
 
 #EXTINF:-1 tvg-name="ES: BEIN LA LIGA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BEIN LA LIGA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2516.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2516.m3u8
 #EXTINF:-1 tvg-name="ES: BEIN LA LIGA 1" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BEIN LA LIGA 1
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2517.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2517.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTE" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR DEPORTE
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2432.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2432.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTE 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR DEPORTE 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2518.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2518.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR FUTBOL" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR FUTBOL
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2519.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2519.m3u8
 #EXTINF:-1 tvg-name="ES: Beinsport HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Beinsport HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2515.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2515.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR GOLF" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR GOLF
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1903.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1903.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR ACCION
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2425.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2425.m3u8
 #EXTINF:-1 tvg-name="ES: GOL TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: GOL TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2514.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2514.m3u8
 #EXTINF:-1 tvg-name="ES: Movistar moto gp" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Movistar moto gp
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1916.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1916.m3u8
 #EXTINF:-1 tvg-name="ES: Movistar F1" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Movistar F1
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1915.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1915.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2427.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2427.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR COMEDIA HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2524.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2524.m3u8
 #EXTINF:-1 tvg-name="ES : MOVISTAR TOROS HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2525.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2525.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR SERIES HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2522.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2522.m3u8
 #EXTINF:-1 tvg-name="ES : MOVISTAR LA LIGA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : MOVISTAR LA LIGA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1785.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1785.m3u8
 #EXTINF:-1 tvg-name="ES: CUATRO HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CUATRO HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2510.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2510.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR 0# HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2512.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2512.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR XTRA HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR XTRA HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/3137.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/3137.m3u8
 #EXTINF:-1 tvg-name="ES: CASA Y PESCA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CASA Y PESCA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2429.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2429.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR SERIES XTRA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2426.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2426.m3u8
 #EXTINF:-1 tvg-name="ES: Canal Cocina" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Canal Cocina
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2430.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2430.m3u8
 #EXTINF:-1 tvg-name="ES: BARCA TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BARCA TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2445.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2445.m3u8
 #EXTINF:-1 tvg-name="ES: TELECINCO" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TELECINCO
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1767.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1767.m3u8
 #EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2511.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2511.m3u8
 #EXTINF:-1 tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2724.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2724.m3u8
 #EXTINF:-1 tvg-name="ES : COMEDY CENTRAL HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1907.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1907.m3u8
 #EXTINF:-1 tvg-name="ES: TCM" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TCM
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2528.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2528.m3u8
 #EXTINF:-1 tvg-name="ES: REAL MADRID TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: REAL MADRID TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2436.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2436.m3u8
 #EXTINF:-1 tvg-name="ES: MEGA" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MEGA
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2721.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2721.m3u8
 #EXTINF:-1 tvg-name="ES : Viajar HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",,ES : Viajar HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1909.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1909.m3u8
 #EXTINF:-1 tvg-name="ES: La 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: La 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2532.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2532.m3u8
 #EXTINF:-1 tvg-name="ES: La 1" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: La 1
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2531.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2531.m3u8
 #EXTINF:-1 tvg-name="ES: BEIN LA LIGA 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: BEIN LA LIGA 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2438.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2438.m3u8
 #EXTINF:-1 tvg-name="ES: ENERGY" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: ENERGY
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2530.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2530.m3u8
 #EXTINF:-1 tvg-name="ES: MOVISTAR DCINE" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2529.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2529.m3u8
 #EXTINF:-1 tvg-name="ES: Baby TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Baby TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2527.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2527.m3u8
 #EXTINF:-1 tvg-name="ES: Antena 3" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Antena 3
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1770.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1770.m3u8
 #EXTINF:-1 tvg-name="ES: antena3 HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: antena3 HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/3135.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/3135.m3u8
 #EXTINF:-1 tvg-name="ES: Disney channel" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Disney channel
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1793.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1793.m3u8
 #EXTINF:-1 tvg-name="ES: FOX" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: FOX
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1790.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1790.m3u8
 #EXTINF:-1 tvg-name="ES: History" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: History
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1928.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1928.m3u8
 #EXTINF:-1 tvg-name="ES: Hollywood HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Hollywood HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1773.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1773.m3u8
 #EXTINF:-1 tvg-name="ES: SyFy HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: SyFy HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1791.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1791.m3u8
 #EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2421.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2421.m3u8
 #EXTINF:-1 tvg-name="ES: LaSextaHD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: LaSextaHD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1768.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1768.m3u8
 #EXTINF:-1 tvg-name="ES: AMC HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: AMC HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2435.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2435.m3u8
 #EXTINF:-1 tvg-name="ES: AMC" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: AMC
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2434.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2434.m3u8
 #EXTINF:-1 tvg-name="ES: FOX Life" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: FOX Life
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1771.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1771.m3u8
 #EXTINF:-1 tvg-name="ES: CUATRO SD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CUATRO SD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1769.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1769.m3u8
 #EXTINF:-1 tvg-name="ES: CALLE13" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: CALLE13
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2422.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2422.m3u8
 #EXTINF:-1 tvg-name="ES: Axn White" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Axn White
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1786.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1786.m3u8
 #EXTINF:-1 tvg-name="ES: 40 TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: 40 TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2423.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/2423.m3u8
 #EXTINF:-1 tvg-name="ES: TVE 24 Hora" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TVE 24 Hora
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1923.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1923.m3u8
 #EXTINF:-1 tvg-name="ES: COSMO" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: COSMO
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1919.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1919.m3u8
 #EXTINF:-1 tvg-name="ES: TVE 2" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TVE 2
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1918.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1918.m3u8
 #EXTINF:-1 tvg-name="ES: TNT HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: TNT HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1788.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1788.m3u8
 #EXTINF:-1 tvg-name="ES: Odisea HD" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Odisea HD
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1912.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1912.m3u8
 #EXTINF:-1 tvg-name="ES: Nat Geo Wild" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1789.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1789.m3u8
 #EXTINF:-1 tvg-name="ES: Eurosport" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Eurosport
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1906.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1906.m3u8
 #EXTINF:-1 tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1917.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1917.m3u8
 #EXTINF:-1 tvg-name="ES: AXNSpain" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: AXNSpain
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1772.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1772.m3u8
 #EXTINF:-1 tvg-name="ES: Andalucia TV" tvg-logo="https://cdn2.iconfinder.com/data/icons/spain-theme/154/spain-espana-flag-nation-bull-128.png",ES: Andalucia TV
-plugin://plugin.video.f4mTester/?name=AceBoxTv&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1921.m3u8
+plugin://plugin.video.f4mTester/?name=JHGMASTER&streamtype=HLSRETRY&amp;url=http://pro213.com/live/Armand0/Santiag0/1921.m3u8
