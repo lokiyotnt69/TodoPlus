@@ -5,10 +5,18 @@
 
 
      <item> 
-            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR lime]LALIGATV[/COLOR]</title> 
+            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR lime]LALIGA[/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
         </item> 
-
+    <item> 
+            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR lime]BEIN SPORT ES[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport HD ES</link> 
+        </item> 
+          <item> 
+            <title>[COLOR lime]JHGMASTER>[/COLOR][COLOR lime]BEINLALIGA[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport LaLiga HD ES</link> 
+        </item> 
+		
 <item>
 <title>[COLOR white][COLOR blue] VERDIRECTO [/COLOR] LIGA[COLOR red]**[/COLOR]</title>
 <sportsdevil>http://vertutele.com/ver-bein-sport-la-liga-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
