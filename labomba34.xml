@@ -5,7 +5,7 @@
     
 
      
-
+ 
  
           <item> 
             <title>#0 HD ES</title> 
@@ -654,5 +654,965 @@
           <item> 
             <title>XTRM ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/6076.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM ES</link> 
+        </item> 
+            <item> 
+            <title>ES: BEIN LA LIGA HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17884.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LA LIGA HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: BEIN SPORTS HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17885.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN SPORTS HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: beIN Max 1 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17883.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: beIN Max 1 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: beIN Max 2 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17882.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: beIN Max 2 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: REAL MADRID HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17878.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: REAL MADRID HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport 2 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17881.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport 2 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17880.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. Partidazo HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17869.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Partidazo HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. La Liga TV BAR ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17871.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. La Liga TV BAR ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. FUTBOL HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17873.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. FUTBOL HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. DEP 1 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DEP 1 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. DEP 2  HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17875.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DEP 2  HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. FORMULA1 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17874.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. FORMULA1 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. MotoGP HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17870.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. MotoGP HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. GOLF ~HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17872.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. GOLF ~HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. TOROS HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. TOROS HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. ACCION HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17891.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ACCION HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. ESTRENOS HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17910.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ESTRENOS HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. COMEDIA HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17890.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. COMEDIA HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. DCINE HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17889.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DCINE HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. SERIES HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17888.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIES HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. SERIES XtraHD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17887.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIES XtraHD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. Xtra HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17886.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Xtra HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: M. COSMO HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17904.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. COSMO HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: #0 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17925.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: A3series HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17924.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A3series HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: AMC HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17923.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: ANTENA 3 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17922.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17921.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN White HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17920.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN White HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: BeMAD HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17919.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BeMAD HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Calle 13 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17918.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL COCINA ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17917.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL COCINA ~</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL SUR ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17916.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL SUR ~</link> 
+        </item> 
+          <item> 
+            <title>ES: CAZAyPESCA HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17915.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CAZAyPESCA HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy Central HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17914.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy Central HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: CUATRO HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17913.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Discovery HD  Spain ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17912.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery HD  Spain ~</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY CH HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17911.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CH HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17909.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX Life HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17908.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX Life HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: GOL HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17879.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: HOLLYWOOD HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17907.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 1 HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17906.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: LA SEXTA HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17905.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: MEZZO LIVEHD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17903.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEZZO LIVEHD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Nat Geo HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17902.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nat Geo HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: NATGEO WILD HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17901.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATGEO WILD HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: NICKELODEON HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17900.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: NON STOP ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17898.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NON STOP ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Odisea HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17899.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Odisea HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: SUNDANCE ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17897.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SUNDANCE ~</link> 
+        </item> 
+          <item> 
+            <title>ES: SyFy HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17896.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SyFy HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17894.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Telecinco HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17895.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17893.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD ~</link> 
+        </item> 
+          <item> 
+            <title>ES: Viajar HD ~</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17892.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Viajar HD ~</link> 
+        </item> 
+          <item> 
+            <title>==== INFANTIL [ES] ====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16482.ts&amp;streamtype=TSDOWNLOADER&amp;name===== INFANTIL [ES] ====</link> 
+        </item> 
+          <item> 
+            <title>BabyTV [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16947.ts&amp;streamtype=TSDOWNLOADER&amp;name=BabyTV [HD]</link> 
+        </item> 
+          <item> 
+            <title>Discovery Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Kids</link> 
+        </item> 
+          <item> 
+            <title>Disney Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16476.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Jr</link> 
+        </item> 
+          <item> 
+            <title>Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>Nick HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick HD</link> 
+        </item> 
+          <item> 
+            <title>Cartoon  Network  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16468.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon  Network  HD</link> 
+        </item> 
+          <item> 
+            <title>Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+        </item> 
+          <item> 
+            <title>Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
+        </item> 
+          <item> 
+            <title>TIIN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16463.ts&amp;streamtype=TSDOWNLOADER&amp;name=TIIN</link> 
+        </item> 
+          <item> 
+            <title>Tooncast</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tooncast</link> 
+        </item> 
+          <item> 
+            <title>==== ENTRETENIMIENTO [ES] ====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16441.ts&amp;streamtype=TSDOWNLOADER&amp;name===== ENTRETENIMIENTO [ES] ====</link> 
+        </item> 
+          <item> 
+            <title>Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+        </item> 
+          <item> 
+            <title>Sony</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sony</link> 
+        </item> 
+          <item> 
+            <title>Cine Sony</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16945.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine Sony</link> 
+        </item> 
+          <item> 
+            <title>Warner Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Warner Channel</link> 
+        </item> 
+          <item> 
+            <title>Universal  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal  HD</link> 
+        </item> 
+          <item> 
+            <title>FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16444.ts&amp;streamtype=TSDOWNLOADER&amp;name=FX</link> 
+        </item> 
+          <item> 
+            <title>AyE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16445.ts&amp;streamtype=TSDOWNLOADER&amp;name=AyE</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16446.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>TruTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16447.ts&amp;streamtype=TSDOWNLOADER&amp;name=TruTV</link> 
+        </item> 
+          <item> 
+            <title>Comedy Central  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central  HD</link> 
+        </item> 
+          <item> 
+            <title>Unicable HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16449.ts&amp;streamtype=TSDOWNLOADER&amp;name=Unicable HD</link> 
+        </item> 
+          <item> 
+            <title>Hola TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hola TV</link> 
+        </item> 
+          <item> 
+            <title>Fashion TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16435.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fashion TV</link> 
+        </item> 
+          <item> 
+            <title>E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16433.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16432.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
+        </item> 
+          <item> 
+            <title>TNT Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16455.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Series</link> 
+        </item> 
+          <item> 
+            <title>El Gourmet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16454.ts&amp;streamtype=TSDOWNLOADER&amp;name=El Gourmet</link> 
+        </item> 
+          <item> 
+            <title>El Garage</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16453.ts&amp;streamtype=TSDOWNLOADER&amp;name=El Garage</link> 
+        </item> 
+          <item> 
+            <title>Glitz</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Glitz</link> 
+        </item> 
+          <item> 
+            <title>Lifetime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16456.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime</link> 
+        </item> 
+          <item> 
+            <title>Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16457.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life</link> 
+        </item> 
+          <item> 
+            <title>Distrito Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16458.ts&amp;streamtype=TSDOWNLOADER&amp;name=Distrito Comedia</link> 
+        </item> 
+          <item> 
+            <title>TBS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16459.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS</link> 
+        </item> 
+          <item> 
+            <title>Univision tlnovelas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16949.ts&amp;streamtype=TSDOWNLOADER&amp;name=Univision tlnovelas</link> 
+        </item> 
+          <item> 
+            <title>Tlnovelas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tlnovelas</link> 
+        </item> 
+          <item> 
+            <title>AZ Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16426.ts&amp;streamtype=TSDOWNLOADER&amp;name=AZ Mundo</link> 
+        </item> 
+          <item> 
+            <title>==== DEPORTES [ES] ====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15716.ts&amp;streamtype=TSDOWNLOADER&amp;name===== DEPORTES [ES] ====</link> 
+        </item> 
+          <item> 
+            <title>Fighting Sports Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fighting Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fighting Sports Network HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17025.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FOX PPV Evento UFC/WWE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18767.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX PPV Evento UFC/WWE</link> 
+        </item> 
+          <item> 
+            <title>EC: CNT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17817.ts&amp;streamtype=TSDOWNLOADER&amp;name=EC: CNT SPORT</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS en espanol [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15713.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS en espanol [HD]</link> 
+        </item> 
+          <item> 
+            <title>Univision Deportes [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Univision Deportes [HD]</link> 
+        </item> 
+          <item> 
+            <title>UNIVISION TDN [SD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNIVISION TDN [SD]</link> 
+        </item> 
+          <item> 
+            <title>TDN [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17747.ts&amp;streamtype=TSDOWNLOADER&amp;name=TDN [HD]</link> 
+        </item> 
+          <item> 
+            <title>TDN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15704.ts&amp;streamtype=TSDOWNLOADER&amp;name=TDN</link> 
+        </item> 
+          <item> 
+            <title>Chivas TV [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chivas TV [HD]</link> 
+        </item> 
+          <item> 
+            <title>ESPN Deportes [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15702.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN Deportes [HD]</link> 
+        </item> 
+          <item> 
+            <title>ESPN +</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18700.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN +</link> 
+        </item> 
+          <item> 
+            <title>ESPN  [HD] *</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17749.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN  [HD] *</link> 
+        </item> 
+          <item> 
+            <title>ESPN2 [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN2 [HD]</link> 
+        </item> 
+          <item> 
+            <title>ESPN3 [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17745.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN3 [HD]</link> 
+        </item> 
+          <item> 
+            <title>PXtv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PXtv</link> 
+        </item> 
+          <item> 
+            <title>AyM Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AyM Sports&amp;streamtype=TSDOWNLOADER&amp;name=AyM Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15693.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FOX Deportes [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Deportes [HD]</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports [HD]</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15687.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports 2 [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 2 [HD]</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15685.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports 3 [HD]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 3 [HD]</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15683.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports HD (Colombia)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports HD (Colombia)</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18432.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>ES: BEINSPORTS Main HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18013.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEINSPORTS Main HD</link> 
+        </item> 
+          <item> 
+            <title>ES: BEINMAX 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18012.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEINMAX 1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: BEINMAX 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18011.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEINMAX 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: BEINMAX 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18010.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEINMAX 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18006.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18005.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport HD</link> 
+        </item> 
+          <item> 
+            <title>ES: GOL HD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18008.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL HD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18009.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. DEP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18003.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DEP 1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. DEP 2  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18002.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DEP 2  HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18001.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. FUTBOL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18000.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. GOLF HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. Partidazo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17999.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Partidazo HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. Toros HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17995.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Toros HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MotoGP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17996.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MotoGP HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOTORS TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17998.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOTORS TV HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17997.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar F1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Real Madrid HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18007.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Teledeporte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/18004.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teledeporte HD</link> 
+        </item> 
+          <item> 
+            <title>La Liga TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/15659.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga TV</link> 
+        </item> 
+          <item> 
+            <title>ES: #0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17994.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17993.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E HD</link> 
+        </item> 
+          <item> 
+            <title>ES: A3series HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17992.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A3series HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17991.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17990.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17989.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17988.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN White HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Baby TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17987.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Baby TV HD</link> 
+        </item> 
+          <item> 
+            <title>ES: BeMad tv HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17986.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BeMad tv HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Boing HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17985.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Boing HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17984.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Cocina HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17983.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Cocina HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL SUR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17982.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL SUR HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Castilla La Mancha HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17981.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Castilla La Mancha HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Caza y Pesca HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17980.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza y Pesca HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Clan TV Spain HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17979.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan TV Spain HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17978.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy central HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Cosmopolitan HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17977.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cosmopolitan HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Cuatro HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17976.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cuatro HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DARK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17975.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DARK HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Dcine Espanol HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17974.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Dcine Espanol HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Discovery Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17973.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery Channel HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Discovery CI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17972.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery CI HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Discovery MAX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17971.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery MAX HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17970.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney Junior HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17969.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Junior HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney XD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17968.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney XD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: ExtremaduraTV Spain HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17966.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ExtremaduraTV Spain HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17965.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17964.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17963.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: GARAGE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17962.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GARAGE TV HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Historia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17961.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Historia HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17960.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17959.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17958.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17956.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17955.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17954.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17953.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17967.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17952.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17951.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17950.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MEGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17949.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEGA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Mezzo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17948.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Mezzo HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MTV SPAIN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17947.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV SPAIN HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Music Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17938.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Music Channel HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Nat Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17946.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nat Geo HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NatGeo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17945.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NatGeo Wild HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Nick JR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17944.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nick JR HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Nickelodeon HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17943.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nickelodeon HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Non Stop HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17942.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Non Stop HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Odisea HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17941.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Odisea HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Panda HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17940.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Panda HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Paramount Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17939.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Paramount Channel HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SOMOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17929.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SOMOS HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SUNDANCE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17937.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SUNDANCE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SyFy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17936.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SyFy HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17935.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Telecinco HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17934.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TELEMADRID HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17932.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELEMADRID HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17933.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Tv Galicia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17931.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Tv Galicia HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Viajar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17930.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Viajar HD</link> 
+        </item> 
+          <item> 
+            <title>ES: XTRM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/17957.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: XTRM HD</link> 
+        </item> 
+          <item> 
+            <title>ES:Mega (HD)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Mega (HD)</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena 3 Internacional HD (1080p)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16948.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3 Internacional HD (1080p)</link> 
+        </item> 
+          <item> 
+            <title>ES:Antena 3 (HD)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Antena 3 (HD)</link> 
+        </item> 
+          <item> 
+            <title>ES:Antena 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/4150.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Antena 3</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16769.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3</link> 
+        </item> 
+          <item> 
+            <title>ES: 24 Horas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 Horas</link> 
+        </item> 
+          <item> 
+            <title>ES: 8 Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16764.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 8 Madrid TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan TVE</link> 
+        </item> 
+          <item> 
+            <title>ES: Cuatro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16768.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cuatro</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF Telecinco</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16771.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16770.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2</link> 
+        </item> 
+          <item> 
+            <title>ES: La Sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16766.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
+        </item> 
+          <item> 
+            <title>ES: Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16767.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco</link> 
+        </item> 
+          <item> 
+            <title>ES: Teledeporte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teledeporte</link> 
+        </item> 
+          <item> 
+            <title>ES: TeleMadrid Sat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16763.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TeleMadrid Sat</link> 
+        </item> 
+          <item> 
+            <title>ES:Calle 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12821.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Calle 13</link> 
+        </item> 
+          <item> 
+            <title>ES:TVE Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12818.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TVE Internacional</link> 
+        </item> 
+          <item> 
+            <title>ES:Hispan TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/14080.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Hispan TV</link> 
+        </item> 
+          <item> 
+            <title>ES:Clan TVE (HD)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12817.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Clan TVE (HD)</link> 
+        </item> 
+          <item> 
+            <title>ES:Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12828.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>ES:Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12822.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>ES:Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12823.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>ES:National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12825.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:National Geographic</link> 
+        </item> 
+          <item> 
+            <title>ES:National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12826.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:National Geographic Wild</link> 
+        </item> 
+          <item> 
+            <title>ES:Odisea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12824.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Odisea</link> 
+        </item> 
+          <item> 
+            <title>ES:Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12819.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Nova</link> 
+        </item> 
+          <item> 
+            <title>ES:Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/12827.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Syfy</link> 
+        </item> 
+          <item> 
+            <title>ES: Benfica TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/Hugo123/Hugo123/16939.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Benfica TV</link> 
         </item> 
   
