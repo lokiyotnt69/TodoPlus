@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR] </title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -24,7 +24,7 @@
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 2 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 2 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda</jsonrpc>
 <humbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
@@ -33,15 +33,6 @@
 
 
 
------------------------------------ Lifefootballvideo.com P2P Sport -------------------------------------------------------	
-
- <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 3 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.p2psport/?mode=livefootballvideo.com</jsonrpc>
-<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
-<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
-</item>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +40,7 @@
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 4 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 4 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -77,7 +68,7 @@
 ---------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 5 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 5 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -99,7 +90,7 @@
 
 			
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 6 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 6 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -131,7 +122,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 7 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 7 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -161,7 +152,7 @@
 ---------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 8 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 8 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -196,7 +187,7 @@
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 9 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 9 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist]</link>
 
@@ -229,7 +220,7 @@
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 10 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 10 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 
 <link>$doregex[makelist2]</link>
 
@@ -272,7 +263,7 @@
 ----------------------------------- Lifefootballvideo.com Castaway-------------------------------------------------------	
 
  <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 11 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 11 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.castaway/?mode=open_live_sport&amp;site=livefootballvideo</jsonrpc>
 <thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
@@ -284,7 +275,7 @@
 ---------------------------------- Lifefootball.ws sportsdevil -------------------------------------------------------	
 
  <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 12 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 12 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3DLiveFootball.ws%26url%3Dlivesports%252Flivefootball.ws.cfg%26definedIn%3Dlivesports.cfg%26director%3DLivefootball.ws%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Clivefootballws.jpg&amp;mode=1</jsonrpc>
 <thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
@@ -296,7 +287,7 @@
 ---------------------------------- Livetv.ru sportsdevil -------------------------------------------------------	
 
  <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 13 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] AGENDA [/COLOR][COLOR orange] ARENA 13 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3D59%26title.tmp%3DFootball%26ticon.tmp%3D%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F1.gif%26url%3Dhttp%253A%252F%252Flivetv123.net%252Fenx%252Fallupcomingsports%252F1%252F%26cfg%3Dlivetv.ru.videos.cfg%2540CATEGORY%25401%26definedIn%3Dlivesports%252Flivetv.ru.cfg%26director%3DLiveTV.ru%26id.tmp%3D1%26referer%3Dhttp%253A%252F%252Flivetv123.net%252Fen%252Fallupcoming%26genre%3DLive%2BSports%26title%3DFootball%2B%252859%2529%26icon.tmp%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FFootball.png%26type%3Drss%26icon%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FFootball.png&amp;mode=1</jsonrpc>
 <thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
