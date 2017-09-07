@@ -114,7 +114,7 @@
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 		<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
-		<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+		<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
@@ -176,7 +176,7 @@
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
-			<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+			<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
@@ -207,7 +207,7 @@
 	<title>[COLOR orange] [makelist.param3] [/COLOR][COLOR deepskyblue] [makelist.param2] [makelist.param4][/COLOR] [COLOR lime][makelist.param5][/COLOR] </title>
 <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=LReylist</link>
 <thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
