@@ -4,7 +4,80 @@
 
 
 
-
+#EXTINF:-1,TC HD 
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 
+#EXTINF:-1, 
+/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="Francia", BFM Sport 
+#EXTINF:-1,RPC 
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1,ESPN 2 
+https://live64.vkuserlive.com/620006/live/1kYH5yNAfz-wm4Yz/playlist.m3u8 
+#EXTINF:-1,1 canal directv 
+https://live9.userapi.com/639903/live/0xhZ4rlAf6WGPfk2/playlist.m3u8 
+#EXTINF:-1,2 bein sports 
+http://edge505.livesports.pw/live/verbeinsportn24048f7344dc762b8/index.m3u8 
+#EXTINF:-1,DEPORTES:Univision TDN 
+http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8 
+#EXTINF:-1,Antena latina Peru 
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8 
+#EXTINF:-1,discovery xd 
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8 
+#EXTINF:-1,Discovery_Channel 
+http://wowza2.mysoltv.com:1992/Latino_Discovery_Channel/index.m3u8 
+#EXTINF:-1,DEPORTES:Espn Brasil 
+http://5.79.68.138:8081/look/espnbr/playlist.m3u8 
+#EXTINF:-1,DEPORTES:Teletrak 
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8 
+#EXTINF:-1,DEPORTES:Todo DEPORTES 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8 
+#EXTINF:-1,Disney 
+http://wowza2.mysoltv.com:1992/Latino_Disney/index.m3u8 
+#EXTINF:-1,DISTRITO_COMEDIA 
+http://wowza2.mysoltv.com:1992/Latino_DISTRITO_COMEDIA/index.m3u8 
+#EXTINF:-1,FOX_LIFE 
+http://wowza2.mysoltv.com:1992/Latino_FOX_LIFE/index.m3u8 
+#EXTINF:-1,ENTRETENIMIENTO:Cinemax 
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8 
+#EXTINF:-1,FX 
+http://wowza2.mysoltv.com:1992/Latino_FX/index.m3u8 
+#EXTINF:-1,Paramount Channel 1 
+http://hulk.desiiptv.desi:25461/live/Asia_package/12345/5485.m3u8 
+#EXTINF:-1,Glitz 
+http://wowza2.mysoltv.com:1992/Latino_Glitz/index.m3u8 
+#EXTINF:-1,Gourmet 
+http://wowza2.mysoltv.com:1992/Latino_Gourmet/index.m3u8 
+#EXTINF:-1,I_SAT 
+http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8 
+#EXTINF:-1,DEPORTES:Bein Sports 
+http://edge502.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8 
+#EXTINF:-1,DEPORTES:Movistar Futbol 
+http://edge505.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8 
+#EXTINF:-1,DEPORTES:Gol TV España 
+http://edge503.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8 
+#EXTINF:-1,DEPORTES:Gol TV España 
+http://edge504.livesports.pw/live/vergoltvesp19ddfa9c6c12f6/index.m3u8 
+#EXTINF:-1,Deporte:All Sports 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1,DEPORTES:Movistar Deportes 1 
+http://edge16.verliga.me/live/plusdeportes/index.m3u8 
+#EXTINF:-1,DEPORTES:Movistar Deportes 1 
+http://edge504.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8 
+#EXTINF:-1,DEPORTES:Movistar Deportes 2 
+http://edge12.verliga1.pw/live/plusdeportes2/index.m3u8 
+#EXTINF:-1,DEPORTES:Movistar Deportes 2 
+http://edge501.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8 
+#EXTINF:-1,DEPORTES:Teledeporte 
+http://edge4.telesport.pw/live/teledeporte/index.m3u8 
+#EXTINF:-1,DEPORTES:Teledeporte 
+http://edge506.livesports.pw/live/verteledeporteespa011482c/index.m3u8 
+#EXTINF:-1,DEPORTES:Moto Gp 
+http://edge9.verliga1.pw/live/verliga4/index.m3u8 
+#EXTINF:-1,DEPORTES:Eurosport 1 
+http://edge506.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8 
+#EXTINF:-1,DEPORTES:Eurosport 2 
+http://edge14.verliga.me/live/eurosport2/index.m3u8 
+#EXTINF:-1,DEPORTES:Toros TV 
+http://cdn1.shurs.xyz/verdirectotv/9/playlist.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/tve_la1_logo_since_2008.png?ssl=1&w=450" group-title="España", La 1
