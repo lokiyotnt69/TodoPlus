@@ -3,6 +3,17 @@
 
 
 
+#EXTINF:-1,MOVISTAR CINE
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/1.ts
+#EXTINF:-1,SYFY
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/8.ts
+#EXTINF:-1, FOX
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/16.ts
+#EXTINF:-1,BEIN LIGA HD
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
+#EXTINF:-1,MOTOGP
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/30.ts
+#EXTINF:-1,
 
 #EXTINF:-1,TC HD 
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 
