@@ -1,6 +1,350 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
 
+
+ 
+<item>
+<title>[COLOR lime]SPORT365 (addon deportes a la carta necesario)[/COLOR] [COLOR white](CLICAR AQUI)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/apple-touch-icon-114x114.png</thumbnail>
+</item>
+
+
+
+ 
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.1[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/$doregex[canal]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://www.arenavision.in/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.2[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.ru/$doregex[canal]</page>
+			<referer>http://www.arenavision.ru</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://www.arenavision.ru/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.3[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.cf/$doregex[canal]</page>
+			<referer>http://arenavision2017.cf</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.cf/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.cf</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.4[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.ga/$doregex[canal]</page>
+			<referer>http://arenavision2017.ga</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.ga/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.ga</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.5[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.6[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.top/$doregex[canal]</page>
+			<referer>http://arenavision.top</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision.top/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.top</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.7[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.us/$doregex[canal]</page>
+			<referer>http://arenavision.us</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision.us/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.us</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.8[/COLOR][COLOR violet][I] (actualizado 22/11/2017)  [/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR orange][makelist.param1] [/COLOR]  [COLOR white][makelist.param2] [/COLOR][COLOR skyblue][makelist.param3] [/COLOR] [COLOR deepskyblue][B][makelist.param5] [/B] [/COLOR][COLOR lime] [makelist.param6] [/COLOR]  [COLOR deepskyblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.ml/$doregex[canal]</page>
+			<referer>http://arenavision2017.ml</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.ml/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.ml</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+---------------------------------- Lifefootball.ws sportsdevil -------------------------------------------------------	
+
+ <item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.9[/COLOR][COLOR violet][I] (actualizado 16/11/2017)  [/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3DLiveFootball.ws%26url%3Dlivesports%252Flivefootball.ws.cfg%26definedIn%3Dlivesports.cfg%26director%3DLivefootball.ws%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Clivefootballws.jpg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+---------------------------------- Livetv.ru sportsdevil -------------------------------------------------------	
+
+ <item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.10[/COLOR][COLOR violet][I] (actualizado 16/11/2017)  [/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3D59%26title.tmp%3DFootball%26ticon.tmp%3D%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F1.gif%26url%3Dhttp%253A%252F%252Flivetv123.net%252Fenx%252Fallupcomingsports%252F1%252F%26cfg%3Dlivetv.ru.videos.cfg%2540CATEGORY%25401%26definedIn%3Dlivesports%252Flivetv.ru.cfg%26director%3DLiveTV.ru%26id.tmp%3D1%26referer%3Dhttp%253A%252F%252Flivetv123.net%252Fen%252Fallupcoming%26genre%3DLive%2BSports%26title%3DFootball%2B%252859%2529%26icon.tmp%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FFootball.png%26type%3Drss%26icon%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FFootball.png&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+----------------------------------- Lifefootballvideo.com P2P Sport -------------------------------------------------------	
+
+ <item>
+<title>[COLOR lime][B]Agenda Acestream:[/B][/COLOR][COLOR orange] Op.11[/COLOR][COLOR violet][I] (actualizado 16/11/2017)  [/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=livefootballvideo.com</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 
       <title>[COLOR red]ARENAVISION[/COLOR] [COLOR white]pagina doble[/COLOR]</title>
